@@ -1,0 +1,70 @@
+project:
+  type: website
+  title: "CoastWatch Workshop"
+  execute-dir: project
+  output-dir: docs
+  # render: 
+  #     - index.qmd
+
+
+website:
+  title: "CoastWatch Workshop"
+  site-url: https://coastwatch-training.github.io/coastwatch-workshops
+  repo-url: https://github.com/coastwatch-training/coastwatch-workshops
+  repo-actions: [issue] #[edit, source, issue]
+  favicon: images/coastwatch.png  
+    
+  page-footer:
+    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    left: "&copy; CC-By CoastWatch, 2024"
+
+  # navbar:
+  #   background: primary
+  #   left:
+  #     - href: index.qmd
+  #       text: Home
+  #     - about.qmd
+  #   right:
+  #     - icon: github
+  #       href: https://github.com/coastwatch-training/coastwatch-workshops
+  sidebar:
+    background: "#D9E3E8"
+    logo: "images/coastwatch.png "
+    favicon: images/coastwatch.png 
+    pinned: true
+    align: center
+    tools: 
+      - icon: globe
+        href: https://polarwatch.noaa.gov
+        text: "Openscapes.org"
+      - icon: github
+        href: https://github.com/polarwatch
+    style: "docked"
+    search: true
+    collapse-level: 1
+    contents:
+      - href: index.qmd
+        text: Main
+      - href: courses/seaice24.md
+        text: 2024 Sea Ice Workshop
+     # - section: Past Workshops
+        # text: Upcoming Workshops
+        contents: 
+          - href: #
+            text: Past workshops
+      # - contact.qmd
+  page-navigation: true
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+callout-appearance: simple
+
+# date: today
+# date-format: iso
+
+# jupyter: python-3.9
