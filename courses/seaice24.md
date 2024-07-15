@@ -3,7 +3,7 @@ title: "2024 PolarWatch Sea Ice Training"
 subtitle: "October 21, 2024 Virtual 9am - 4pm (Pacific Time)"
 ---
 
-PolarWatch node of the CoastWatch is hosting a free, virtual training class on October 21, 2024 (9am-3pm Pacific Time). Registration is now open. 
+PolarWatch node of the CoastWatch is hosting a free, virtual training class on October 21, 2024 (9am-4pm Pacific Time). Registration is now open. 
 
 Click here to [Register](https://lp.constantcontactpages.com/ev/reg/78xuhzs/lp/e266250c-b995-44e4-841e-97b4cc22bbec).
 
@@ -35,9 +35,8 @@ Many satellite sea ice products are available for download from NOAA and many ot
 | 13:30 - 13:45 | [Presentation 9: PolarWatch Portal Demo  ](presentation9.qmd)                      | Sunny Hospital         |
 | 13:45 - 14:00 | [Presentation 10: CoastWatch Viewer dem0 ](presentation10.qmd)                     | Michael Sorocco          |
 | 14:00 - 14:15 | Break                                                                              |  |                                                         
-| 11:45 - 12:00 | [Presentation 11: zOverview of Tutorials ](presentation11.qmd)                     |  Cara Wilson        |
-                                                      |                              |
-| 10:45 - 11:00 | [Presentation 3: PolarWatch Data Catalog](presentation4.qmd)     |              |
+| 14:15 - 14:30 | [Presentation 11: Overview of Tutorials ](presentation11.qmd)                     |  Cara Wilson        |
+| 14:30 - 16:00 | [Hand's on time, with instuctor's guidance (if needed)  ]     |  All            |
 
 
 
