@@ -23,7 +23,7 @@ Many satellite sea ice products are available for download from NOAA and many ot
 | Time          | Topic                                                                         | Presenter                    |
 |:-------------:|:-----------------------------------------------------------------------------:|:----------------------------:|
 | 9:00 - 9:30   | [Presentation 1: Introduction to NOAA CoastWatch](presentation1.qmd)               | Cara Wilson           | 
-| 9:35 - 10:00  | [Presentation 2: Sea Ice 101](presentation2.qmd)                                   | Ludovic Brucker       |
+| 9:30 - 10:00  | [Presentation 2: Sea Ice 101](presentation2.qmd)                                   | Ludovic Brucker       |
 | 10:00 - 10:30 | [Presentation 3: Sea Ice Microlesson](presentation3.qmd)                           | Kevin Fuell           |
 | 10:30 - 10:45 | Break                                                                              |                       |
 | 10:45 - 11:15 | [Presentation 4: Sea Ice from SAR](presentation4.qmd)                              | Chris Jackson         |
