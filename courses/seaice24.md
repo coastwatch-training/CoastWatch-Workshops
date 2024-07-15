@@ -3,7 +3,7 @@ title: "2024 PolarWatch Sea Ice Training"
 subtitle: "October 21, 2024 Virtual 9am - 4pm (Pacific Time)"
 ---
 
-PolarWatch node of the CoastWatch is hosting a virtual training class on __October 21, 2024 (9am-3pm Pacific Time). The registration is now open and free. 
+PolarWatch node of the CoastWatch is hosting a free, virtual training class on October 21, 2024 (9am-3pm Pacific Time). Registration is now open. 
 
 Click here to [Register](https://lp.constantcontactpages.com/ev/reg/78xuhzs/lp/e266250c-b995-44e4-841e-97b4cc22bbec).
 
@@ -25,13 +25,16 @@ Many satellite sea ice products are available for download from NOAA and many ot
 | 9:00 - 9:30 | [Presentation 1: Introduction to NOAA CoastWatch](presentation1.qmd)                 | Cara Wilson          |
 | 9:35 - 10:00 | [Presentation 2: Sea Ice 101](presentation2.qmd)     | Ludovic Brucker                |
 | 10:05 - 10:30 | [Presentation 3: Sea Ice Microlesson](presentation3.qmd)     | Kevin Fuell               |
-| 10:35 - 10:45  | Coffee break                                                                  |                              |
-| 10:45 - 11:00 | [Presentation 3: Projections](presentation4.qmd)     | Michael Soracco             |
-| 11:05 - 11:20 | [Presentation 4: Projections in Action](presentation5.qmd)     | Peter Hollman             |
-| 11:20 - 11:35 | [Presentation 5: PolarWatch Data Catalog](presentation6.qmd)     | Sunny Hospital            |
-| 11:35 - 11:45  | Coffee break                                                                  |     
-| 11:45 - 12:00 | [Presentation 6: Lake Ice](presentation7.qmd)     | Andrea/Songzhi          |
-| 12:00 - 1:00  | Lunch break                                                                   |                              |
+| 10:30 - 10:45  | Break                                                                  |                              |
+| 10:45 - 11:15 | [Presentation 4: Sea Ice from SAR](presentation4.qmd)     | Chris Jackson             |
+| 11:15 - 11:30 | [Presentation 5: Projections - Why they Matter](presentation4.qmd)     | Michael Soracco             |
+| 11:30 - 11:45 | [Presentation 6: Ice in the Great Lakes](presentation5.qmd)     |  Andrea/Songzhi              |
+| 11:45 - 12:45  | Lunch break            |                              |  
+| 11:20 - 11:35 | [Presentation 7:  ](presentation6.qmd)     |             |
+| 12:00 - 1:00  | Lunch break             | 11:35 - 11:45  | Coffee break                                                                  |     
+| 11:45 - 12:00 | [Presentation 6: Projections in Action ](presentation7.qmd)     |        Peter Hollman  |
+                                                      |                              |
+| 10:45 - 11:00 | [Presentation 3: PolarWatch Data Catalog](presentation4.qmd)     | Sunny Hospital             |
 
 
 
