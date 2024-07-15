@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "CoastWatch Workshops",
+    "section": "",
+    "text": "CoastWatch regularly organizes and offers in-person and online satellite training classes or workshops featuring lectures, tutorials, & tool demonstrations.\nDuring in-person and online satellite course, participants learn about environmental satellite data and how to easily obtain it. Participants also gain hands on experience working with the data of interest to them. A major goal of the course is to provide scientists who are not regular users of satellite data with the knowledge and tools they need to incorporate satellite data into their research and management projects.\nFor questions or more information about the upcoming satellite training classes, please contact us.",
+    "crumbs": [
+      "Main"
+    ]
+  },
+  {
+    "objectID": "courses/seaice24.html",
+    "href": "courses/seaice24.html",
+    "title": "2024 PolarWatch Sea Ice Training",
+    "section": "",
+    "text": "PolarWatch node of the CoastWatch is hosting a virtual training class and the registration is now open. CoastWatch is hosting a virtual training class on October 21, 2024 and is free and open to all.\nClick here to Register.",
+    "crumbs": [
+      "2024 Sea Ice Workshop"
+    ]
+  },
+  {
+    "objectID": "courses/seaice24.html#course-description",
+    "href": "courses/seaice24.html#course-description",
+    "title": "2024 PolarWatch Sea Ice Training",
+    "section": "Course Description",
+    "text": "Course Description\nMany satellite sea ice products are available for download from NOAA and many other data providers: e.g. sea ice concentration, sea ice thickness, sea ice age, sea ice temperature, and sea ice extent. It can often be challenging to know the differences between the products and how each can be applied to a user’s specific application. For example, the spatial resolutions of the products can vary widely, largely dependent on the type of satellite measurement the product is derived from (passive microwave, visible radiometry or synthetic aperture radar). Additionally, when working with data in the high-latitudes issues of data projection invariably arise and can complicate accessing and working with data. To address these issues, NOAA’s PolarWatch node has developed a 1-day (6 hours) online course with the following training objectives.",
+    "crumbs": [
+      "2024 Sea Ice Workshop"
+    ]
+  },
+  {
+    "objectID": "courses/seaice24.html#objectives",
+    "href": "courses/seaice24.html#objectives",
+    "title": "2024 PolarWatch Sea Ice Training",
+    "section": "Objectives",
+    "text": "Objectives\n\nDescribe the basic types of sea-ice products available from satellite data\nGive an overview of working with different projections\nExplore the data available on the PolarWatch portal\nProvide hands-on time to access data and try tutorials\nIntroduce CoastWatch and other sea ice satellite data training resources",
+    "crumbs": [
+      "2024 Sea Ice Workshop"
+    ]
+  },
+  {
+    "objectID": "courses/seaice24.html#schedule",
+    "href": "courses/seaice24.html#schedule",
+    "title": "2024 PolarWatch Sea Ice Training",
+    "section": "Schedule",
+    "text": "Schedule\n\n\n\nTime\nTopic\nPresenter\n\n\n\n\n9:00 - 9:30\nPresentation 1: Introduction to NOAA CoastWatch\nCara Wilson\n\n\n9:35 - 10:00\nPresentation 2: Sea Ice 101\nLudovic Brucker\n\n\n10:05 - 10:30\nPresentation 3: Sea Ice Microlesson\nKevin Fuell\n\n\n10:35 - 10:45\nCoffee break\n\n\n\n10:45 - 11:00\nPresentation 3: Projections\nMichael Soracco\n\n\n11:05 - 11:20\nPresentation 4: Projections in Action\nPeter Hollman\n\n\n11:20 - 11:35\nPresentation 5: PolarWatch Data Catalog\nSunny Hospital\n\n\n11:35 - 11:45\nCoffee break\n\n\n\n11:45 - 12:00\nPresentation 6: Lake Ice\nAndrea/Songzhi\n\n\n12:00 - 1:00\nLunch break",
+    "crumbs": [
+      "2024 Sea Ice Workshop"
+    ]
+  },
+  {
+    "objectID": "courses/seaice24.html#in-preparation-for-the-workshop",
+    "href": "courses/seaice24.html#in-preparation-for-the-workshop",
+    "title": "2024 PolarWatch Sea Ice Training",
+    "section": "In preparation for the workshop",
+    "text": "In preparation for the workshop",
+    "crumbs": [
+      "2024 Sea Ice Workshop"
+    ]
+  },
+  {
+    "objectID": "courses/seaice24.html#resources",
+    "href": "courses/seaice24.html#resources",
+    "title": "2024 PolarWatch Sea Ice Training",
+    "section": "Resources",
+    "text": "Resources\n\nCoastwatch tutorials\nCoastwatch Lecture series\nSea Ice Microlesson",
+    "crumbs": [
+      "2024 Sea Ice Workshop"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
