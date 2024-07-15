@@ -45,13 +45,13 @@ website:
     contents:
       - href: index.qmd
         text: Main
-      - href: courses/seaice24.md
+      - href: courses/seaice24.md      
         text: 2024 Sea Ice Workshop
      # - section: Past Workshops
         # text: Upcoming Workshops
-        contents: 
-          - href: #
-            text: Past workshops
+        # contents: 
+        #   - href: #
+        #     text: Past workshops
       # - contact.qmd
   page-navigation: true
 
