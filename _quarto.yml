@@ -15,7 +15,6 @@ website:
   favicon: images/coastwatch.png  
     
   page-footer:
-    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
     left: "&copy; CC-By CoastWatch, 2024"
 
   # navbar:
@@ -35,10 +34,10 @@ website:
     align: center
     tools: 
       - icon: globe
-        href: https://polarwatch.noaa.gov
+        href: https://coastwatch.noaa.gov
         text: "Openscapes.org"
       - icon: github
-        href: https://github.com/polarwatch
+        href: https://github.com/coastwatch-training
     style: "docked"
     search: true
     collapse-level: 1
