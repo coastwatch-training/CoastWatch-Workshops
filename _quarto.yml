@@ -44,14 +44,13 @@ website:
     contents:
       - href: index.qmd
         text: Main
-      - href: courses/seaice24.md      
-        text: 2024 Sea Ice Workshop
-     # - section: Past Workshops
-        # text: Upcoming Workshops
-        # contents: 
-        #   - href: #
-        #     text: Past workshops
-      # - contact.qmd
+      - section: Upcoming Trainings
+        contents:
+        - hrerf: courses/afs24.md
+          text: 2014 AFS Workshop
+        - href: courses/seaice24.md      
+          text: 2024 Sea Ice Data Course
+      - section: Past Trainings
   page-navigation: true
 
 
