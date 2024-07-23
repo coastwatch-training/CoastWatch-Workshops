@@ -1,5 +1,71 @@
 [
   {
+    "objectID": "courses/afs24.html",
+    "href": "courses/afs24.html",
+    "title": "Satellite and Animal Telemetry Data Training",
+    "section": "",
+    "text": "Training on accessing Oceanographic Satellite Data from NOAA CoastWatch and using the Animal Telemetry Network Portal. Training day held Sept 14, 2024 before the annual AFS (American Fisheries Society) meeting in Honolulu, Hawaii.",
+    "crumbs": [
+      "Upcoming Trainings",
+      "2024 AFS Workshop"
+    ]
+  },
+  {
+    "objectID": "courses/afs24.html#course-description",
+    "href": "courses/afs24.html#course-description",
+    "title": "Satellite and Animal Telemetry Data Training",
+    "section": "",
+    "text": "Training on accessing Oceanographic Satellite Data from NOAA CoastWatch and using the Animal Telemetry Network Portal. Training day held Sept 14, 2024 before the annual AFS (American Fisheries Society) meeting in Honolulu, Hawaii.",
+    "crumbs": [
+      "Upcoming Trainings",
+      "2024 AFS Workshop"
+    ]
+  },
+  {
+    "objectID": "courses/afs24.html#instructors",
+    "href": "courses/afs24.html#instructors",
+    "title": "Satellite and Animal Telemetry Data Training",
+    "section": "Instructors",
+    "text": "Instructors\n\n\n\n\n\n\n\nName\nAffiliation\n\n\n\n\nCara Wilson\nCoastWatch/West Coast Node, PI\n\n\nDale Robinson\nCoastWatch/West Coast Node, node manager\n\n\nMegan McKinzie\nATN Data Coordinator\n\n\nDaisy Shi\nCoastWatch/Pacific OceanWatch, node manager",
+    "crumbs": [
+      "Upcoming Trainings",
+      "2024 AFS Workshop"
+    ]
+  },
+  {
+    "objectID": "courses/afs24.html#objectives",
+    "href": "courses/afs24.html#objectives",
+    "title": "Satellite and Animal Telemetry Data Training",
+    "section": "Objectives",
+    "text": "Objectives",
+    "crumbs": [
+      "Upcoming Trainings",
+      "2024 AFS Workshop"
+    ]
+  },
+  {
+    "objectID": "courses/afs24.html#schedule",
+    "href": "courses/afs24.html#schedule",
+    "title": "Satellite and Animal Telemetry Data Training",
+    "section": "Schedule",
+    "text": "Schedule\n\n\n\n\n\n\n\n\nTime\nTopic\nPresenter\n\n\n\n\n8:00 - 8:45\nIntroductions\nCara Wilson\n\n\n8:45 - 9:00\nSession Overview - CoastWatch, ATN and the workshop component\nCara Wilson\n\n\n9:00 - 10:00\nIntroduction to Coastwatch satellite datasets and data portals\nCara Wilson\n\n\n10:00 - 10:30\nUsing the ERDDAP data server\nCara Wilson\n\n\n10:30 - 10:45\nBreak\n\n\n\n10:45 - 12:00\nAccessing ERDDAP using scripts (R, python)\nCara Wilson\n\n\n12:00 - 1:00\nLunch break - on your own\n\n\n\n1:00 - 1:15\nIntro to ATN and the DAC\nMegan McKenzie\n\n\n1:15 - 2:00\nDemo of ATN data portal\nMegan McKenzie\n\n\n2:00 - 2:30\nAccessing public ATN datasets\nMegan McKenzie\n\n\n2:30 - 2:45\nBreak\n\n\n\n2:45 - 3:15\nWorkshop, part 1: Linking CoastWatch and ATN data using scripts\nCara Wilson\n\n\n3:15 - 4:30\nWorkshop, part 2: Hand’s on time\n\n\n\n3:15 - 4:30\nWrap up and final discussion\nAll",
+    "crumbs": [
+      "Upcoming Trainings",
+      "2024 AFS Workshop"
+    ]
+  },
+  {
+    "objectID": "courses/afs24.html#resources",
+    "href": "courses/afs24.html#resources",
+    "title": "Satellite and Animal Telemetry Data Training",
+    "section": "Resources",
+    "text": "Resources\n\nCoastwatch tutorials\nCoastwatch Lecture series\nAnimal telemetry Network",
+    "crumbs": [
+      "Upcoming Trainings",
+      "2024 AFS Workshop"
+    ]
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "CoastWatch Workshops",
@@ -8,6 +74,13 @@
     "crumbs": [
       "Main"
     ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   },
   {
     "objectID": "courses/seaice24.html",
@@ -74,78 +147,5 @@
       "Upcoming Trainings",
       "2024 Sea Ice Data Course"
     ]
-  },
-  {
-    "objectID": "courses/afs24.html",
-    "href": "courses/afs24.html",
-    "title": "Satellite and Animal Telemetry Data Training",
-    "section": "",
-    "text": "Training on accessing Oceanographic Satellite Data from NOAA CoastWatch and using the Animal Telemetry Network Portal",
-    "crumbs": [
-      "Upcoming Trainings",
-      "2024 AFS Workshop"
-    ]
-  },
-  {
-    "objectID": "courses/afs24.html#course-description",
-    "href": "courses/afs24.html#course-description",
-    "title": "Satellite and Animal Telemetry Data Training",
-    "section": "",
-    "text": "Training on accessing Oceanographic Satellite Data from NOAA CoastWatch and using the Animal Telemetry Network Portal",
-    "crumbs": [
-      "Upcoming Trainings",
-      "2024 AFS Workshop"
-    ]
-  },
-  {
-    "objectID": "courses/afs24.html#objectives",
-    "href": "courses/afs24.html#objectives",
-    "title": "Satellite and Animal Telemetry Data Training",
-    "section": "Objectives",
-    "text": "Objectives",
-    "crumbs": [
-      "Upcoming Trainings",
-      "2024 AFS Workshop"
-    ]
-  },
-  {
-    "objectID": "courses/afs24.html#schedule",
-    "href": "courses/afs24.html#schedule",
-    "title": "Satellite and Animal Telemetry Data Training",
-    "section": "Schedule",
-    "text": "Schedule\n\n\n\nTime\nTopic\nPresenter\n\n\n\n\n9:00 - 9:30\nPresentation 1: Introduction to NOAA CoastWatch\nCara Wilson\n\n\n9:30 - 10:00\nPresentation 2: Sea Ice 101\nLudovic Brucker\n\n\n10:00 - 10:30\nPresentation 3: Sea Ice Microlesson\nKevin Fuell\n\n\n10:30 - 10:45\nBreak\n\n\n\n10:45 - 11:15\nPresentation 4: Sea Ice from SAR\nChris Jackson\n\n\n11:15 - 11:30\nPresentation 5: Projections - Why they Matter\nMichael Soracco\n\n\n11:30 - 11:45\nPresentation 6: Ice in the Great Lakes\nAndrea/Songzhi\n\n\n11:45 - 12:45\nLunch break",
-    "crumbs": [
-      "Upcoming Trainings",
-      "2024 AFS Workshop"
-    ]
-  },
-  {
-    "objectID": "courses/afs24.html#in-preparation-for-the-workshop",
-    "href": "courses/afs24.html#in-preparation-for-the-workshop",
-    "title": "Satellite and Animal Telemetry Data Training",
-    "section": "In preparation for the workshop",
-    "text": "In preparation for the workshop",
-    "crumbs": [
-      "Upcoming Trainings",
-      "2024 AFS Workshop"
-    ]
-  },
-  {
-    "objectID": "courses/afs24.html#resources",
-    "href": "courses/afs24.html#resources",
-    "title": "Satellite and Animal Telemetry Data Training",
-    "section": "Resources",
-    "text": "Resources\n\nCoastwatch tutorials\nCoastwatch Lecture series\nSea Ice Microlesson",
-    "crumbs": [
-      "Upcoming Trainings",
-      "2024 AFS Workshop"
-    ]
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
   }
 ]
