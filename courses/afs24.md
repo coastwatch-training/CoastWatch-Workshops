@@ -6,29 +6,41 @@ subtitle: "AFS September 15-19, 2024"
 
 ## Course Description
 Training on accessing Oceanographic Satellite Data from NOAA CoastWatch
-and using the Animal Telemetry Network Portal
+and using the Animal Telemetry Network Portal.  Training day held Sept 14, 2024 before
+the annual AFS (American Fisheries Society) meeting in Honolulu, Hawaii. 
  
+## Instructors
+
+ | Name              | Affiliation                    | 
+ |:-----------------:|:-----------------------------------------------------------------------------:|
+ | Cara Wilson       | CoastWatch/West Coast Node, PI |
+ | Dale Robinson     | CoastWatch/West Coast Node, node manager |
+ | Megan McKinzie    | ATN Data Coordinator |
+ | Daisy Shi         | CoastWatch/Pacific OceanWatch, node manager |
+    
 ## Objectives
  
 ## Schedule
 
 | Time          | Topic                                                                         | Presenter                    |
 |:-------------:|:-----------------------------------------------------------------------------:|:----------------------------:|
-| 9:00 - 9:30   | [Presentation 1: Introduction to NOAA CoastWatch](presentation1.qmd)               | Cara Wilson           | 
-| 9:30 - 10:00  | [Presentation 2: Sea Ice 101](presentation2.qmd)                                   | Ludovic Brucker       |
-| 10:00 - 10:30 | [Presentation 3: Sea Ice Microlesson](presentation3.qmd)                           | Kevin Fuell           |
-| 10:30 - 10:45 | Break                                                                              |                       |
-| 10:45 - 11:15 | [Presentation 4: Sea Ice from SAR](presentation4.qmd)                              | Chris Jackson         |
-| 11:15 - 11:30 | [Presentation 5: Projections - Why they Matter](presentation5.qmd)                 | Michael Soracco       |
-| 11:30 - 11:45 | [Presentation 6: Ice in the Great Lakes](presentation6.qmd)                        |  Andrea/Songzhi       |
-| 11:45 - 12:45 | Lunch break                                                                        |                       |  
+| 8:00 - 8:45   | Introductions                                                                      | Cara Wilson       | 
+| 8:45 - 9:00   | Session Overview - CoastWatch, ATN and the workshop component                      | Cara Wilson       |
+| 9:00 - 10:00  | Introduction to Coastwatch satellite datasets and data portals                     | Cara Wilson       |
+| 10:00 - 10:30 | Using the ERDDAP data server                                                       | Cara Wilson       |
+| 10:30 - 10:45 | Break                                                                              |                   |
+| 10:45 - 12:00 | Accessing ERDDAP using scripts (R, python)                                         | Cara Wilson       |
+| 12:00 - 1:00  | Lunch break - on your own                                                          |                   |  
+| 1:00 - 1:15   | Intro to ATN and the DAC                                                           | Megan McKenzie    |
+| 1:15 - 2:00   | Demo of ATN data portal                                                            | Megan McKenzie    |
+| 2:00 - 2:30   | Accessing public ATN datasets                                                      | Megan McKenzie    |
+| 2:30 - 2:45   | Break                                                                              |                   |
+| 2:45 - 3:15   | Workshop, part 1: Linking CoastWatch and ATN data using scripts                    | Cara Wilson       |
+| 3:15 - 4:30   | Workshop, part 2: Hand’s on time                                                   |                   |
+| 3:15 - 4:30   | Wrap up and final discussion                                                       | All               |
 
-
-
-
-## In preparation for the workshop
 
 ## Resources
 - Coastwatch tutorials
 - Coastwatch Lecture series
-- [Sea Ice Microlesson](https://weather.ndc.nasa.gov/sport/training/articles/20220803_JPSS-Sea-Ice-Microlesson/content/#/)
+- [Animal telemetry Network](https://portal.atn.ioos.us/)
