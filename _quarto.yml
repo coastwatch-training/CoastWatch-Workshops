@@ -47,7 +47,7 @@ website:
       - section: Upcoming Trainings
         contents:
         - href: courses/afs24.md
-          text: 2014 AFS Workshop
+          text: 2024 AFS Workshop
         - href: courses/seaice24.md      
           text: 2024 Sea Ice Data Course
       - section: Past Trainings
