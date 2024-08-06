@@ -22,20 +22,20 @@ Many satellite sea ice products are available for download from NOAA and many ot
 
 | Time          | Topic                                                                         | Presenter                    |
 |:-------------:|:-----------------------------------------------------------------------------:|:----------------------------:|
-| 9:00 - 9:30   | [Presentation 1: Introduction to NOAA CoastWatch](presentation1.qmd)               | Cara Wilson           | 
-| 9:30 - 10:00  | [Presentation 2: Sea Ice 101](presentation2.qmd)                                   | Ludovic Brucker       |
-| 10:00 - 10:30 | [Presentation 3: Sea Ice Microlesson](presentation3.qmd)                           | Kevin Fuell           |
+| 9:00 - 9:30   |   Presentation 1: Introduction to NOAA CoastWatch            | Cara Wilson           | 
+| 9:30 - 10:00  |  Presentation 2: Sea Ice 101                                    | Ludovic Brucker       |
+| 10:00 - 10:30 |  Presentation 3: Sea Ice Microlesson                           | Kevin Fuell           |
 | 10:30 - 10:45 | Break                                                                              |                       |
-| 10:45 - 11:15 | [Presentation 4: Sea Ice from SAR](presentation4.qmd)                              | Chris Jackson         |
-| 11:15 - 11:30 | [Presentation 5: Projections - Why they Matter](presentation5.qmd)                 | Michael Soracco       |
-| 11:30 - 11:45 | [Presentation 6: Ice in the Great Lakes](presentation6.qmd)                        |  Andrea/Songzhi       |
+| 10:45 - 11:15 |  Presentation 4: Sea Ice from SAR                            | Chris Jackson         |
+| 11:15 - 11:30 |  Presentation 5: Projections - Why they Matter )                 | Michael Soracco       |
+| 11:30 - 11:45 |  Presentation 6: Ice in the Great Lakes                         |  Andrea/Songzhi       |
 | 11:45 - 12:45 | Lunch break                                                                        |                       |  
-| 12:45 - 13:00 | [Presentation 7: Projections in Action ](presentation7.qmd)                        | Peter Hollman         |
-| 13:00 - 13:30 | [Presentation 8: ERDDAP Demo  ](presentation8.qmd)                                 | Cara Wilson           |
-| 13:30 - 13:45 | [Presentation 9: PolarWatch Portal Demo  ](presentation9.qmd)                      | Sunny Hospital        |
-| 13:45 - 14:00 | [Presentation 10: CoastWatch Viewer dem0 ](presentation10.qmd)                     | Michael Sorocco       |
+| 12:45 - 13:00 |  Presentation 7: Projections in Action                        | Peter Hollman         |
+| 13:00 - 13:30 | Presentation 8: ERDDAP Demo                                    | Cara Wilson           |
+| 13:30 - 13:45 |  Presentation 9: PolarWatch Portal Demo                       | Sunny Hospital        |
+| 13:45 - 14:00 |   Presentation 10: CoastWatch Viewer dem0                     | Michael Sorocco       |
 | 14:00 - 14:15 | Break                                                                              |                       |                                    
-| 14:15 - 14:30 | [Presentation 11: Overview of Tutorials ](presentation11.qmd)                      |  Cara Wilson          |
+| 14:15 - 14:30 |  Presentation 11: Overview of Tutorials                       |  Cara Wilson          |
 | 14:30 - 16:00 | Hand's on time, with instuctor's guidance (if needed)                              |                       |
 
 
