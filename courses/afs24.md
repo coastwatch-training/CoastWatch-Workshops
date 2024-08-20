@@ -7,7 +7,10 @@ Date: "October 25, 2024"
 ## Course Description
 Training on accessing Oceanographic Satellite Data from NOAA CoastWatch
 and using the Animal Telemetry Network Portal.  This training was originally going to be held before
-the annual AFS (American Fisheries Society) meeting in Honolulu, Hawaii, but has been rescheduled to be an online course, open to all 
+the annual AFS (American Fisheries Society) meeting in Honolulu, Hawaii, but has been rescheduled to be an online course, open to all.
+
+Click here to [Register](https://lp.constantcontactpages.com/ev/reg/2qmh83d/lp/23b56bab-9a72-4dea-8010-98caa0fcec19).
+
  
 ## Instructors
 
@@ -27,8 +30,8 @@ the annual AFS (American Fisheries Society) meeting in Honolulu, Hawaii, but has
 | 10:00 - 10:15   | Training  Overview - CoastWatch, ATN and the workshop component             | Cara Wilson       | 
 | 10:15 - 10:30   |  Group Introductions                    | Cara Wilson       |
 | 10:30 - 11:15  | Coastwatch satellite datasets and data portals                     | Cara Wilson       |
-| 11:15 - 11:30 |   Break                                                     | Cara Wilson       |
-| 11:30 - 12:00 | Using the ERDDAP data server                                                                               |                   |
+| 11:15 - 11:30 |   Break                                                     |        |
+| 11:30 - 12:00 | Using the ERDDAP data server                                                                               |  Cara Wilson                 |
 | 12:00 - 12:30 | Accessing ERDDAP using scripts (R, python)                                         | Cara Wilson       |
 | 12:30 - 1:30  | Lunch break                                                           |                   |  
 | 1:30 - 2:00   | Intro to ATN and the DAC                                                           | Megan McKenzie    |
