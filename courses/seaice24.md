@@ -44,5 +44,3 @@ Many satellite sea ice products are available for download from NOAA and many ot
 - [Coastwatch Tutorials (on GitHub)](https://github.com/coastwatch-training/CoastWatch-Tutorials)
 - [Coastwatch Lecture series](https://umd.instructure.com/courses/1336575/pages/all-lectures)
 - [JPSS Sea Ice Microlesson](https://weather.ndc.nasa.gov/sport/training/articles/20220803_JPSS-Sea-Ice-Microlesson/content/#/)
-
-test
