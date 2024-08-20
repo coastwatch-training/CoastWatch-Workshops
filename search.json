@@ -2,9 +2,9 @@
   {
     "objectID": "courses/afs24.html",
     "href": "courses/afs24.html",
-    "title": "Satellite and Animal Telemetry Data Training",
+    "title": "CoastWatch Workshop",
     "section": "",
-    "text": "Training on accessing Oceanographic Satellite Data from NOAA CoastWatch and using the Animal Telemetry Network Portal. Training day held Sept 14, 2024 before the annual AFS (American Fisheries Society) meeting in Honolulu, Hawaii.",
+    "text": "Training on accessing Oceanographic Satellite Data from NOAA CoastWatch and using the Animal Telemetry Network Portal. This training was originally going to be held before the annual AFS (American Fisheries Society) meeting in Honolulu, Hawaii, but has been rescheduled to be an online course, open to all",
     "crumbs": [
       "Upcoming Trainings",
       "2024 AFS Workshop"
@@ -13,9 +13,9 @@
   {
     "objectID": "courses/afs24.html#course-description",
     "href": "courses/afs24.html#course-description",
-    "title": "Satellite and Animal Telemetry Data Training",
+    "title": "CoastWatch Workshop",
     "section": "",
-    "text": "Training on accessing Oceanographic Satellite Data from NOAA CoastWatch and using the Animal Telemetry Network Portal. Training day held Sept 14, 2024 before the annual AFS (American Fisheries Society) meeting in Honolulu, Hawaii.",
+    "text": "Training on accessing Oceanographic Satellite Data from NOAA CoastWatch and using the Animal Telemetry Network Portal. This training was originally going to be held before the annual AFS (American Fisheries Society) meeting in Honolulu, Hawaii, but has been rescheduled to be an online course, open to all",
     "crumbs": [
       "Upcoming Trainings",
       "2024 AFS Workshop"
@@ -24,7 +24,7 @@
   {
     "objectID": "courses/afs24.html#instructors",
     "href": "courses/afs24.html#instructors",
-    "title": "Satellite and Animal Telemetry Data Training",
+    "title": "CoastWatch Workshop",
     "section": "Instructors",
     "text": "Instructors\n\n\n\n\n\n\n\nName\nAffiliation\n\n\n\n\nCara Wilson\nCoastWatch/West Coast Node, PI\n\n\nDale Robinson\nCoastWatch/West Coast Node, node manager\n\n\nMegan McKinzie\nATN Data Coordinator\n\n\nDaisy Shi\nCoastWatch/Pacific OceanWatch, node manager",
     "crumbs": [
@@ -35,7 +35,7 @@
   {
     "objectID": "courses/afs24.html#objectives",
     "href": "courses/afs24.html#objectives",
-    "title": "Satellite and Animal Telemetry Data Training",
+    "title": "CoastWatch Workshop",
     "section": "Objectives",
     "text": "Objectives",
     "crumbs": [
@@ -46,9 +46,9 @@
   {
     "objectID": "courses/afs24.html#schedule",
     "href": "courses/afs24.html#schedule",
-    "title": "Satellite and Animal Telemetry Data Training",
+    "title": "CoastWatch Workshop",
     "section": "Schedule",
-    "text": "Schedule\n\n\n\n\n\n\n\n\nTime\nTopic\nPresenter\n\n\n\n\n8:00 - 8:45\nIntroductions\nCara Wilson\n\n\n8:45 - 9:00\nSession Overview - CoastWatch, ATN and the workshop component\nCara Wilson\n\n\n9:00 - 10:00\nIntroduction to Coastwatch satellite datasets and data portals\nCara Wilson\n\n\n10:00 - 10:30\nUsing the ERDDAP data server\nCara Wilson\n\n\n10:30 - 10:45\nBreak\n\n\n\n10:45 - 12:00\nAccessing ERDDAP using scripts (R, python)\nCara Wilson\n\n\n12:00 - 1:00\nLunch break - on your own\n\n\n\n1:00 - 1:15\nIntro to ATN and the DAC\nMegan McKenzie\n\n\n1:15 - 2:00\nDemo of ATN data portal\nMegan McKenzie\n\n\n2:00 - 2:30\nAccessing public ATN datasets\nMegan McKenzie\n\n\n2:30 - 2:45\nBreak\n\n\n\n2:45 - 3:15\nWorkshop, part 1: Linking CoastWatch and ATN data using scripts\nCara Wilson\n\n\n3:15 - 4:30\nWorkshop, part 2: Hand’s on time\n\n\n\n3:15 - 4:30\nWrap up and final discussion\nAll",
+    "text": "Schedule\n\n\n\n\n\n\n\n\nTime (PST)\nTopic\nPresenter\n\n\n\n\n10:00 - 10:15\nTraining Overview - CoastWatch, ATN and the workshop component\nCara Wilson\n\n\n10:15 - 10:30\nGroup Introductions\nCara Wilson\n\n\n10:30 - 11:15\nCoastwatch satellite datasets and data portals\nCara Wilson\n\n\n11:15 - 11:30\nBreak\nCara Wilson\n\n\n11:30 - 12:00\nUsing the ERDDAP data server\n\n\n\n12:00 - 12:30\nAccessing ERDDAP using scripts (R, python)\nCara Wilson\n\n\n12:30 - 1:30\nLunch break\n\n\n\n1:30 - 2:00\nIntro to ATN and the DAC\nMegan McKenzie\n\n\n2:00 - 2:30\nDemo of ATN data portal\nMegan McKenzie\n\n\n2:30 - 3:00\nAccessing public ATN datasets\nMegan McKenzie\n\n\n3:00 - 3:15\nBreak\n\n\n\n3:15 - 3:30\nWorkshop, part 1: Linking CoastWatch and ATN data using scripts\nCara Wilson\n\n\n3:30 - 4:45\nWorkshop, part 2: Hand’s on time\n\n\n\n4:45 - 5:00\nWrap up and final discussion\nAll",
     "crumbs": [
       "Upcoming Trainings",
       "2024 AFS Workshop"
@@ -57,7 +57,7 @@
   {
     "objectID": "courses/afs24.html#resources",
     "href": "courses/afs24.html#resources",
-    "title": "Satellite and Animal Telemetry Data Training",
+    "title": "CoastWatch Workshop",
     "section": "Resources",
     "text": "Resources\n\nCoastwatch tutorials\nCoastwatch Lecture series\nAnimal telemetry Network",
     "crumbs": [
