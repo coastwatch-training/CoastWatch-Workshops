@@ -20,7 +20,7 @@ Many satellite sea ice products are available for download from NOAA and many ot
 
 ## Schedule
 
-| Time          | Topic                                                                     | Presenter                    |
+| Time (PST)      | Topic                                                                     | Presenter                    |
 |-------------|-----------------------------------------------------------------------------|----------------------------|
 |9:00 - 9:30   |  Presentation 1: Introduction to NOAA CoastWatch                          | Cara Wilson           | 
 |9:30 - 10:00  |  Presentation 2: Sea Ice 101                                               | Ludovic Brucker       |
