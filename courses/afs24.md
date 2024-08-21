@@ -27,13 +27,13 @@ Click here to [Register](https://lp.constantcontactpages.com/ev/reg/2qmh83d/lp/2
 
 | Time (PST)      | Topic                                                                         | Presenter                    |
 |:-------------|:-----------------------------------------------------------------------------|:----------------------------|
-| 10:00 - 10:15   | Training  Overview - CoastWatch, ATN and the workshop component             | Cara Wilson       | 
-| 10:15 - 10:30   |  Group Introductions                    | Cara Wilson       |
-| 10:30 - 11:15  | Coastwatch satellite datasets and data portals                     | Cara Wilson       |
-| 11:15 - 11:30 |   Break                                                     |        |
-| 11:30 - 12:00 | Using the ERDDAP data server                                                                               |  Cara Wilson                 |
+| 10:00 - 10:15 | Training  Overview - CoastWatch, ATN and the workshop component                   | Cara Wilson       | 
+| 10:15 - 10:30 |  Group Introductions                                                              | Cara Wilson       |
+| 10:30 - 11:15 | Coastwatch satellite datasets and data portals                                    | Cara Wilson       |
+| 11:15 - 11:30 |   Break                                                                           |        |
+| 11:30 - 12:00 | Using the ERDDAP data server                                                      | Cara Wilson                 |
 | 12:00 - 12:30 | Accessing ERDDAP using scripts (R, python)                                         | Cara Wilson       |
-| 12:30 - 1:30  | Lunch break                                                           |                   |  
+| 12:30 - 1:30  | Lunch break                                                                        |                   |  
 | 1:30 - 2:00   | Intro to ATN and the DAC                                                           | Megan McKenzie    |
 | 2:00 - 2:30   | Demo of ATN data portal                                                            | Megan McKenzie    |
 | 2:30 - 3:00   | Accessing public ATN datasets                                                      | Megan McKenzie    |
