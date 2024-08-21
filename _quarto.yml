@@ -10,7 +10,7 @@ project:
 website:
   title: "CoastWatch Workshop"
   site-url: https://coastwatch-training.github.io/coastwatch-workshops
-  repo-url: https://github.com/coastwatch-training/coastwatch-workshops
+  repo-url: https://github.com/coastwatch-training/CoastWatch-Workshops
   repo-actions: [issue] #[edit, source, issue]
   favicon: images/coastwatch.png  
     
