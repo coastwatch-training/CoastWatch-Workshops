@@ -40,9 +40,9 @@ Click here to [Register](https://lp.constantcontactpages.com/ev/reg/2qmh83d/lp/2
 | 11:30 - 12:00 | Using the ERDDAP data server                                                      | Cara Wilson                 |
 | 12:00 - 12:30 | Accessing ERDDAP using scripts (R, python)                                         | Cara Wilson       |
 | 12:30 - 1:30  | Lunch break                                                                        |                   |  
-| 1:30 - 2:00   | Intro to ATN and the DAC                                                           | Megan McKenzie    |
-| 2:00 - 2:30   | Demo of ATN data portal                                                            | Megan McKenzie    |
-| 2:30 - 3:00   | Accessing public ATN datasets                                                      | Megan McKenzie    |
+| 1:30 - 2:00   | Intro to ATN and the DAC                                                           | Megan McKinzie    |
+| 2:00 - 2:30   | Demo of ATN data portal                                                            | Megan McKinzie    |
+| 2:30 - 3:00   | Accessing public ATN datasets                                                      | Megan McKinzie    |
 | 3:00 - 3:15   | Break                                                                              |                   |
 | 3:15 - 3:30   | Workshop, part 1: Linking CoastWatch and ATN data using scripts                    | Cara Wilson       |
 | 3:30 - 4:45   | Workshop, part 2: Hand’s on time                                                   |                   |
@@ -50,6 +50,6 @@ Click here to [Register](https://lp.constantcontactpages.com/ev/reg/2qmh83d/lp/2
 
 
 ## Resources
-- Coastwatch tutorials
+- Coastwatch Tutorials
 - Coastwatch Lecture series
 - [Animal telemetry Network](https://portal.atn.ioos.us/)
