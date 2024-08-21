@@ -1,6 +1,6 @@
 ---
-Course Title: "Satellite and Animal Telemetry Data Training"
-Date: "October 25, 2024"
+title: "Satellite and Animal Telemetry Data Training"
+description: "October 25, 2024"
 ---
 
 
