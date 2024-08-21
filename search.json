@@ -48,7 +48,7 @@
     "href": "courses/afs24.html#schedule",
     "title": "Satellite and Animal Telemetry Data Training",
     "section": "Schedule",
-    "text": "Schedule\n\n\n\n\n\n\n\n\nTime (PST)\nTopic\nPresenter\n\n\n\n\n10:00 - 10:15\nTraining Overview - CoastWatch, ATN and the workshop component\nCara Wilson\n\n\n10:15 - 10:30\nGroup Introductions\nCara Wilson\n\n\n10:30 - 11:15\nCoastwatch satellite datasets and data portals\nCara Wilson\n\n\n11:15 - 11:30\nBreak\n\n\n\n11:30 - 12:00\nUsing the ERDDAP data server\nCara Wilson\n\n\n12:00 - 12:30\nAccessing ERDDAP using scripts (R, python)\nCara Wilson\n\n\n12:30 - 1:30\nLunch break\n\n\n\n1:30 - 2:00\nIntro to ATN and the DAC\nMegan McKenzie\n\n\n2:00 - 2:30\nDemo of ATN data portal\nMegan McKenzie\n\n\n2:30 - 3:00\nAccessing public ATN datasets\nMegan McKenzie\n\n\n3:00 - 3:15\nBreak\n\n\n\n3:15 - 3:30\nWorkshop, part 1: Linking CoastWatch and ATN data using scripts\nCara Wilson\n\n\n3:30 - 4:45\nWorkshop, part 2: Hand’s on time\n\n\n\n4:45 - 5:00\nWrap up and final discussion\nAll",
+    "text": "Schedule\n\n\n\n\n\n\n\n\nTime (PST)\nTopic\nPresenter\n\n\n\n\n10:00 - 10:15\nTraining Overview - CoastWatch, ATN and the workshop component\nCara Wilson\n\n\n10:15 - 10:30\nGroup Introductions\nCara Wilson\n\n\n10:30 - 11:15\nCoastwatch satellite datasets and data portals\nCara Wilson\n\n\n11:15 - 11:30\nBreak\n\n\n\n11:30 - 12:00\nUsing the ERDDAP data server\nCara Wilson\n\n\n12:00 - 12:30\nAccessing ERDDAP using scripts (R, python)\nCara Wilson\n\n\n12:30 - 1:30\nLunch break\n\n\n\n1:30 - 2:00\nIntro to ATN and the DAC\nMegan McKinzie\n\n\n2:00 - 2:30\nDemo of ATN data portal\nMegan McKinzie\n\n\n2:30 - 3:00\nAccessing public ATN datasets\nMegan McKinzie\n\n\n3:00 - 3:15\nBreak\n\n\n\n3:15 - 3:30\nWorkshop, part 1: Linking CoastWatch and ATN data using scripts\nCara Wilson\n\n\n3:30 - 4:45\nWorkshop, part 2: Hand’s on time\n\n\n\n4:45 - 5:00\nWrap up and final discussion\nAll",
     "crumbs": [
       "Upcoming Trainings",
       "2024 AFS Workshop"
@@ -59,7 +59,7 @@
     "href": "courses/afs24.html#resources",
     "title": "Satellite and Animal Telemetry Data Training",
     "section": "Resources",
-    "text": "Resources\n\nCoastwatch tutorials\nCoastwatch Lecture series\nAnimal telemetry Network",
+    "text": "Resources\n\nCoastwatch Tutorials\nCoastwatch Lecture series\nAnimal telemetry Network",
     "crumbs": [
       "Upcoming Trainings",
       "2024 AFS Workshop"
