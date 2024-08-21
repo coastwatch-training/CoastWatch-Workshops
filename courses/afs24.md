@@ -1,6 +1,6 @@
 ---
 title: "Satellite and Animal Telemetry Data Training"
-description: "October 25, 2024"
+description: "October 25, 2024, Virtual 10am - 5pm (Pacific Time)"
 ---
 
 
