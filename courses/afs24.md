@@ -22,7 +22,13 @@ Click here to [Register](https://lp.constantcontactpages.com/ev/reg/2qmh83d/lp/2
  | Daisy Shi         | CoastWatch/Pacific OceanWatch, node manager |
     
 ## Objectives
- 
+* Describe the basic types of products available from satellite data
+* Demonstate how to access data on ERDDAP servers 
+* Explore the data available on the Animal Telemeetry Network portal
+* Introduce CoastWatch satellite data training resources
+* Provide hands-on time to access data and try tutorials
+
+
 ## Schedule
 
 | Time (PST)      | Topic                                                                         | Presenter                    |
