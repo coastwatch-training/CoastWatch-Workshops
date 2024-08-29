@@ -14,9 +14,9 @@ More information about the conference can be found [here](https://pgrsc.org).
  | Name              | Affiliation                    | 
  |:-----------------|:-----------------------------------------------------------------------------|
  | Daisy Shi         | CoastWatch/Pacific OceanWatch, node manager |
- | Cara Wilson       | CoastWatch/West Coast Node, PI |
  | Lauren Kaiser     | PacIOOS, data management specialist|
-   
+ | Cara Wilson       | CoastWatch/West Coast Node, PI |
+  
 ## Objectives
 
 coming soon
