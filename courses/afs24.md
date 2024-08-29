@@ -50,6 +50,6 @@ Click here to [Register](https://lp.constantcontactpages.com/ev/reg/2qmh83d/lp/2
 
 
 ## Resources
-- Coastwatch Tutorials
-- Coastwatch Lecture series
+- [Coastwatch Tutorials (on GitHub)](https://github.com/coastwatch-training/CoastWatch-Tutorials/blob/main/README.md)
+- [Coastwatch Lecture series](https://umd.instructure.com/courses/1336575/pages/all-lectures)
 - [Animal telemetry Network](https://portal.atn.ioos.us/)
