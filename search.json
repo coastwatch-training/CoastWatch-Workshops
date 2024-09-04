@@ -1,5 +1,15 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "CoastWatch Workshops",
+    "section": "",
+    "text": "CoastWatch regularly organizes and offers in-person and online satellite training classes or workshops featuring lectures, tutorials, & tool demonstrations.\nDuring in-person and online satellite course, participants learn about environmental satellite data and how to easily obtain it. Participants also gain hands on experience working with the data of interest to them. A major goal of the course is to provide scientists who are not regular users of satellite data with the knowledge and tools they need to incorporate satellite data into their research and management projects.\nFor questions or more information about the upcoming satellite training classes, please contact coastwatch.info@noaa.gov.",
+    "crumbs": [
+      "Main"
+    ]
+  },
+  {
     "objectID": "courses/afs24.html",
     "href": "courses/afs24.html",
     "title": "Satellite and Animal Telemetry Data Training",
@@ -121,16 +131,6 @@
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "CoastWatch Workshops",
-    "section": "",
-    "text": "CoastWatch regularly organizes and offers in-person and online satellite training classes or workshops featuring lectures, tutorials, & tool demonstrations.\nDuring in-person and online satellite course, participants learn about environmental satellite data and how to easily obtain it. Participants also gain hands on experience working with the data of interest to them. A major goal of the course is to provide scientists who are not regular users of satellite data with the knowledge and tools they need to incorporate satellite data into their research and management projects.\nFor questions or more information about the upcoming satellite training classes, please contact coastwatch.info@noaa.gov.",
-    "crumbs": [
-      "Main"
-    ]
-  },
-  {
     "objectID": "courses/pgrsc24.html",
     "href": "courses/pgrsc24.html",
     "title": "Access and Use Satellite Data and Decision-making tools for Ocean and Coastal Applications",
@@ -168,7 +168,7 @@
     "href": "courses/pgrsc24.html#objectives",
     "title": "Access and Use Satellite Data and Decision-making tools for Ocean and Coastal Applications",
     "section": "Objectives",
-    "text": "Objectives\ncoming soon",
+    "text": "Objectives\n\nDescribe the basic types of products available from satellite data\nDemonstrate how to access data on ERDDAP servers\nIntroduce CoastWatch satellite data and training resources\nExplore additional data and information tools available at PacIOOS\nProvide hands-on time to access data and run tutorials",
     "crumbs": [
       "Upcoming Trainings",
       "2024 PGRSC Workshop"
@@ -179,7 +179,7 @@
     "href": "courses/pgrsc24.html#schedule",
     "title": "Access and Use Satellite Data and Decision-making tools for Ocean and Coastal Applications",
     "section": "Schedule",
-    "text": "Schedule\ncoming soon",
+    "text": "Schedule\n\n\n\n\n\n\n\nTime (Fiji Standard Time)\nTopic\n\n\n\n\n1:00 - 2:30\nIntroduction and Website Test Drives\n\n\n2:30 - 2:45\nBreak\n\n\n2:45 - 3:45\nTutorial Demos\n\n\n3:45 - 4:00\nBreak\n\n\n4:00 - 6:00\nHands-On time",
     "crumbs": [
       "Upcoming Trainings",
       "2024 PGRSC Workshop"
