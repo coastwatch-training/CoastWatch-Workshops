@@ -19,11 +19,22 @@ More information about the conference can be found [here](https://pgrsc.org).
   
 ## Objectives
 
-coming soon
+* Describe the basic types of products available from satellite data
+* Demonstrate how to access data on ERDDAP servers 
+* Introduce CoastWatch satellite data and training resources
+* Explore additional data and information tools available at PacIOOS
+* Provide hands-on time to access data and run tutorials
+
 
 ## Schedule
 
-coming soon
+| Time (Fiji Standard Time)      | Topic     |
+|:-------------|:-----------------------------------------------------------------------------|
+| 1:00 - 2:30 | Introduction and Website Test Drives         | 
+| 2:30 - 2:45 |  Break                                                              | 
+| 2:45 - 3:45 | Tutorial Demos                                  | 
+| 3:45 - 4:00 |   Break                                                                            |     
+| 4:00 - 6:00 | Hands-On time              |
 
 
 ## Resources
