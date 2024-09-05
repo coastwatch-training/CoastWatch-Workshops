@@ -40,5 +40,6 @@ More information about the conference can be found [here](https://pgrsc.org).
 ## Resources
 - [Coastwatch Tutorials (on GitHub)](https://github.com/coastwatch-training/CoastWatch-Tutorials/blob/main/README.md)
 - [Coastwatch Lecture series](https://umd.instructure.com/courses/1336575/pages/all-lectures)
+- [Geostationary satellites covering Western Pacific](https://umd.instructure.com/courses/1364405/pages/geostationary-satellites-covering-western-pacific)
 - [PacIOOS](http://pacioos.org)
 - [PacIOOS Voyager](http://pacioos.org/voyager)
