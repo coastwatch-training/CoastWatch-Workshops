@@ -5,9 +5,10 @@ description: "November 26, 2024, In person, 1pm - 6pm (Fiji Standard Time)"
 
 
 ## Course Description
-Training on accessing Oceanographic Satellite Data from NOAA CoastWatch and using information tools from PacIOOS for applications in the Pacific Islands region. This training will be held during the 2024 Pacific Islands GIS and Remote Sensing Conference in Suva, Fiji. 
+Training on accessing Oceanographic Satellite Data from NOAA CoastWatch and using information tools from PacIOOS for applications in the Pacific Islands region. This training will be held during the [2024 Pacific Islands GIS and Remote Sensing Conference](https://pgrsc.org) in Suva, Fiji.
 
-More information about the conference can be found [here](https://pgrsc.org).
+Click here to [Register](https://lp.constantcontactpages.com/ev/reg/w28fcr4/lp/6d7fffe6-97b2-47fe-96e1-63f07a170611).
+
  
 ## Instructors
 
