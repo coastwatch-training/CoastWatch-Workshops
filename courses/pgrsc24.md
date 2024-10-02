@@ -12,7 +12,7 @@ Click here to [Register](https://lp.constantcontactpages.com/ev/reg/w28fcr4/lp/6
  
 ## Instructors
 
- | Name              | Affiliation                    | 
+ | Name              | Affiliation                     | 
  |:-----------------|:-----------------------------------------------------------------------------|
  | Daisy Shi         | CoastWatch/Pacific OceanWatch, node manager |
  | Lauren Kaiser     | PacIOOS, data management specialist|
