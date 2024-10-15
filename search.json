@@ -1,10 +1,65 @@
 [
   {
+    "objectID": "courses/seaice24.html",
+    "href": "courses/seaice24.html",
+    "title": "2024 PolarWatch Sea Ice Training",
+    "section": "",
+    "text": "PolarWatch node of the CoastWatch is hosting a free, virtual training class on October 21, 2024 (9am-4pm Pacific Time).\nClick here to Register.",
+    "crumbs": [
+      "Upcoming Trainings",
+      "2024 Sea Ice Data Course"
+    ]
+  },
+  {
+    "objectID": "courses/seaice24.html#course-description",
+    "href": "courses/seaice24.html#course-description",
+    "title": "2024 PolarWatch Sea Ice Training",
+    "section": "Course Description",
+    "text": "Course Description\nMany satellite sea ice products are available for download from NOAA and many other data providers: e.g. sea ice concentration, sea ice thickness, sea ice age, sea ice temperature, and sea ice extent. It can often be challenging to know the differences between the products and how each can be applied to a user’s specific application. For example, the spatial resolutions of the products can vary widely, largely dependent on the type of satellite measurement the product is derived from (passive microwave, visible radiometry or synthetic aperture radar). Additionally, when working with data in the high-latitudes issues of data projection invariably arise and can complicate accessing and working with data. To address these issues, NOAA’s PolarWatch node has developed a 1-day (6 hour) online course with the following training objectives.",
+    "crumbs": [
+      "Upcoming Trainings",
+      "2024 Sea Ice Data Course"
+    ]
+  },
+  {
+    "objectID": "courses/seaice24.html#objectives",
+    "href": "courses/seaice24.html#objectives",
+    "title": "2024 PolarWatch Sea Ice Training",
+    "section": "Objectives",
+    "text": "Objectives\n\nDescribe the basic types of sea-ice products available from satellite data\nGive an overview of working with different projections\nExplore the data available on the PolarWatch portal\nProvide hands-on time to access data and try tutorials\nIntroduce CoastWatch and other sea ice satellite data training resources",
+    "crumbs": [
+      "Upcoming Trainings",
+      "2024 Sea Ice Data Course"
+    ]
+  },
+  {
+    "objectID": "courses/seaice24.html#schedule",
+    "href": "courses/seaice24.html#schedule",
+    "title": "2024 PolarWatch Sea Ice Training",
+    "section": "Schedule",
+    "text": "Schedule\n\n\n\n\n\n\n\n\nTime (PST)\nTopic\nPresenter\n\n\n\n\n9:00 - 9:30\nPresentation 1: Introduction to NOAA CoastWatch\nCara Wilson\n\n\n9:30 - 10:00\nPresentation 2: Overview of Sea Ice Remote Sensing\nLudovic Brucker\n\n\n10:00 - 10:30\nPresentation 3: JPSS Sea Ice Microlesson\nKevin Fuell\n\n\n10:30 - 10:45\nBreak\n\n\n\n10:45 - 11:15\nPresentation 4: Sea Ice from SAR\nChris Jackson\n\n\n11:15 - 11:30\nPresentation 5: Projections - Why they Matter\nMichael Soracco\n\n\n11:30 - 11:45\nPresentation 6: Ice in the Great Lakes\nAndrea VanderWoude\n\n\n11:45 - 12:45\nLunch break\n\n\n\n12:45 - 13:00\nPresentation 7: Projections in Action\nPeter Hollemans\n\n\n13:00 - 13:30\nPresentation 8: ERDDAP Demo\nCara Wilson\n\n\n13:30 - 13:45\nPresentation 9: PolarWatch Portal Demo\nSunny Hospital\n\n\n13:45 - 14:00\nPresentation 10: CoastWatch Viewer Demo\nMichael Soracco\n\n\n14:00 - 14:15\nBreak\n\n\n\n14:15 - 14:30\nPresentation 11: Overview of Tutorials\nCara Wilson\n\n\n14:30 - 16:00\nHand’s on time, with instuctor’s guidance available",
+    "crumbs": [
+      "Upcoming Trainings",
+      "2024 Sea Ice Data Course"
+    ]
+  },
+  {
+    "objectID": "courses/seaice24.html#resources",
+    "href": "courses/seaice24.html#resources",
+    "title": "2024 PolarWatch Sea Ice Training",
+    "section": "Resources",
+    "text": "Resources\n\nCoastwatch Tutorials (on GitHub)\nCoastwatch Lecture series\nJPSS Sea Ice Microlesson",
+    "crumbs": [
+      "Upcoming Trainings",
+      "2024 Sea Ice Data Course"
+    ]
+  },
+  {
     "objectID": "courses/pgrsc24.html",
     "href": "courses/pgrsc24.html",
     "title": "Access and Use Satellite Data and Decision-making tools for Ocean and Coastal Applications",
     "section": "",
-    "text": "Training on accessing Oceanographic Satellite Data from NOAA CoastWatch and using information tools from PacIOOS for applications in the Pacific Islands region. This training will be held during the 2024 Pacific Islands GIS and Remote Sensing Conference in Suva, Fiji.\nClick here to Register.",
+    "text": "Training on accessing Oceanographic Satellite Data from NOAA CoastWatch and using information tools from PacIOOS for applications in the Pacific Islands region. This training will be held during the 2024 Pacific Islands GIS and Remote Sensing Users Conference in Suva, Fiji.\nClick here to Register.",
     "crumbs": [
       "Upcoming Trainings",
       "2024 PGRSC Workshop"
@@ -15,7 +70,7 @@
     "href": "courses/pgrsc24.html#course-description",
     "title": "Access and Use Satellite Data and Decision-making tools for Ocean and Coastal Applications",
     "section": "",
-    "text": "Training on accessing Oceanographic Satellite Data from NOAA CoastWatch and using information tools from PacIOOS for applications in the Pacific Islands region. This training will be held during the 2024 Pacific Islands GIS and Remote Sensing Conference in Suva, Fiji.\nClick here to Register.",
+    "text": "Training on accessing Oceanographic Satellite Data from NOAA CoastWatch and using information tools from PacIOOS for applications in the Pacific Islands region. This training will be held during the 2024 Pacific Islands GIS and Remote Sensing Users Conference in Suva, Fiji.\nClick here to Register.",
     "crumbs": [
       "Upcoming Trainings",
       "2024 PGRSC Workshop"
@@ -76,61 +131,6 @@
     ]
   },
   {
-    "objectID": "courses/seaice24.html",
-    "href": "courses/seaice24.html",
-    "title": "2024 PolarWatch Sea Ice Training",
-    "section": "",
-    "text": "PolarWatch node of the CoastWatch is hosting a free, virtual training class on October 21, 2024 (9am-4pm Pacific Time).\nClick here to Register.",
-    "crumbs": [
-      "Upcoming Trainings",
-      "2024 Sea Ice Data Course"
-    ]
-  },
-  {
-    "objectID": "courses/seaice24.html#course-description",
-    "href": "courses/seaice24.html#course-description",
-    "title": "2024 PolarWatch Sea Ice Training",
-    "section": "Course Description",
-    "text": "Course Description\nMany satellite sea ice products are available for download from NOAA and many other data providers: e.g. sea ice concentration, sea ice thickness, sea ice age, sea ice temperature, and sea ice extent. It can often be challenging to know the differences between the products and how each can be applied to a user’s specific application. For example, the spatial resolutions of the products can vary widely, largely dependent on the type of satellite measurement the product is derived from (passive microwave, visible radiometry or synthetic aperture radar). Additionally, when working with data in the high-latitudes issues of data projection invariably arise and can complicate accessing and working with data. To address these issues, NOAA’s PolarWatch node has developed a 1-day (6 hour) online course with the following training objectives.",
-    "crumbs": [
-      "Upcoming Trainings",
-      "2024 Sea Ice Data Course"
-    ]
-  },
-  {
-    "objectID": "courses/seaice24.html#objectives",
-    "href": "courses/seaice24.html#objectives",
-    "title": "2024 PolarWatch Sea Ice Training",
-    "section": "Objectives",
-    "text": "Objectives\n\nDescribe the basic types of sea-ice products available from satellite data\nGive an overview of working with different projections\nExplore the data available on the PolarWatch portal\nProvide hands-on time to access data and try tutorials\nIntroduce CoastWatch and other sea ice satellite data training resources",
-    "crumbs": [
-      "Upcoming Trainings",
-      "2024 Sea Ice Data Course"
-    ]
-  },
-  {
-    "objectID": "courses/seaice24.html#schedule",
-    "href": "courses/seaice24.html#schedule",
-    "title": "2024 PolarWatch Sea Ice Training",
-    "section": "Schedule",
-    "text": "Schedule\n\n\n\n\n\n\n\n\nTime (PST)\nTopic\nPresenter\n\n\n\n\n9:00 - 9:30\nPresentation 1: Introduction to NOAA CoastWatch\nCara Wilson\n\n\n9:30 - 10:00\nPresentation 2: Overview of Sea Ice Remote Sensing\nLudovic Brucker\n\n\n10:00 - 10:30\nPresentation 3: JPSS Sea Ice Microlesson\nKevin Fuell\n\n\n10:30 - 10:45\nBreak\n\n\n\n10:45 - 11:15\nPresentation 4: Sea Ice from SAR\nChris Jackson\n\n\n11:15 - 11:30\nPresentation 5: Projections - Why they Matter\nMichael Soracco\n\n\n11:30 - 11:45\nPresentation 6: Ice in the Great Lakes\nAndrea VanderWoude\n\n\n11:45 - 12:45\nLunch break\n\n\n\n12:45 - 13:00\nPresentation 7: Projections in Action\nPeter Hollemans\n\n\n13:00 - 13:30\nPresentation 8: ERDDAP Demo\nCara Wilson\n\n\n13:30 - 13:45\nPresentation 9: PolarWatch Portal Demo\nSunny Hospital\n\n\n13:45 - 14:00\nPresentation 10: CoastWatch Viewer Demo\nMichael Soracco\n\n\n14:00 - 14:15\nBreak\n\n\n\n14:15 - 14:30\nPresentation 11: Overview of Tutorials\nCara Wilson\n\n\n14:30 - 16:00\nHand’s on time, with instuctor’s guidance available",
-    "crumbs": [
-      "Upcoming Trainings",
-      "2024 Sea Ice Data Course"
-    ]
-  },
-  {
-    "objectID": "courses/seaice24.html#resources",
-    "href": "courses/seaice24.html#resources",
-    "title": "2024 PolarWatch Sea Ice Training",
-    "section": "Resources",
-    "text": "Resources\n\nCoastwatch Tutorials (on GitHub)\nCoastwatch Lecture series\nJPSS Sea Ice Microlesson",
-    "crumbs": [
-      "Upcoming Trainings",
-      "2024 Sea Ice Data Course"
-    ]
-  },
-  {
     "objectID": "courses/afs24.html",
     "href": "courses/afs24.html",
     "title": "Satellite and Animal Telemetry Data Training",
@@ -168,7 +168,7 @@
     "href": "courses/afs24.html#objectives",
     "title": "Satellite and Animal Telemetry Data Training",
     "section": "Objectives",
-    "text": "Objectives\n\nDescribe the basic types of products available from satellite data\nDemonstate how to access data on ERDDAP servers\nExplore the data available on the Animal Telemeetry Network portal\nIntroduce CoastWatch satellite data training resources\nProvide hands-on time to access data and try tutorials",
+    "text": "Objectives\n\nDescribe the basic types of products available from satellite data\nDemonstate how to access data on ERDDAP servers\nExplore the data available on the Animal Telemetry Network portal\nIntroduce CoastWatch satellite data training resources\nProvide hands-on time to access data and try tutorials",
     "crumbs": [
       "Upcoming Trainings",
       "2024 AFS Workshop"
