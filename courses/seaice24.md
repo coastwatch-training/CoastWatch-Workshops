@@ -22,20 +22,20 @@ Many satellite sea ice products are available for download from NOAA and many ot
 
 | Time (PST)      | Topic                                                                     | Presenter                    |
 |-------------|-----------------------------------------------------------------------------|----------------------------|
-|9:00 - 9:30   |  Presentation 1: Introduction to NOAA CoastWatch                          | Cara Wilson           | 
-|9:30 - 10:00  |  Presentation 2: Overview of Sea Ice Remote Sensing                                 | Ludovic Brucker       |
-|10:00 - 10:30 |  Presentation 3: JPSS Sea Ice Microlesson                                  | Kevin Fuell           |
+|9:00 - 9:30   |  [Presentation 1: Introduction to NOAA CoastWatch](https://drive.google.com/drive/folders/1UnQbpUTL1W5NyFJb3JI5n9CQamW7PmZc)                          | Cara Wilson           | 
+|9:30 - 10:00  |  [Presentation 2: Overview of Sea Ice Remote Sensing](https://docs.google.com/presentation/d/1GBN1ZfezQcBizNJ9-D3iYTlooMyXC6r7EdqvCm81b_g/edit#slide=id.g30bd589e53c_0_448)                                 | Ludovic Brucker       |
+|10:00 - 10:30 |  [Presentation 3: JPSS Sea Ice Microlesson](https://docs.google.com/presentation/d/1YqomHAs6YLD_A9T3odgo3Lku8tuyR_GP/edit#slide=id.p1)                                 | Kevin Fuell           |
 |10:30 - 10:45 | Break                                                                      |                       |
-|10:45 - 11:15 |  Presentation 4: Sea Ice from SAR                                          | Chris Jackson         |
-|11:15 - 11:30 |  Presentation 5: Projections - Why they Matter                             | Michael Soracco       |
-|11:30 - 11:45 |  Presentation 6: Ice in the Great Lakes                                    | Andrea VanderWoude    |
+|10:45 - 11:15 |  [Presentation 4: Sea Ice from SAR](https://docs.google.com/presentation/d/1WOKoBkJDUpVvp2XC6fc9eiVe9hwIW-hY/edit#slide=id.g13c549dc311_7_24)                                         | Chris Jackson         |
+|11:15 - 11:30 |  [Presentation 5: Projections - Why they Matter](https://docs.google.com/presentation/d/1w8-QlT4m1_5gyQ4pgHmB5o0y6MTtrfLk/edit#slide=id.p1)                            | Michael Soracco       |
+|11:30 - 11:45 |  [Presentation 6: Ice in the Great Lakes](https://docs.google.com/presentation/d/1hWzpfC3Kk1mkGP3rB6OI9zQ1lxPOfv-_/edit#slide=id.p1)                                   | Andrea VanderWoude    |
 |11:45 - 12:45 | Lunch break                                                                |                       |  
-|12:45 - 13:00 |  Presentation 7: Projections in Action                                     | Peter Hollemans       |
-|13:00 - 13:30 |  Presentation 8: ERDDAP Demo                                               | Cara Wilson           |
-|13:30 - 13:45 |  Presentation 9: PolarWatch Portal Demo                                    | Sunny Hospital        |
-|13:45 - 14:00 |  Presentation 10: CoastWatch Viewer Demo                                   | Michael Soracco       |
+|12:45 - 13:00 |  [Presentation 7: Projections in Action](https://drive.google.com/drive/folders/1UnQbpUTL1W5NyFJb3JI5n9CQamW7PmZc)                                    | Peter Hollemans       |
+|13:00 - 13:30 |  [Presentation 8: ERDDAP Demo](https://docs.google.com/presentation/d/15NFvQx0uPtQwVwjxdVMPmq8-FVDeJDFS/edit#slide=id.p1)                                              | Cara Wilson           |
+|13:30 - 13:45 |  [Presentation 9: PolarWatch Portal Demo](https://docs.google.com/presentation/d/1Fiw05tEDiFZybggvV2ZP_WFRrHA7b6Fs/edit#slide=id.p1)                                  | Sunny Hospital        |
+|13:45 - 14:00 |  [Presentation 10: CoastWatch Viewer Demo](https://drive.google.com/drive/folders/1UnQbpUTL1W5NyFJb3JI5n9CQamW7PmZc)                                  | Michael Soracco       |
 |14:00 - 14:15 | Break                                                                      |                       |                                    
-|14:15 - 14:30 |  Presentation 11: Overview of Tutorials                                    |  Cara Wilson          |
+|14:15 - 14:30 |  [Presentation 11: Overview of Tutorials](https://docs.google.com/presentation/d/1sYgtvVPfNiQwoVeri4LnRi42o_T-XPE0/edit#slide=id.p1)                                  |  Cara Wilson          |
 |14:30 - 16:00 |  Hand's on time, with instuctor's guidance available                       |                       |
 
 
