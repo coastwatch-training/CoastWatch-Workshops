@@ -24,7 +24,7 @@ Many satellite sea ice products are available for download from NOAA and many ot
 | Time (PST)      | Topic                                                                     | Presenter                    |
 |-------------|-----------------------------------------------------------------------------|----------------------------|
 |9:00 - 9:30   |  [Presentation 1: Introduction to NOAA CoastWatch](https://drive.google.com/drive/folders/1UnQbpUTL1W5NyFJb3JI5n9CQamW7PmZc)                          | Cara Wilson           | 
-|9:30 - 10:00  |  [Presentation 2: Overview of Sea Ice Remote Sensing](https://docs.google.com/presentation/d/1GBN1ZfezQcBizNJ9-D3iYTlooMyXC6r7EdqvCm81b_g/edit#slide=id.g30bd589e53c_0_448)                                 | Ludovic Brucker       |
+|9:30 - 10:00  |  [Presentation 2: Overview of Sea Ice Remote Sensing](https://docs.google.com/presentation/d/13R5bCFFaic4dWaCFCwwLp7zd14rF-Uvj1z9iIfovJpc/edit#slide=id.g30bd589e53c_0_448)                                 | Ludovic Brucker       |
 |10:00 - 10:30 |  [Presentation 3: JPSS Sea Ice Microlesson](https://docs.google.com/presentation/d/1YqomHAs6YLD_A9T3odgo3Lku8tuyR_GP/edit#slide=id.p1)                                 | Kevin Fuell           |
 |10:30 - 10:45 | Break                                                                      |                       |
 |10:45 - 11:15 |  [Presentation 4: Sea Ice from SAR](https://docs.google.com/presentation/d/1WOKoBkJDUpVvp2XC6fc9eiVe9hwIW-hY/edit#slide=id.g13c549dc311_7_24)                                         | Chris Jackson         |
