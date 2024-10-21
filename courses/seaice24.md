@@ -3,7 +3,7 @@ title: "2024 PolarWatch Sea Ice Training"
 description: "October 21, 2024 Virtual 9am - 4pm (Pacific Time)"
 ---
 
-PolarWatch node of the CoastWatch is hosting a free, virtual training class on [October 21, 2024 (9am-4pm Pacific Time)](meet.google.com/pjo-ajqf-qxn
+PolarWatch node of the CoastWatch is hosting a free, virtual training class on [October 21, 2024 (9am-4pm Pacific Time)](https://meet.google.com/pjo-ajqf-qxn
 ). 
 
 Click here to [Register](https://lp.constantcontactpages.com/ev/reg/78xuhzs/lp/e266250c-b995-44e4-841e-97b4cc22bbec).
