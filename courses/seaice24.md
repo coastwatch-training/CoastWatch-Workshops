@@ -36,7 +36,7 @@ Many satellite sea ice products are available for download from NOAA and many ot
 |13:30 - 13:45 |  [Presentation 9: PolarWatch Portal Demo](https://docs.google.com/presentation/d/1Fiw05tEDiFZybggvV2ZP_WFRrHA7b6Fs/edit#slide=id.p1)                                  | [Sunny Hospital](mailto:sun.bak-hospital@noaa.gov)        |
 |13:45 - 14:00 |  [Presentation 10: CoastWatch Viewer Demo](https://drive.google.com/drive/folders/1UnQbpUTL1W5NyFJb3JI5n9CQamW7PmZc)                                  | [Michael Soracco](mailto:michael.soracco@noaa.gov)       |
 |14:00 - 14:15 | Break                                                                      |                       |                                    
-|14:15 - 14:30 |  [Presentation 11: Overview of Tutorials](https://docs.google.com/presentation/d/1sYgtvVPfNiQwoVeri4LnRi42o_T-XPE0/edit#slide=id.p1)                                  |  [Cara Wilson](mailto:cara.wilson@noaa.gov)          |
+|14:15 - 14:30 |  [Presentation 11: Overview of Tutorials](https://docs.google.com/presentation/d/1sYgtvVPfNiQwoVeri4LnRi42o_T-XPE0/edit#slide=id.p1)                                  |  [Cara Wilson](mailto:cara.wilson@noaa.gov), [Matthew Smith](mailto:matthew.r.smith@nasa.gov)          |
 |14:30 - 16:00 |  Hand's on time, with instuctor's guidance available                       |                       |
 
 
