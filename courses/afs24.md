@@ -16,10 +16,10 @@ Click here to [Register](https://lp.constantcontactpages.com/ev/reg/2qmh83d/lp/2
 
  | Name              | Affiliation                    | 
  |:-----------------|:-----------------------------------------------------------------------------|
- | Cara Wilson       | CoastWatch/West Coast Node, PI |
- | Dale Robinson     | CoastWatch/West Coast Node, node manager |
- | Megan McKinzie    | ATN Data Coordinator |
- | Daisy Shi         | CoastWatch/Pacific OceanWatch, node manager |
+ | [Cara Wilson](mailto:cara.wilson@noaa.gov)       | CoastWatch/West Coast Node, PI |
+ | [Dale Robinson](mailto:dale.robinson@noaa.gov)     | CoastWatch/West Coast Node, node manager |
+ | [Megan McKinzie](mailto:mmckinzie@mbari.org)    | ATN Data Coordinator |
+ | [Daisy Shi](mailto:hui.shi@noaa.gov)         | CoastWatch/Pacific OceanWatch, node manager |
     
 ## Objectives
 * Describe the basic types of products available from satellite data
@@ -33,18 +33,18 @@ Click here to [Register](https://lp.constantcontactpages.com/ev/reg/2qmh83d/lp/2
 
 | Time (PST)      | Topic                                                                         | Presenter                    |
 |:-------------|:-----------------------------------------------------------------------------|:----------------------------|
-| 10:00 - 10:15 | Training  Overview - CoastWatch, ATN and the workshop component                   | Cara Wilson       | 
-| 10:15 - 10:30 |  Group Introductions                                                              | Cara Wilson       |
-| 10:30 - 11:15 | Coastwatch satellite datasets and data portals                                    | Cara Wilson       |
+| 10:00 - 10:15 | Training  Overview - CoastWatch, ATN and the workshop component                   | C[Cara Wilson](mailto:cara.wilson@noaa.gov)       | 
+| 10:15 - 10:30 |  Group Introductions                                                              | [Cara Wilson](mailto:cara.wilson@noaa.gov)       |
+| 10:30 - 11:15 | Coastwatch satellite datasets and data portals                                    | [Cara Wilson](mailto:cara.wilson@noaa.gov)       |
 | 11:15 - 11:30 |   Break                                                                           |        |
-| 11:30 - 12:00 | Using the ERDDAP data server                                                      | Cara Wilson                 |
-| 12:00 - 12:30 | Accessing ERDDAP using scripts (R, python)                                         | Cara Wilson       |
+| 11:30 - 12:00 | Using the ERDDAP data server                                                      | [Cara Wilson](mailto:cara.wilson@noaa.gov)                 |
+| 12:00 - 12:30 | Accessing ERDDAP using scripts (R, python)                                         | [Cara Wilson](mailto:cara.wilson@noaa.gov)       |
 | 12:30 - 1:30  | Lunch break                                                                        |                   |  
-| 1:30 - 2:00   | Intro to ATN and the DAC                                                           | Megan McKinzie    |
-| 2:00 - 2:30   | Demo of ATN data portal                                                            | Megan McKinzie    |
-| 2:30 - 3:00   | Accessing public ATN datasets                                                      | Megan McKinzie    |
+| 1:30 - 2:00   | Intro to ATN and the DAC                                                           | [Megan McKinzie](mailto:mmckinzie@mbari.org)    |
+| 2:00 - 2:30   | Demo of ATN data portal                                                            | [Megan McKinzie](mailto:mmckinzie@mbari.org)    |
+| 2:30 - 3:00   | Accessing public ATN datasets                                                      | [Megan McKinzie](mailto:mmckinzie@mbari.org)    |
 | 3:00 - 3:15   | Break                                                                              |                   |
-| 3:15 - 3:30   | Workshop, part 1: Linking CoastWatch and ATN data using scripts                    | Cara Wilson       |
+| 3:15 - 3:30   | Workshop, part 1: Linking CoastWatch and ATN data using [scripts](https://github.com/coastwatch-training/CoastWatch-Tutorials/tree/main/matchup-satellite-data-to-ATN-animal-tracks)                    | [Daisy Shi](mailto:hui.shi@noaa.gov)       |
 | 3:30 - 4:45   | Workshop, part 2: Hand’s on time                                                   |                   |
 | 4:45 - 5:00   | Wrap up and final discussion                                                       | All               |
 
