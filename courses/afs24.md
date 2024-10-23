@@ -33,7 +33,7 @@ Click here to [Register](https://lp.constantcontactpages.com/ev/reg/2qmh83d/lp/2
 
 | Time (PST)      | Topic                                                                         | Presenter                    |
 |:-------------|:-----------------------------------------------------------------------------|:----------------------------|
-| 10:00 - 10:15 | Training  Overview - CoastWatch, ATN and the workshop component                   | C[Cara Wilson](mailto:cara.wilson@noaa.gov)       | 
+| 10:00 - 10:15 | Training  Overview - CoastWatch, ATN and the workshop component                   | [Cara Wilson](mailto:cara.wilson@noaa.gov)       | 
 | 10:15 - 10:30 |  Group Introductions                                                              | [Cara Wilson](mailto:cara.wilson@noaa.gov)       |
 | 10:30 - 11:15 | Coastwatch satellite datasets and data portals                                    | [Cara Wilson](mailto:cara.wilson@noaa.gov)       |
 | 11:15 - 11:30 |   Break                                                                           |        |
