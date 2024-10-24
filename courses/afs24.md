@@ -33,12 +33,12 @@ Click here to [Register](https://lp.constantcontactpages.com/ev/reg/2qmh83d/lp/2
 
 | Time (PST)      | Topic                                                                         | Presenter                    |
 |:-------------|:-----------------------------------------------------------------------------|:----------------------------|
-| 10:00 - 10:15 | Training  Overview - CoastWatch, ATN and the workshop component                   | [Cara Wilson](mailto:cara.wilson@noaa.gov)       | 
+| 10:00 - 10:15 | [Training  Overview - CoastWatch, ATN and the workshop component](https://docs.google.com/presentation/d/1mGAvB1pCTp-grYqsl5CM7Ym0VNbuzRN_/edit#slide=id.g30b85479e13_0_11)                   | [Cara Wilson](mailto:cara.wilson@noaa.gov)       | 
 | 10:15 - 10:30 |  Group Introductions                                                              | [Cara Wilson](mailto:cara.wilson@noaa.gov)       |
-| 10:30 - 11:15 | Coastwatch satellite datasets and data portals                                    | [Cara Wilson](mailto:cara.wilson@noaa.gov)       |
+| 10:30 - 11:15 | [Coastwatch satellite datasets and data portals](https://docs.google.com/presentation/d/1j_2Vcxsnn-r4UDakBZ3iyzjJcVRj9qZK/edit#slide=id.p20)                                    | [Cara Wilson](mailto:cara.wilson@noaa.gov)       |
 | 11:15 - 11:30 |   Break                                                                           |        |
-| 11:30 - 12:00 | Using the ERDDAP data server                                                      | [Cara Wilson](mailto:cara.wilson@noaa.gov)                 |
-| 12:00 - 12:30 | Accessing ERDDAP using scripts (R, python)                                         | [Cara Wilson](mailto:cara.wilson@noaa.gov)       |
+| 11:30 - 12:00 | [Using the ERDDAP data server](https://docs.google.com/presentation/d/1ERkw4l6roYUtJuNqJgcNINrPTIn3jSYC/edit#slide=id.p1)                                                      | [Cara Wilson](mailto:cara.wilson@noaa.gov)                 |
+| 12:00 - 12:30 | [Accessing ERDDAP using scripts (R, python)](https://docs.google.com/presentation/d/1am9EJfNudBrBDTDP9k5C5XyP7yHecX-s/edit#slide=id.p1)                                         | [Cara Wilson](mailto:cara.wilson@noaa.gov)       |
 | 12:30 - 1:30  | Lunch break                                                                        |                   |  
 | 1:30 - 2:00   | Intro to ATN and the DAC                                                           | [Megan McKinzie](mailto:mmckinzie@mbari.org)    |
 | 2:00 - 2:30   | Demo of ATN data portal                                                            | [Megan McKinzie](mailto:mmckinzie@mbari.org)    |
