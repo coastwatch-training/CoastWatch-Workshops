@@ -40,7 +40,7 @@ Click here to [Register](https://lp.constantcontactpages.com/ev/reg/2qmh83d/lp/2
 | 11:30 - 12:00 | [Using the ERDDAP data server](https://docs.google.com/presentation/d/1ERkw4l6roYUtJuNqJgcNINrPTIn3jSYC/edit#slide=id.p1)                                                      | [Cara Wilson](mailto:cara.wilson@noaa.gov)                 |
 | 12:00 - 12:30 | [Accessing ERDDAP using scripts (R, python)](https://docs.google.com/presentation/d/1am9EJfNudBrBDTDP9k5C5XyP7yHecX-s/edit#slide=id.p1)                                         | [Cara Wilson](mailto:cara.wilson@noaa.gov)       |
 | 12:30 - 1:30  | Lunch break                                                                        |                   |  
-| 1:30 - 2:00   | Intro to ATN and the DAC                                                           | [Megan McKinzie](mailto:mmckinzie@mbari.org)    |
+| 1:30 - 2:00   | [Intro to ATN and the DAC](https://docs.google.com/presentation/d/1pXZ15AF3o86icel8IPqm3SLwpdy5jxlG/edit#slide=id.g30e659f0e0e_0_26)                                                           | [Megan McKinzie](mailto:mmckinzie@mbari.org)    |
 | 2:00 - 2:30   | Demo of ATN data portal                                                            | [Megan McKinzie](mailto:mmckinzie@mbari.org)    |
 | 2:30 - 3:00   | Accessing public ATN datasets                                                      | [Megan McKinzie](mailto:mmckinzie@mbari.org)    |
 | 3:00 - 3:15   | Break                                                                              |                   |
