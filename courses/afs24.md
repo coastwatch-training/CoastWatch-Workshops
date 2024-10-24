@@ -42,7 +42,7 @@ Click here to [Register](https://lp.constantcontactpages.com/ev/reg/2qmh83d/lp/2
 | 12:30 - 1:30  | Lunch break                                                                        |                   |  
 | 1:30 - 2:00   | [Intro to ATN and the DAC](https://docs.google.com/presentation/d/1pXZ15AF3o86icel8IPqm3SLwpdy5jxlG/edit#slide=id.g30e659f0e0e_0_26)                                                           | [Megan McKinzie](mailto:mmckinzie@mbari.org)    |
 | 2:00 - 2:30   | Demo of ATN data portal                                                            | [Megan McKinzie](mailto:mmckinzie@mbari.org)    |
-| 2:30 - 3:00   | Accessing public ATN datasets                                                      | [Megan McKinzie](mailto:mmckinzie@mbari.org)    |
+| 2:30 - 3:00   | [Accessing public ATN datasets](https://docs.google.com/presentation/d/1RkPUz3Ys0GYtsUviv4c0FEAmu8olzSEW/edit#slide=id.p1)                                                      | [Megan McKinzie](mailto:mmckinzie@mbari.org)    |
 | 3:00 - 3:15   | Break                                                                              |                   |
 | 3:15 - 3:30   | Workshop, part 1: Linking CoastWatch and ATN data using [scripts](https://github.com/coastwatch-training/CoastWatch-Tutorials/tree/main/matchup-satellite-data-to-ATN-animal-tracks)                    | [Daisy Shi](mailto:hui.shi@noaa.gov)       |
 | 3:30 - 4:45   | Workshop, part 2: Hand’s on time                                                   |                   |
