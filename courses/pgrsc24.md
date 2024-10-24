@@ -14,9 +14,9 @@ Click here to [Register](https://lp.constantcontactpages.com/ev/reg/w28fcr4/lp/6
 
  | Name              | Affiliation                     | 
  |:-----------------|:-----------------------------------------------------------------------------|
- | Daisy Shi         | CoastWatch/Pacific OceanWatch, node manager |
- | Lauren Kaiser     | PacIOOS, data management specialist|
- | Cara Wilson       | CoastWatch/West Coast Node, PI |
+ | [Daisy Shi](mailto:hui.shi@noaa.gov)         | CoastWatch/Pacific OceanWatch, node manager |
+ | [Lauren Kaiser](mailto:lkaiser7@hawaii.edu)     | PacIOOS, data management specialist|
+ | [Cara Wilson](mailto:cara.wilson@noaa.gov)       | CoastWatch/West Coast Node, PI |
   
 ## Objectives
 
@@ -29,13 +29,21 @@ Click here to [Register](https://lp.constantcontactpages.com/ev/reg/w28fcr4/lp/6
 
 ## Schedule
 
-| Time (Fiji Standard Time)      | Topic     |
-|:-------------|:-----------------------------------------------------------------------------|
-| 1:00 - 2:30 | Introduction and Website Test Drives         | 
+| Time (Fiji Standard Time)   | Topic                                                                         | Presenter                    |
+|:-------------|:-----------------------------------------------------------------------------|:----------------------------|
+| 1:00 - 1:10 | Welcome & Introductions  | [Daisy Shi](mailto:hui.shi@noaa.gov) & [Lauren Kaiser](mailto:lkaiser7@hawaii.edu)  |
+| 1:10 - 1:20 | Interactive Questions                                 |
+| 1:20 - 1:35 | Intro to CoastWatch, Satellite Datasets & Data Portal      | [Daisy Shi](mailto:hui.shi@noaa.gov)  |
+| 1:35 - 1:50 | Intro to OceanWatch, Data Accessibility & Usability      | [Daisy Shi](mailto:hui.shi@noaa.gov)  |
+| 1:50 - 2:20 | Intro to PacIOOS, Website Walkthrough & Data Search  | [Lauren Kaiser](mailto:lkaiser7@hawaii.edu) |
+| 2:20 - 2:30 | Interactive Questions                                 |
 | 2:30 - 2:45 |  Break                                                              | 
-| 2:45 - 3:45 | Tutorial Demos                                  | 
+| 2:45 - 2:55 | Overview of CoastWatch Tutorials          |  [Daisy Shi](mailto:hui.shi@noaa.gov)  |
+| 2:55 - 3:15 | ERDDAP Demos                                | [Daisy Shi](mailto:hui.shi@noaa.gov)  |
+| 3:15 - 3:45 | ArcGIS & QGIS Demos                         | [Lauren Kaiser](mailto:lkaiser7@hawaii.edu) |
 | 3:45 - 4:00 |   Break                                                                            |     
-| 4:00 - 6:00 | Hands-On time              |
+| 4:00 - 5:50 | Hands-On time              | All|
+| 5:50 - 6:00 | Interactive Questions & Feedback                                |
 
 
 ## Resources
