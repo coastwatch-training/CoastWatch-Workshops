@@ -7,7 +7,7 @@ description: "October 25, 2024, Virtual 10am - 5pm (Pacific Time)"
 ## Course Description
 Training on accessing Oceanographic Satellite Data from NOAA CoastWatch
 and using the Animal Telemetry Network Portal.  This training was originally going to be held before
-the annual AFS (American Fisheries Society) meeting in Honolulu, Hawaii, but has been rescheduled to be an online course, open to all.
+the annual AFS (American Fisheries Society) meeting in Honolulu, Hawaii, but has been rescheduled to be an [online course](meet.google.com/qip-azxk-jen), open to all.
 
 Click here to [Register](https://lp.constantcontactpages.com/ev/reg/2qmh83d/lp/23b56bab-9a72-4dea-8010-98caa0fcec19).
 
