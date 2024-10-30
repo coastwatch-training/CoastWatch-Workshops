@@ -4,9 +4,9 @@
     "href": "courses/seaice24.html",
     "title": "2024 PolarWatch Sea Ice Training",
     "section": "",
-    "text": "PolarWatch node of the CoastWatch is hosting a free, virtual training class on October 21, 2024 (9am-4pm Pacific Time).\nClick here to Register.",
+    "text": "PolarWatch node of the CoastWatch is hosting a free, virtual training class on October 21, 2024 (9am-4pm Pacific Time).",
     "crumbs": [
-      "Upcoming Trainings",
+      "Past Trainings",
       "2024 Sea Ice Data Course"
     ]
   },
@@ -17,7 +17,7 @@
     "section": "Course Description",
     "text": "Course Description\nMany satellite sea ice products are available for download from NOAA and many other data providers: e.g. sea ice concentration, sea ice thickness, sea ice age, sea ice temperature, and sea ice extent. It can often be challenging to know the differences between the products and how each can be applied to a user’s specific application. For example, the spatial resolutions of the products can vary widely, largely dependent on the type of satellite measurement the product is derived from (passive microwave, visible radiometry or synthetic aperture radar). Additionally, when working with data in the high-latitudes issues of data projection invariably arise and can complicate accessing and working with data. To address these issues, NOAA’s PolarWatch node has developed a 1-day (6 hour) online course with the following training objectives.",
     "crumbs": [
-      "Upcoming Trainings",
+      "Past Trainings",
       "2024 Sea Ice Data Course"
     ]
   },
@@ -28,7 +28,7 @@
     "section": "Objectives",
     "text": "Objectives\n\nDescribe the basic types of sea-ice products available from satellite data\nGive an overview of working with different projections\nExplore the data available on the PolarWatch portal\nProvide hands-on time to access data and try tutorials\nIntroduce CoastWatch and other sea ice satellite data training resources",
     "crumbs": [
-      "Upcoming Trainings",
+      "Past Trainings",
       "2024 Sea Ice Data Course"
     ]
   },
@@ -39,7 +39,7 @@
     "section": "Schedule",
     "text": "Schedule\n\n\n\nTime (PST)\nTopic\nPresenter\n\n\n\n\n9:00 - 9:30\nPresentation 1: Introduction to NOAA CoastWatch\nCara Wilson\n\n\n9:30 - 10:00\nPresentation 2: Overview of Sea Ice Remote Sensing\nLudovic Brucker\n\n\n10:00 - 10:30\nPresentation 3: JPSS Sea Ice Microlesson\nKevin Fuell\n\n\n10:30 - 10:45\nBreak\n\n\n\n10:45 - 11:15\nPresentation 4: Sea Ice from SAR\nChris Jackson\n\n\n11:15 - 11:30\nPresentation 5: Projections - Why they Matter\nMichael Soracco\n\n\n11:30 - 11:45\nPresentation 6: Ice in the Great Lakes\nAndrea VanderWoude\n\n\n11:45 - 12:45\nLunch break\n\n\n\n12:45 - 13:00\nPresentation 7: Projections in Action\nPeter Hollemans\n\n\n13:00 - 13:30\nPresentation 8: ERDDAP Demo\nCara Wilson\n\n\n13:30 - 13:45\nPresentation 9: PolarWatch Portal Demo\nSunny Hospital\n\n\n13:45 - 14:00\nPresentation 10: CoastWatch Viewer Demo\nMichael Soracco\n\n\n14:00 - 14:15\nBreak\n\n\n\n14:15 - 14:30\nPresentation 11: Overview of Tutorials\nCara Wilson, Matthew Smith\n\n\n14:30 - 16:00\nHand’s on time, with instuctor’s guidance available",
     "crumbs": [
-      "Upcoming Trainings",
+      "Past Trainings",
       "2024 Sea Ice Data Course"
     ]
   },
@@ -50,7 +50,7 @@
     "section": "Resources",
     "text": "Resources\n\nCoastwatch Tutorials (on GitHub)\nCoastwatch Lecture series\nJPSS Sea Ice Microlesson",
     "crumbs": [
-      "Upcoming Trainings",
+      "Past Trainings",
       "2024 Sea Ice Data Course"
     ]
   },
@@ -135,9 +135,9 @@
     "href": "courses/afs24.html",
     "title": "Satellite and Animal Telemetry Data Training",
     "section": "",
-    "text": "Training on accessing Oceanographic Satellite Data from NOAA CoastWatch and using the Animal Telemetry Network Portal. This training was originally going to be held before the annual AFS (American Fisheries Society) meeting in Honolulu, Hawaii, but has been rescheduled to be an online course, open to all.\nClick here to Register.",
+    "text": "Training on accessing Oceanographic Satellite Data from NOAA CoastWatch and using the Animal Telemetry Network Portal. This training was originally going to be held before the annual AFS (American Fisheries Society) meeting in Honolulu, Hawaii, but has been rescheduled to be an online course, open to all.",
     "crumbs": [
-      "Upcoming Trainings",
+      "Past Trainings",
       "2024 AFS Workshop"
     ]
   },
@@ -146,9 +146,9 @@
     "href": "courses/afs24.html#course-description",
     "title": "Satellite and Animal Telemetry Data Training",
     "section": "",
-    "text": "Training on accessing Oceanographic Satellite Data from NOAA CoastWatch and using the Animal Telemetry Network Portal. This training was originally going to be held before the annual AFS (American Fisheries Society) meeting in Honolulu, Hawaii, but has been rescheduled to be an online course, open to all.\nClick here to Register.",
+    "text": "Training on accessing Oceanographic Satellite Data from NOAA CoastWatch and using the Animal Telemetry Network Portal. This training was originally going to be held before the annual AFS (American Fisheries Society) meeting in Honolulu, Hawaii, but has been rescheduled to be an online course, open to all.",
     "crumbs": [
-      "Upcoming Trainings",
+      "Past Trainings",
       "2024 AFS Workshop"
     ]
   },
@@ -159,7 +159,7 @@
     "section": "Instructors",
     "text": "Instructors\n\n\n\nName\nAffiliation\n\n\n\n\nCara Wilson\nCoastWatch/West Coast Node, PI\n\n\nDale Robinson\nCoastWatch/West Coast Node, node manager\n\n\nMegan McKinzie\nATN Data Coordinator\n\n\nDaisy Shi\nCoastWatch/Pacific OceanWatch, node manager",
     "crumbs": [
-      "Upcoming Trainings",
+      "Past Trainings",
       "2024 AFS Workshop"
     ]
   },
@@ -170,7 +170,7 @@
     "section": "Objectives",
     "text": "Objectives\n\nDescribe the basic types of products available from satellite data\nDemonstate how to access data on ERDDAP servers\nExplore the data available on the Animal Telemetry Network portal\nIntroduce CoastWatch satellite data training resources\nProvide hands-on time to access data and try tutorials",
     "crumbs": [
-      "Upcoming Trainings",
+      "Past Trainings",
       "2024 AFS Workshop"
     ]
   },
@@ -181,7 +181,7 @@
     "section": "Schedule",
     "text": "Schedule\n\n\n\nTime (PST)\nTopic\nPresenter\n\n\n\n\n10:00 - 10:15\nTraining Overview - CoastWatch, ATN and the workshop component\nCara Wilson\n\n\n10:15 - 10:30\nGroup Introductions\nCara Wilson\n\n\n10:30 - 11:15\nCoastwatch satellite datasets and data portals\nCara Wilson\n\n\n11:15 - 11:30\nBreak\n\n\n\n11:30 - 12:00\nUsing the ERDDAP data server\nCara Wilson\n\n\n12:00 - 12:30\nAccessing ERDDAP using scripts (R, python)\nCara Wilson\n\n\n12:30 - 1:30\nLunch break\n\n\n\n1:30 - 2:00\nIntro to ATN and the DAC\nMegan McKinzie\n\n\n2:00 - 2:30\nDemo of ATN data portal\nMegan McKinzie\n\n\n2:30 - 3:00\nAccessing public ATN datasets\nMegan McKinzie\n\n\n3:00 - 3:15\nBreak\n\n\n\n3:15 - 3:30\nWorkshop, part 1: Linking CoastWatch and ATN data using scripts\nDaisy Shi\n\n\n3:30 - 4:45\nWorkshop, part 2: Hand’s on time\n\n\n\n4:45 - 5:00\nWrap up and final discussion\nAll",
     "crumbs": [
-      "Upcoming Trainings",
+      "Past Trainings",
       "2024 AFS Workshop"
     ]
   },
@@ -192,7 +192,7 @@
     "section": "Resources",
     "text": "Resources\n\nCoastwatch Tutorials (on GitHub)\nCoastwatch Lecture series\nAnimal telemetry Network",
     "crumbs": [
-      "Upcoming Trainings",
+      "Past Trainings",
       "2024 AFS Workshop"
     ]
   }
