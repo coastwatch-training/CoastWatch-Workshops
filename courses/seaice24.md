@@ -6,8 +6,6 @@ description: "October 21, 2024 Virtual 9am - 4pm (Pacific Time)"
 PolarWatch node of the CoastWatch is hosting a free, virtual training class on [October 21, 2024 (9am-4pm Pacific Time)](https://meet.google.com/pjo-ajqf-qxn
 ). 
 
-Click here to [Register](https://lp.constantcontactpages.com/ev/reg/78xuhzs/lp/e266250c-b995-44e4-841e-97b4cc22bbec).
-
 
 ## Course Description
 Many satellite sea ice products are available for download from NOAA and many other data providers: e.g. sea ice concentration, sea ice thickness, sea ice age, sea ice temperature, and sea ice extent. It can often be challenging to know the differences between the products and how each can be applied to a user's specific application. For example, the spatial resolutions of the products can vary widely, largely dependent on the type of satellite measurement the product is derived from (passive microwave, visible radiometry or synthetic aperture radar). Additionally, when working with data in the high-latitudes issues of data projection invariably arise and can complicate accessing and working with data. To address these issues, NOAA’s PolarWatch node has developed a 1-day (6 hour) online course with the following training objectives.

@@ -9,9 +9,7 @@ Training on accessing Oceanographic Satellite Data from NOAA CoastWatch
 and using the Animal Telemetry Network Portal.  This training was originally going to be held before
 the annual AFS (American Fisheries Society) meeting in Honolulu, Hawaii, but has been rescheduled to be an [online course](https://meet.google.com/qip-azxk-jen), open to all.
 
-Click here to [Register](https://lp.constantcontactpages.com/ev/reg/2qmh83d/lp/23b56bab-9a72-4dea-8010-98caa0fcec19).
 
- 
 ## Instructors
 
  | Name              | Affiliation                    | 
