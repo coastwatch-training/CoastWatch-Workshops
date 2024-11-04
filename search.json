@@ -121,6 +121,16 @@
     ]
   },
   {
+    "objectID": "officehours.html",
+    "href": "officehours.html",
+    "title": "CoastWatch Office Hours",
+    "section": "",
+    "text": "Hosted by the West Coast Node and PolarWatch Nov. 7 at 11 am PST (every other Thursday)\nEveryone is welcome to come to the CoastWatch Office Hour where people can: Ask questions about satellite data Request help with accessing satellite data products Get troubleshooting assistance with code examples for discovering, accessing and working with satellite data\nCoastWatch Lectures\nCoastWatch Code Repository",
+    "crumbs": [
+      "Office Hours"
+    ]
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "CoastWatch Workshops",
