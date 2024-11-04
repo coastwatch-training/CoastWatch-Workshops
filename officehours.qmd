@@ -1,5 +1,18 @@
 ---
 title: "CoastWatch Office Hours"
-description: "Short description here"
+description: "Every other Thursday, 11 am PST" 
 ---
+
+
+Hosted by the West Coast Node and PolarWatch 
+Nov. 7 at 11 am PST (every other Thursday)  
+
+Everyone is welcome to come to the CoastWatch Office Hour where people can:
+Ask questions about satellite data
+Request help with accessing satellite data products
+Get troubleshooting assistance with code examples for discovering, accessing and working with satellite data 
+
+CoastWatch Lectures 
+
+CoastWatch Code Repository 
 
