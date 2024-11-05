@@ -12,7 +12,6 @@ Everyone is welcome to come to the CoastWatch Office Hour where people can:
 * Ask questions about satellite data
 * Request help with accessing satellite data products
 * Get troubleshooting assistance with code examples for discovering, accessing and working with satellite data 
-
-* [CoastWatch Lectures](https://umd.instructure.com/courses/1336575/pages/all-lectures) 
-* [CoastWatch Tutorials](https://github.com/coastwatch-training/CoastWatch-Tutorials/blob/main/README.md)
+  * [CoastWatch Lectures](https://umd.instructure.com/courses/1336575/pages/all-lectures) 
+  * [CoastWatch Tutorials](https://github.com/coastwatch-training/CoastWatch-Tutorials/blob/main/README.md)
 
