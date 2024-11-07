@@ -21,20 +21,20 @@ Many satellite sea ice products are available for download from NOAA and many ot
 
 | Time (PST)      | Topic                                                                     | Presenter                    |
 |-------------|-----------------------------------------------------------------------------|----------------------------|
-|9:00 - 9:30   |  [Presentation 1: Introduction to NOAA CoastWatch](https://drive.google.com/drive/folders/1UnQbpUTL1W5NyFJb3JI5n9CQamW7PmZc)                          |  [Cara Wilson](mailto:cara.wilson@noaa.gov)           | 
-|9:30 - 10:00  |  [Presentation 2: Overview of Sea Ice Remote Sensing](https://docs.google.com/presentation/d/13R5bCFFaic4dWaCFCwwLp7zd14rF-Uvj1z9iIfovJpc/edit#slide=id.g30bd589e53c_0_448)                                 | [Ludovic Brucker](mailto:ludovic.brucker@noaa.gov )       |
-|10:00 - 10:30 |  [Presentation 3: JPSS Sea Ice Microlesson](https://docs.google.com/presentation/d/1YqomHAs6YLD_A9T3odgo3Lku8tuyR_GP/edit#slide=id.p1)                                 | [Kevin Fuell](mailto:kevin.fuell@nasa.gov )           |
+|9:00 - 9:30   |  [Presentation 1: Introduction to NOAA CoastWatch](../presentations/seaice24/IntrotoCoastWatchandSeaIceCourse.pptx.pdf)                          |  [Cara Wilson](mailto:cara.wilson@noaa.gov)           | 
+|9:30 - 10:00  |  [Presentation 2: Overview of Sea Ice Remote Sensing](../presentations/seaice24/PolarWatch24_Presentation%202_Overview%20of%20Sea%20Ice%20Remote%20Sensing_Brucker.pdf)                                 | [Ludovic Brucker](mailto:ludovic.brucker@noaa.gov )       |
+|10:00 - 10:30 |  [Presentation 3: JPSS Sea Ice Microlesson](../presentations/seaice24/JPSS_Microlesson_Training_Series_Sea_Ice_Products_KFuell_MSmith.pptx.pdf)                                 | [Kevin Fuell](mailto:kevin.fuell@nasa.gov )           |
 |10:30 - 10:45 | Break                                                                      |                       |
-|10:45 - 11:15 |  [Presentation 4: Sea Ice from SAR](https://docs.google.com/presentation/d/1WOKoBkJDUpVvp2XC6fc9eiVe9hwIW-hY/edit#slide=id.g13c549dc311_7_24)                                         | [Chris Jackson](mailto:christopher.jackson@noaa.gov )         |
-|11:15 - 11:30 |  [Presentation 5: Projections - Why they Matter](https://docs.google.com/presentation/d/1w8-QlT4m1_5gyQ4pgHmB5o0y6MTtrfLk/edit#slide=id.p1)                            | [Michael Soracco](mailto:michael.soracco@noaa.gov)       |
-|11:30 - 11:45 |  [Presentation 6: Ice in the Great Lakes](https://docs.google.com/presentation/d/1hWzpfC3Kk1mkGP3rB6OI9zQ1lxPOfv-_/edit#slide=id.p1)                                   | [Andrea VanderWoude](mailto:andrea.vanderwoude@noaa.gov )    |
+|10:45 - 11:15 |  [Presentation 4: Sea Ice from SAR](../presentations/seaice24/CW_SeaIceSAR_Class_21Oct2024_CJackson_Final.pptx.pdf)                                         | [Chris Jackson](mailto:christopher.jackson@noaa.gov )         |
+|11:15 - 11:30 |  [Presentation 5: Projections - Why they Matter](../presentations/seaice24/Satellite_Training2024_CoastWatch_IntroProjections.pdf)                            | [Michael Soracco](mailto:michael.soracco@noaa.gov)       |
+|11:30 - 11:45 |  [Presentation 6: Ice in the Great Lakes](../presentations/seaice24/CW_Great_Lakes_Ice.pptx.pdf)                                   | [Andrea VanderWoude](mailto:andrea.vanderwoude@noaa.gov )    |
 |11:45 - 12:45 | Lunch break                                                                |                       |  
-|12:45 - 13:00 |  [Presentation 7: Projections in Action](https://drive.google.com/drive/folders/1UnQbpUTL1W5NyFJb3JI5n9CQamW7PmZc)                                    | [Peter Hollemans](mailto:peter@terrenus.ca)      |
-|13:00 - 13:30 |  [Presentation 8: ERDDAP Demo](https://docs.google.com/presentation/d/15NFvQx0uPtQwVwjxdVMPmq8-FVDeJDFS/edit#slide=id.p1)                                              | [Cara Wilson](mailto:cara.wilson@noaa.gov)            |
-|13:30 - 13:45 |  [Presentation 9: PolarWatch Portal Demo](https://docs.google.com/presentation/d/1Fiw05tEDiFZybggvV2ZP_WFRrHA7b6Fs/edit#slide=id.p1)                                  | [Sunny Hospital](mailto:sun.bak-hospital@noaa.gov)        |
-|13:45 - 14:00 |  [Presentation 10: CoastWatch Viewer Demo](https://drive.google.com/drive/folders/1UnQbpUTL1W5NyFJb3JI5n9CQamW7PmZc)                                  | [Michael Soracco](mailto:michael.soracco@noaa.gov)       |
+|12:45 - 13:00 |  [Presentation 7: Projections in Action](../presentations/seaice24/Sea%20Ice%20Training%202024%20-%20Projection%20Calculations.pdf)                                    | [Peter Hollemans](mailto:peter@terrenus.ca)      |
+|13:00 - 13:30 |  [Presentation 8: ERDDAP Demo](../presentations/seaice24/ERDDAP-intro-SeaIce.pptx.pdf)                                              | [Cara Wilson](mailto:cara.wilson@noaa.gov)            |
+|13:30 - 13:45 |  [Presentation 9: PolarWatch Portal Demo](../presentations/seaice24/PolarWatch-Overview-PolarWatch-Portal-SHospital.pptx.pdf)                                  | [Sunny Hospital](mailto:sun.bak-hospital@noaa.gov)        |
+|13:45 - 14:00 |  [Presentation 10: CoastWatch Viewer Demo](../presentations/seaice24/Satellite_Training2024_CoastWatch_DataPortalOverView.pdf)                                  | [Michael Soracco](mailto:michael.soracco@noaa.gov)       |
 |14:00 - 14:15 | Break                                                                      |                       |                                    
-|14:15 - 14:30 |  [Presentation 11: Overview of Tutorials](https://docs.google.com/presentation/d/1sYgtvVPfNiQwoVeri4LnRi42o_T-XPE0/edit#slide=id.p1)                                  |  [Cara Wilson](mailto:cara.wilson@noaa.gov), [Matthew Smith](mailto:matthew.r.smith@nasa.gov)          |
+|14:15 - 14:30 |  [Presentation 11: Overview of Tutorials](../presentations/seaice24/GitHubTutorials_PW.pptx.pdf)                                  |  [Cara Wilson](mailto:cara.wilson@noaa.gov), [Matthew Smith](mailto:matthew.r.smith@nasa.gov)          |
 |14:30 - 16:00 |  Hand's on time, with instuctor's guidance available                       |                       |
 
 

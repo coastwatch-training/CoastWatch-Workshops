@@ -31,16 +31,16 @@ the annual AFS (American Fisheries Society) meeting in Honolulu, Hawaii, but has
 
 | Time (PST)      | Topic                                                                         | Presenter                    |
 |:-------------|:-----------------------------------------------------------------------------|:----------------------------|
-| 10:00 - 10:15 | [Training  Overview - CoastWatch, ATN and the workshop component](https://docs.google.com/presentation/d/1mGAvB1pCTp-grYqsl5CM7Ym0VNbuzRN_/edit#slide=id.g30b85479e13_0_11)                   | [Cara Wilson](mailto:cara.wilson@noaa.gov)       | 
+| 10:00 - 10:15 | [Training  Overview - CoastWatch, ATN and the workshop component](../presentations/afs24/IntrotoCoastWatchandATNCourse.pptx.pdf)                   | [Cara Wilson](mailto:cara.wilson@noaa.gov)       | 
 | 10:15 - 10:30 |  Group Introductions                                                              | [Cara Wilson](mailto:cara.wilson@noaa.gov)       |
-| 10:30 - 11:15 | [Coastwatch satellite datasets and data portals](https://docs.google.com/presentation/d/1j_2Vcxsnn-r4UDakBZ3iyzjJcVRj9qZK/edit#slide=id.p20)                                    | [Cara Wilson](mailto:cara.wilson@noaa.gov)       |
+| 10:30 - 11:15 | [Coastwatch satellite datasets and data portals](../presentations/afs24/Overview%20of%20Satellite%20Data%20.pptx.pdf)                                    | [Cara Wilson](mailto:cara.wilson@noaa.gov)       |
 | 11:15 - 11:30 |   Break                                                                           |        |
-| 11:30 - 12:00 | [Using the ERDDAP data server](https://docs.google.com/presentation/d/1ERkw4l6roYUtJuNqJgcNINrPTIn3jSYC/edit#slide=id.p1)                                                      | [Cara Wilson](mailto:cara.wilson@noaa.gov)                 |
-| 12:00 - 12:30 | [Accessing ERDDAP using scripts (R, python)](https://docs.google.com/presentation/d/1am9EJfNudBrBDTDP9k5C5XyP7yHecX-s/edit#slide=id.p1)                                         | [Cara Wilson](mailto:cara.wilson@noaa.gov)       |
+| 11:30 - 12:00 | [Using the ERDDAP data server](../presentations/afs24/ERDDAP-intro.pptx.pdf)                                                      | [Cara Wilson](mailto:cara.wilson@noaa.gov)                 |
+| 12:00 - 12:30 | [Accessing ERDDAP using scripts (R, python)](../presentations/afs24/GitHubTutorials.pptx.pdf)                                         | [Cara Wilson](mailto:cara.wilson@noaa.gov)       |
 | 12:30 - 1:30  | Lunch break                                                                        |                   |  
-| 1:30 - 2:00   | [Intro to ATN and the DAC](https://docs.google.com/presentation/d/1pXZ15AF3o86icel8IPqm3SLwpdy5jxlG/edit#slide=id.g30e659f0e0e_0_26)                                                           | [Megan McKinzie](mailto:mmckinzie@mbari.org)    |
+| 1:30 - 2:00   | [Intro to ATN and the DAC](../presentations/afs24/McKinzie_Intro%20to%20ATN%20&%20the%20DAC_Satellite%20Data%20Training%20Course_25Oct24.pptx.pdf)                                                           | [Megan McKinzie](mailto:mmckinzie@mbari.org)    |
 | 2:00 - 2:30   | Demo of ATN data portal                                                            | [Megan McKinzie](mailto:mmckinzie@mbari.org)    |
-| 2:30 - 3:00   | [Accessing public ATN datasets](https://docs.google.com/presentation/d/1RkPUz3Ys0GYtsUviv4c0FEAmu8olzSEW/edit#slide=id.p1)                                                      | [Megan McKinzie](mailto:mmckinzie@mbari.org)    |
+| 2:30 - 3:00   | [Accessing public ATN datasets](../presentations/afs24/McKinzie_Accessing%20Public%20ATN%20Data_25Oct24.pptx.pdf)                                                      | [Megan McKinzie](mailto:mmckinzie@mbari.org)    |
 | 3:00 - 3:15   | Break                                                                              |                   |
 | 3:15 - 3:30   | Workshop, part 1: Linking CoastWatch and ATN data using [scripts](https://github.com/coastwatch-training/CoastWatch-Tutorials/tree/main/matchup-satellite-data-to-ATN-animal-tracks)                    | [Daisy Shi](mailto:hui.shi@noaa.gov)       |
 | 3:30 - 4:45   | Workshop, part 2: Hand’s on time                                                   |                   |
