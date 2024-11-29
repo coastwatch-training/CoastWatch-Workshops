@@ -31,16 +31,16 @@ Click here to [Register](https://lp.constantcontactpages.com/ev/reg/w28fcr4/lp/6
 
 | Time (Fiji Standard Time)   | Topic                                                                         | Presenter                    |
 |:-------------|:-----------------------------------------------------------------------------|:----------------------------|
-| 1:00 - 1:10 | [Welcome & Introductions](https://docs.google.com/presentation/d/15lQxuXKU3LLXPUvEJcd8miETGNkrpGKS/edit#slide=id.g3124e0922a1_2_159)  | [Daisy Shi](mailto:hui.shi@noaa.gov) & [Lauren Kaiser](mailto:lkaiser7@hawaii.edu)  |
+| 1:00 - 1:10 | [Welcome & Introductions](../presentations/pgrsc24/1-Intro_workshop.pptx.pdf)  | [Daisy Shi](mailto:hui.shi@noaa.gov) & [Lauren Kaiser](mailto:lkaiser7@hawaii.edu)  |
 | 1:10 - 1:20 | Interactive Questions                                 |
-| 1:20 - 1:35 | [Intro to CoastWatch, Satellite Datasets & Data Portal](https://docs.google.com/presentation/d/1LkAS7Hs9eZ1D8nGBgkcZJMEgA31TQJ6P/edit#slide=id.g2fbc6b7baa7_1_10)      | [Daisy Shi](mailto:hui.shi@noaa.gov)  |
-| 1:35 - 1:50 | [Intro to OceanWatch, Data Accessibility & Usability](https://docs.google.com/presentation/d/1OrhKb7YodgKj5GNYjpgJF5ttV84Yahf8/edit#slide=id.g309e8a44a44_0_147)      | [Daisy Shi](mailto:hui.shi@noaa.gov)  |
-| 1:50 - 2:20 | [Intro to PacIOOS, Website Walkthrough & Data Search](https://docs.google.com/presentation/d/1om880NXmyM1v724FLCjXjAArg2kSZrjj06Hdcf6KOXo/edit#slide=id.g2857982ec40_0_0)  | [Lauren Kaiser](mailto:lkaiser7@hawaii.edu) |
+| 1:20 - 1:35 | [Intro to CoastWatch, Satellite Datasets & Data Portal](../presentations/pgrsc24/2-Intro_CoastWatch.pptx.pdf)      | [Daisy Shi](mailto:hui.shi@noaa.gov)  |
+| 1:35 - 1:50 | [Intro to OceanWatch, Data Accessibility & Usability](../presentations/pgrsc24/3-Intro-OceanWatch.pptx.pdf)      | [Daisy Shi](mailto:hui.shi@noaa.gov)  |
+| 1:50 - 2:20 | [Intro to PacIOOS, Website Walkthrough & Data Search](../presentations/pgrsc24/4-About-PacIOOS_PIGISRS_Workshop.pdf)  | [Lauren Kaiser](mailto:lkaiser7@hawaii.edu) |
 | 2:20 - 2:30 | Interactive Questions                                 |
 | 2:30 - 2:45 |  Break                                                              | 
-| 2:45 - 2:55 | [Overview of CoastWatch Tutorials](https://docs.google.com/presentation/d/1q2RGXcFLTfCV30EJYPlkA1xFk-a65Pgt/edit#slide=id.g309e8a44a44_0_174)          |  [Daisy Shi](mailto:hui.shi@noaa.gov)  |
-| 2:55 - 3:15 | [ERDDAP Demos](https://docs.google.com/presentation/d/1le3-pCLJbigdnEYWhk587rydtxrj-dvj/edit#slide=id.g309e8a44a44_0_164)                                | [Daisy Shi](mailto:hui.shi@noaa.gov)  |
-| 3:15 - 3:45 | [ArcGIS & QGIS Demos](https://docs.google.com/presentation/d/1Gfb0QySGaedJQS2L05mBjcwpq1SVJ_5l08FdpH8rdXI/edit#slide=id.g2857982ec40_0_0)                         | [Lauren Kaiser](mailto:lkaiser7@hawaii.edu) |
+| 2:45 - 2:55 | [Overview of CoastWatch Tutorials](../presentations/pgrsc24/5-CoastWatch_tutorial.pptx.pdf)          |  [Daisy Shi](mailto:hui.shi@noaa.gov)  |
+| 2:55 - 3:15 | [ERDDAP Demos](../presentations/pgrsc24/6-ERDDAP_Demo.pptx.pdf)                                | [Daisy Shi](mailto:hui.shi@noaa.gov)  |
+| 3:15 - 3:45 | [ArcGIS & QGIS Demos](../presentations/pgrsc24/7-ArcGIS-Demo_PIGISRS_Workshop.pdf)                         | [Lauren Kaiser](mailto:lkaiser7@hawaii.edu) |
 | 3:45 - 4:00 |   Break                                                                            |     
 | 4:00 - 5:50 | [Hands-On time](https://drive.google.com/drive/folders/1zdvDnXf6QxAW3iCr9as1RUrp_CvfsmL3)              | All|
 | 5:50 - 6:00 | Interactive Questions & Feedback                                |
