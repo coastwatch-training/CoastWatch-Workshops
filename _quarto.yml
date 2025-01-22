@@ -45,11 +45,10 @@ website:
       - href: index.qmd
         text: Main
       - section: Upcoming Trainings
+      - section: Past Trainings
         contents:
         - href: courses/pgrsc24.md
           text: 2024 PGRSC Workshop
-      - section: Past Trainings
-        contents:
         - href: courses/seaice24.md      
           text: 2024 Sea Ice Data Course
         - href: courses/afs24.md
