@@ -1,68 +1,12 @@
 [
   {
-    "objectID": "courses/afs24.html",
-    "href": "courses/afs24.html",
-    "title": "Satellite and Animal Telemetry Data Training",
+    "objectID": "officehours.html",
+    "href": "officehours.html",
+    "title": "CoastWatch Office Hours",
     "section": "",
-    "text": "Training on accessing Oceanographic Satellite Data from NOAA CoastWatch and using the Animal Telemetry Network Portal. This training was originally going to be held before the annual AFS (American Fisheries Society) meeting in Honolulu, Hawaii, but has been rescheduled to be an online course, open to all.",
+    "text": "Hosted by the West Coast Node and PolarWatch\nevery other Thursday at 11 am PST\n2025 dates: Mar 6, 13, 20, 27\nEveryone is welcome to come to the CoastWatch Office Hour where people can:\n\nAsk questions about satellite data\nRequest help with accessing satellite data products\nGet troubleshooting assistance with code examples for discovering, accessing and working with satellite data\n\nCoastWatch Lectures\nCoastWatch Tutorials",
     "crumbs": [
-      "Past Trainings",
-      "2024 AFS Workshop"
-    ]
-  },
-  {
-    "objectID": "courses/afs24.html#course-description",
-    "href": "courses/afs24.html#course-description",
-    "title": "Satellite and Animal Telemetry Data Training",
-    "section": "",
-    "text": "Training on accessing Oceanographic Satellite Data from NOAA CoastWatch and using the Animal Telemetry Network Portal. This training was originally going to be held before the annual AFS (American Fisheries Society) meeting in Honolulu, Hawaii, but has been rescheduled to be an online course, open to all.",
-    "crumbs": [
-      "Past Trainings",
-      "2024 AFS Workshop"
-    ]
-  },
-  {
-    "objectID": "courses/afs24.html#instructors",
-    "href": "courses/afs24.html#instructors",
-    "title": "Satellite and Animal Telemetry Data Training",
-    "section": "Instructors",
-    "text": "Instructors\n\n\n\nName\nAffiliation\n\n\n\n\nCara Wilson\nCoastWatch/West Coast Node, PI\n\n\nDale Robinson\nCoastWatch/West Coast Node, node manager\n\n\nMegan McKinzie\nATN Data Coordinator\n\n\nDaisy Shi\nCoastWatch/Pacific OceanWatch, node manager",
-    "crumbs": [
-      "Past Trainings",
-      "2024 AFS Workshop"
-    ]
-  },
-  {
-    "objectID": "courses/afs24.html#objectives",
-    "href": "courses/afs24.html#objectives",
-    "title": "Satellite and Animal Telemetry Data Training",
-    "section": "Objectives",
-    "text": "Objectives\n\nDescribe the basic types of products available from satellite data\nDemonstate how to access data on ERDDAP servers\nExplore the data available on the Animal Telemetry Network portal\nIntroduce CoastWatch satellite data training resources\nProvide hands-on time to access data and try tutorials",
-    "crumbs": [
-      "Past Trainings",
-      "2024 AFS Workshop"
-    ]
-  },
-  {
-    "objectID": "courses/afs24.html#schedule",
-    "href": "courses/afs24.html#schedule",
-    "title": "Satellite and Animal Telemetry Data Training",
-    "section": "Schedule",
-    "text": "Schedule\n\n\n\nTime (PST)\nTopic\nPresenter\n\n\n\n\n10:00 - 10:15\nTraining Overview - CoastWatch, ATN and the workshop component\nCara Wilson\n\n\n10:15 - 10:30\nGroup Introductions\nCara Wilson\n\n\n10:30 - 11:15\nCoastwatch satellite datasets and data portals\nCara Wilson\n\n\n11:15 - 11:30\nBreak\n\n\n\n11:30 - 12:00\nUsing the ERDDAP data server\nCara Wilson\n\n\n12:00 - 12:30\nAccessing ERDDAP using scripts (R, python)\nCara Wilson\n\n\n12:30 - 1:30\nLunch break\n\n\n\n1:30 - 2:00\nIntro to ATN and the DAC\nMegan McKinzie\n\n\n2:00 - 2:30\nDemo of ATN data portal\nMegan McKinzie\n\n\n2:30 - 3:00\nAccessing public ATN datasets\nMegan McKinzie\n\n\n3:00 - 3:15\nBreak\n\n\n\n3:15 - 3:30\nWorkshop, part 1: Linking CoastWatch and ATN data using scripts\nDaisy Shi\n\n\n3:30 - 4:45\nWorkshop, part 2: Hand’s on time\n\n\n\n4:45 - 5:00\nWrap up and final discussion\nAll",
-    "crumbs": [
-      "Past Trainings",
-      "2024 AFS Workshop"
-    ]
-  },
-  {
-    "objectID": "courses/afs24.html#resources",
-    "href": "courses/afs24.html#resources",
-    "title": "Satellite and Animal Telemetry Data Training",
-    "section": "Resources",
-    "text": "Resources\n\nCoastwatch Tutorials (on GitHub)\nCoastwatch Lecture series\nAnimal telemetry Network",
-    "crumbs": [
-      "Past Trainings",
-      "2024 AFS Workshop"
+      "Office Hours"
     ]
   },
   {
@@ -132,13 +76,79 @@
     ]
   },
   {
-    "objectID": "officehours.html",
-    "href": "officehours.html",
-    "title": "CoastWatch Office Hours",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "CoastWatch Workshops",
     "section": "",
-    "text": "Hosted by the West Coast Node and PolarWatch\nevery other Thursday at 11 am PST\n2025 dates: Jan 16, 23, 30\nEveryone is welcome to come to the CoastWatch Office Hour where people can:\n\nAsk questions about satellite data\nRequest help with accessing satellite data products\nGet troubleshooting assistance with code examples for discovering, accessing and working with satellite data\n\nCoastWatch Lectures\nCoastWatch Tutorials",
+    "text": "CoastWatch regularly organizes and offers in-person and online satellite training classes or workshops featuring lectures, tutorials, & tool demonstrations.\nDuring in-person and online satellite course, participants learn about environmental satellite data and how to easily obtain it. Participants also gain hands on experience working with the data of interest to them. A major goal of the course is to provide scientists who are not regular users of satellite data with the knowledge and tools they need to incorporate satellite data into their research and management projects.\nFor questions or more information about the upcoming satellite training classes, please contact coastwatch.info@noaa.gov.",
     "crumbs": [
-      "Office Hours"
+      "Main"
+    ]
+  },
+  {
+    "objectID": "courses/afs24.html",
+    "href": "courses/afs24.html",
+    "title": "Satellite and Animal Telemetry Data Training",
+    "section": "",
+    "text": "Training on accessing Oceanographic Satellite Data from NOAA CoastWatch and using the Animal Telemetry Network Portal. This training was originally going to be held before the annual AFS (American Fisheries Society) meeting in Honolulu, Hawaii, but has been rescheduled to be an online course, open to all.",
+    "crumbs": [
+      "Past Trainings",
+      "2024 AFS Workshop"
+    ]
+  },
+  {
+    "objectID": "courses/afs24.html#course-description",
+    "href": "courses/afs24.html#course-description",
+    "title": "Satellite and Animal Telemetry Data Training",
+    "section": "",
+    "text": "Training on accessing Oceanographic Satellite Data from NOAA CoastWatch and using the Animal Telemetry Network Portal. This training was originally going to be held before the annual AFS (American Fisheries Society) meeting in Honolulu, Hawaii, but has been rescheduled to be an online course, open to all.",
+    "crumbs": [
+      "Past Trainings",
+      "2024 AFS Workshop"
+    ]
+  },
+  {
+    "objectID": "courses/afs24.html#instructors",
+    "href": "courses/afs24.html#instructors",
+    "title": "Satellite and Animal Telemetry Data Training",
+    "section": "Instructors",
+    "text": "Instructors\n\n\n\nName\nAffiliation\n\n\n\n\nCara Wilson\nCoastWatch/West Coast Node, PI\n\n\nDale Robinson\nCoastWatch/West Coast Node, node manager\n\n\nMegan McKinzie\nATN Data Coordinator\n\n\nDaisy Shi\nCoastWatch/Pacific OceanWatch, node manager",
+    "crumbs": [
+      "Past Trainings",
+      "2024 AFS Workshop"
+    ]
+  },
+  {
+    "objectID": "courses/afs24.html#objectives",
+    "href": "courses/afs24.html#objectives",
+    "title": "Satellite and Animal Telemetry Data Training",
+    "section": "Objectives",
+    "text": "Objectives\n\nDescribe the basic types of products available from satellite data\nDemonstate how to access data on ERDDAP servers\nExplore the data available on the Animal Telemetry Network portal\nIntroduce CoastWatch satellite data training resources\nProvide hands-on time to access data and try tutorials",
+    "crumbs": [
+      "Past Trainings",
+      "2024 AFS Workshop"
+    ]
+  },
+  {
+    "objectID": "courses/afs24.html#schedule",
+    "href": "courses/afs24.html#schedule",
+    "title": "Satellite and Animal Telemetry Data Training",
+    "section": "Schedule",
+    "text": "Schedule\n\n\n\nTime (PST)\nTopic\nPresenter\n\n\n\n\n10:00 - 10:15\nTraining Overview - CoastWatch, ATN and the workshop component\nCara Wilson\n\n\n10:15 - 10:30\nGroup Introductions\nCara Wilson\n\n\n10:30 - 11:15\nCoastwatch satellite datasets and data portals\nCara Wilson\n\n\n11:15 - 11:30\nBreak\n\n\n\n11:30 - 12:00\nUsing the ERDDAP data server\nCara Wilson\n\n\n12:00 - 12:30\nAccessing ERDDAP using scripts (R, python)\nCara Wilson\n\n\n12:30 - 1:30\nLunch break\n\n\n\n1:30 - 2:00\nIntro to ATN and the DAC\nMegan McKinzie\n\n\n2:00 - 2:30\nDemo of ATN data portal\nMegan McKinzie\n\n\n2:30 - 3:00\nAccessing public ATN datasets\nMegan McKinzie\n\n\n3:00 - 3:15\nBreak\n\n\n\n3:15 - 3:30\nWorkshop, part 1: Linking CoastWatch and ATN data using scripts\nDaisy Shi\n\n\n3:30 - 4:45\nWorkshop, part 2: Hand’s on time\n\n\n\n4:45 - 5:00\nWrap up and final discussion\nAll",
+    "crumbs": [
+      "Past Trainings",
+      "2024 AFS Workshop"
+    ]
+  },
+  {
+    "objectID": "courses/afs24.html#resources",
+    "href": "courses/afs24.html#resources",
+    "title": "Satellite and Animal Telemetry Data Training",
+    "section": "Resources",
+    "text": "Resources\n\nCoastwatch Tutorials (on GitHub)\nCoastwatch Lecture series\nAnimal telemetry Network",
+    "crumbs": [
+      "Past Trainings",
+      "2024 AFS Workshop"
     ]
   },
   {
@@ -194,16 +204,6 @@
     "crumbs": [
       "Past Trainings",
       "2024 Sea Ice Data Course"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "CoastWatch Workshops",
-    "section": "",
-    "text": "CoastWatch regularly organizes and offers in-person and online satellite training classes or workshops featuring lectures, tutorials, & tool demonstrations.\nDuring in-person and online satellite course, participants learn about environmental satellite data and how to easily obtain it. Participants also gain hands on experience working with the data of interest to them. A major goal of the course is to provide scientists who are not regular users of satellite data with the knowledge and tools they need to incorporate satellite data into their research and management projects.\nFor questions or more information about the upcoming satellite training classes, please contact coastwatch.info@noaa.gov.",
-    "crumbs": [
-      "Main"
     ]
   }
 ]
