@@ -27,7 +27,7 @@ Learn R and/or Python techniques to access data on ERDDAP data servers for data 
 
 ## Schedule
 
-**Coming Soon!**
+
 
 ## Resources
 * [CoastWatch main website](https://coastwatch.noaa.gov/cwn/index.html)
