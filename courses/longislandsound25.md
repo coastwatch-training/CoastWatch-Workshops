@@ -35,8 +35,8 @@ Learn R and/or Python techniques to access data on ERDDAP data servers for data 
 |                           | 9:45 - 10:15       | Presentation 3: ArcGIS                                               | Michael Soracco     |
 |                           | 10:15 - 10:30      | Break                                                                 |                     |
 |                           | 10:30 - 11:15      | Presentation 4: CDAT                                                 | Ron Vogel           |
-|                           | 11:15 -            | Q & A                                                                 |                     |
-|                           | - 12:15            | Participant Exercise: Choose a tool and Make a Map                   |                     |
+|                           | 11:15 - 11:30           | Q & A                                                                 |                     |
+|                           | 11:30 - 12:15            | Participant Exercise: Choose a tool and Make a Map                   |                     |
 |                           |                    | **Lunch break**                                                      |                     |
 |                           | 1:15 - 1:45        | Presentation 5: Choosing a dataset                                   | Jonathan Sherman    |
 |                           | 1:45 - 2:45        | Presentation 6: ERDDAP                                               | Ron Vogel           |
