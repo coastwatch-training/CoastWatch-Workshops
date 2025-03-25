@@ -45,6 +45,9 @@ website:
       - href: index.qmd
         text: Main
       - section: Upcoming Trainings
+        contents:
+        - href: courses/longislandsound25.md
+          text: 2025 Long Island Sound
       - section: Past Trainings
         contents:
         - href: courses/pgrsc24.md
