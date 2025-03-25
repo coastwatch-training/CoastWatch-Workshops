@@ -2,26 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://coastwatch-training.github.io/coastwatch-workshops/officehours.html</loc>
-    <lastmod>2025-03-06T16:42:23.484Z</lastmod>
-  </url>
-  <url>
-    <loc>https://coastwatch-training.github.io/coastwatch-workshops/courses/pgrsc24.html</loc>
-    <lastmod>2025-03-06T16:42:23.126Z</lastmod>
-  </url>
-  <url>
-    <loc>https://coastwatch-training.github.io/coastwatch-workshops/past.html</loc>
-    <lastmod>2025-03-06T16:42:23.484Z</lastmod>
-  </url>
-  <url>
-    <loc>https://coastwatch-training.github.io/coastwatch-workshops/index.html</loc>
-    <lastmod>2025-03-06T16:42:23.484Z</lastmod>
-  </url>
-  <url>
-    <loc>https://coastwatch-training.github.io/coastwatch-workshops/courses/afs24.html</loc>
-    <lastmod>2025-03-06T16:42:23.126Z</lastmod>
+    <lastmod>2025-03-25T15:02:48.331Z</lastmod>
   </url>
   <url>
     <loc>https://coastwatch-training.github.io/coastwatch-workshops/courses/seaice24.html</loc>
-    <lastmod>2025-03-06T16:42:23.126Z</lastmod>
+    <lastmod>2025-03-25T15:02:47.891Z</lastmod>
+  </url>
+  <url>
+    <loc>https://coastwatch-training.github.io/coastwatch-workshops/courses/afs24.html</loc>
+    <lastmod>2025-03-25T15:02:47.890Z</lastmod>
+  </url>
+  <url>
+    <loc>https://coastwatch-training.github.io/coastwatch-workshops/index.html</loc>
+    <lastmod>2025-03-25T15:02:48.331Z</lastmod>
+  </url>
+  <url>
+    <loc>https://coastwatch-training.github.io/coastwatch-workshops/past.html</loc>
+    <lastmod>2025-03-25T15:02:48.331Z</lastmod>
+  </url>
+  <url>
+    <loc>https://coastwatch-training.github.io/coastwatch-workshops/courses/pgrsc24.html</loc>
+    <lastmod>2025-03-25T15:02:47.890Z</lastmod>
+  </url>
+  <url>
+    <loc>https://coastwatch-training.github.io/coastwatch-workshops/courses/longislandsound25.html</loc>
+    <lastmod>2025-03-25T15:02:47.890Z</lastmod>
   </url>
 </urlset>
