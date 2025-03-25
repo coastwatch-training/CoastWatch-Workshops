@@ -27,7 +27,41 @@ Learn R and/or Python techniques to access data on ERDDAP data servers for data 
 
 ## Schedule
 
-**Coming Soon!**
+| Day                        | Time (ET)         | Topic                                                                 | Presenter           |
+|---------------------------|-------------------|-----------------------------------------------------------------------|---------------------|
+| **Monday - March 31**     |                   | Tier I and Tier II                                                   |                     |
+|                           | 9:00 - 9:15        | Presentation 1: Overview: SeaGrant-funded Satellite Project          | Jonathan Sherman    |
+|                           | 9:15 - 9:45        | Presentation 2: Data Portal                                          | Michael Soracco     |
+|                           | 9:45 - 10:15       | Presentation 3: ArcGIS                                               | Michael Soracco     |
+|                           | 10:15 - 10:30      | Break                                                                 |                     |
+|                           | 10:30 - 11:15      | Presentation 4: CDAT                                                 | Ron Vogel           |
+|                           | 11:15 -            | Q & A                                                                 |                     |
+|                           | - 12:15            | Participant Exercise: Choose a tool and Make a Map                   |                     |
+|                           |                    | **Lunch break**                                                      |                     |
+|                           | 1:15 - 1:45        | Presentation 5: Choosing a dataset                                   | Jonathan Sherman    |
+|                           | 1:45 - 2:45        | Presentation 6: ERDDAP                                               | Ron Vogel           |
+|                           | 2:45 - 3:00        | Break                                                                 |                     |
+|                           | 3:00 - 3:30        | Q & A and Resources for participants                                 |                     |
+|                           | 3:30 - 4:30        | Participant Exercise: Choose a dataset from ERDDAP, download, make a map and a time series |      |
+| **Tuesday - April 1**     |                   | Tier II (4/1 - 4/4)                                                  |                     |
+|                           | 9:00 - 9:30        | Presentation 7: Satellite 101                                        | Shelly Tomlinson    |
+|                           | 9:30 - 10:00       | Presentation 8: CoastWatch Training Code, capabilities by function   | Jonathan Sherman    |
+|                           | 10:00 - 10:15      | Break                                                                 |                     |
+|                           | 10:15 - 11:00      | Presentation 9: Step through Tutorials                               | Jonathan Sherman    |
+|                           | 11:00 - 11:30      | Presentation 10: CoastWatch Utilities with Demo                      | Ron Vogel           |
+|                           | 11:30 - 12:00      | Resources, Office Hours logistics, Project & slide info, Q & A       |                     |
+|                           |                    | **Lunch**                                                            |                     |
+|                           | 1:00 - 4:00        | Office Hours: one-on-one                                             |                     |
+| **Wednesday - April 2**   |                   | Participants work on their project on their own time                |                     |
+| **Thursday - April 3**    | 9:00 - 9:15        | Gauge Progress Poll                                                  | Betty Staugler      |
+|                           | 9:15 - 9:30        | Presentation 11: HAB Forecasts                                       | Shelly Tomlinson    |
+|                           | 9:30 - 9:45        | Presentation 12: COVID Impacts                                       | Jonathan Sherman    |
+|                           | 9:45 - 10:00       | Presentation 13: Participant slide examples from past classes        | Jonathan Sherman    |
+|                           | 10:00 - 12:00      | Office Hours: group discussion or one-on-one                         |                     |
+|                           |                    | **Lunch**                                                            |                     |
+|                           | 1:00 - 4:00        | Participants work on their project on their own time                |                     |
+| **Friday - April 4**      | 1:00 - 3:00        | Final 1-slide project presentations                                  | Participants        |
+
 
 ## Resources
 * [CoastWatch main website](https://coastwatch.noaa.gov/cwn/index.html)
