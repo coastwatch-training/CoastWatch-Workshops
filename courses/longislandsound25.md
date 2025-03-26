@@ -29,21 +29,21 @@ Learn R and/or Python techniques to access data on ERDDAP data servers for data 
 
 | Day                        | Time (ET)         | Topic                                                                 | Presenter           |
 |---------------------------|-------------------|-----------------------------------------------------------------------|---------------------|
-| **Monday - March 31**     |                   | Tier I and Tier II                                                   |                     |
+| **Monday - March 31**     |                   | **Tier I and Tier II**                                                   |                     |
 |                           | 9:00 - 9:15        | Presentation 1: Overview: SeaGrant-funded Satellite Project          | Jonathan Sherman    |
 |                           | 9:15 - 9:45        | Presentation 2: Data Portal                                          | Michael Soracco     |
 |                           | 9:45 - 10:15       | Presentation 3: ArcGIS                                               | Michael Soracco     |
 |                           | 10:15 - 10:30      | Break                                                                 |                     |
 |                           | 10:30 - 11:15      | Presentation 4: CDAT                                                 | Ron Vogel           |
 |                           | 11:15 - 11:30           | Q & A                                                                 |                     |
-|                           | 11:30 - 12:15            | Participant Exercise: Choose a tool and Make a Map                   |                     |
+|                           | 11:30 - 12:15            | Participant Exercise: Choose a tool and Make a Map <br/> ArcGIS files, CDAT files                   |                     |
 |                           |                    | **Lunch break**                                                      |                     |
 |                           | 1:15 - 1:45        | Presentation 5: Choosing a dataset                                   | Jonathan Sherman    |
 |                           | 1:45 - 2:45        | Presentation 6: ERDDAP                                               | Ron Vogel           |
 |                           | 2:45 - 3:00        | Break                                                                 |                     |
 |                           | 3:00 - 3:30        | Q & A and Resources for participants                                 |                     |
 |                           | 3:30 - 4:30        | Participant Exercise: Choose a dataset from ERDDAP, download, make a map and a time series |      |
-| **Tuesday - April 1**     |                   | Tier II (4/1 - 4/4)                                                  |                     |
+| **Tuesday - April 1**     |                   | **Tier II (4/1 - 4/4)**                                                  |                     |
 |                           | 9:00 - 9:30        | Presentation 7: Satellite 101                                        | Shelly Tomlinson    |
 |                           | 9:30 - 10:00       | Presentation 8: CoastWatch Training Code, capabilities by function   | Jonathan Sherman    |
 |                           | 10:00 - 10:15      | Break                                                                 |                     |
