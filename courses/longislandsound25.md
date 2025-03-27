@@ -6,6 +6,7 @@ description: "March 31-April 4, 2025 Virtual - Times (Eastern Time) vary daily, 
 
 NOAA CoastWatch is hosting this free, virtual training class Viewing and Analyzing Ocean/Coastal Events and Water Quality Using Satellites.
 
+[Join Class Via Zoom Here](https://ufl.zoom.us/j/95752530088?pwd=UX3hlHWv0ZBL6iExdl9gdApLWgaOVK.1)
 
 ## Course Description
 Many satellite products are available for water quality applications and other uses from NOAA and other data providers. These include: chlorophyll, turbidity, sea surface temperature, organic matter, and more. 
