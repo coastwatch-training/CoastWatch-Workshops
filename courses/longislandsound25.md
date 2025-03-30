@@ -46,22 +46,21 @@ Learn R and/or Python techniques to access data on ERDDAP data servers for data 
 |                          | 3:30 - 4:30          | Participant Exercise 2: Choose a dataset from ERDDAP, download, make a map and a time series <br> [Sample data list](https://github.com/coastwatch-training/CoastWatch-Workshops/tree/main/presentations/longislandsound25/exercise-materials/ERDDAP_Lesson)                           |                     |
 | **Tuesday - April 1**    |                     | **Tier II (April 1–4)**                                                                                               |                     |
 |                          | 9:00 - 9:30          | Presentation 7: Satellite 101                                                                                          | Shelly Tomlinson    |
-|                          | 9:30 - 10:00         | Presentation 8: CoastWatch Training Code – Capabilities by Function                                                  | Jonathan Sherman    |
-|                          | 10:00 - 10:15        | Break                                                                                                                 |                     |
-|                          | 10:15 - 11:00        | Presentation 9: [Step-Through Tutorials](https://github.com/coastwatch-training/CoastWatch-Tutorials/blob/main/README.md)                                                                                | Jonathan Sherman    |
-|                          | 11:00 - 11:30        | Presentation 10: CoastWatch Utilities - Command Line <br> [Files](https://github.com/coastwatch-training/CoastWatch-Workshops/tree/main/presentations/longislandsound25/exercise-materials/CDAT_Lesson_Files_Tier_2)                                                                       | Ron Vogel           |
-|                          | 11:30 - 12:00        | Office Hours Logistics, Project & Slide Info, Q & A                                                        |                     |
+|                          | 9:30 - 10:30         | Presentation 8: CoastWatch Training Code (R and Python) – Capabilities and Tutorials                                 | Jonathan Sherman    |
+|                          | 10:30 - 10:45        | Break                                                                                                                 |                     |
+|                          | 10:45 - 11:30        | Presentation 9: CoastWatch Utilities - Command Line <br> [Files](https://github.com/coastwatch-training/CoastWatch-Workshops/tree/main/presentations/longislandsound25/exercise-materials/CDAT_Lesson_Files_Tier_2)                                                                       | Ron Vogel           |
+|                          | 11:30 - 12:00        | Office Hours Logistics, Mini-project & Slide Info, Q & A                                                        |                     |
 |                          | 12:00 - 1:00         | **Lunch**                                                                                                             |                     |
 |                          | 1:00 - 4:00          | Office Hours: One-on-One                                                                                              |                     |
-| **Wednesday - April 2**  |                     | Participants work on their project on their own time                                                                  |                     |
+| **Wednesday - April 2**  |                     | Participants work on their mini-project on their own time                                                                  |                     |
 | **Thursday - April 3**   | 9:00 - 9:15          | Gauge Progress Poll                                                                                                   | Betty Staugler      |
-|                          | 9:15 - 9:30          | Presentation 11: HAB Forecasts                                                                                        | Shelly Tomlinson    |
-|                          | 9:30 - 9:45          | Presentation 12: COVID Impacts                                                                                        | Jonathan Sherman    |
-|                          | 9:45 - 10:00         | Presentation 13: Participant Slide Examples from Past Classes                                                         | Ron Vogel    |
+|                          | 9:15 - 9:30          | Presentation 10: HAB Forecasts                                                                                        | Shelly Tomlinson    |
+|                          | 9:30 - 9:45          | Presentation 11: COVID Impacts                                                                                        | Jonathan Sherman    |
+|                          | 9:45 - 10:00         | Presentation 12: Participant Slide Examples from Past Classes                                                         | Ron Vogel    |
 |                          | 10:00 - 12:00        | Office Hours: Group Discussion or One-on-One                                                                          |                     |
 |                          | 12:00 - 1:00         | **Lunch**                                                                                                             |                     |
-|                          | 1:00 - 4:00          | Participants work on their project on their own time                                                                  |                     |
-| **Friday - April 4**     | 1:00 - 3:00          | Final 1-Slide Project Presentations                                                                                   | Participants        |
+|                          | 1:00 - 4:00          | Participants work on their mini-project on their own time                                                                  |                     |
+| **Friday - April 4**     | 1:00 - 3:00          | Final Mini-project Presentations (1 slide each)                                                                                   | Participants        |
 
 
 ## Resources
