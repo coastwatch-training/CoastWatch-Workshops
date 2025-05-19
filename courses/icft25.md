@@ -39,6 +39,7 @@ Thursday, August 14, 2025
 | 12:15 - 12:45 | [Accessing ERDDAP using scripts (R, python)](../presentations/afs24/GitHubTutorials.pptx.pdf)                                         | [Cara Wilson](mailto:cara.wilson@noaa.gov)       |
 | 12:45 - 1:00  | Day 1 wrap-up                                                                        |                   |  
 
+
 Friday, August 15, 2025 
 | Time (PST)      | Topic                                                                         | Presenter                    |
 |:-------------|:-----------------------------------------------------------------------------|:----------------------------|
