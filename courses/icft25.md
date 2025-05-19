@@ -33,12 +33,12 @@ Thursday, August 14, 2025
 
 | Time (PST)      | Topic                                                                         | Presenter                    |
 |:-------------|:-----------------------------------------------------------------------------|:----------------------------|
-| 10:00 - 10:15 | [Training  Overview - CoastWatch, ATN and the workshop component](../presentations/afs24/IntrotoCoastWatchandATNCourse.pptx.pdf)                   | [Cara Wilson](mailto:cara.wilson@noaa.gov)       | 
-| 10:15 - 11:30 | [Coastwatch satellite datasets and data portals](../presentations/afs24/Overview%20of%20Satellite%20Data%20.pptx.pdf)                                    | [Cara Wilson](mailto:cara.wilson@noaa.gov)       |
+| 10:00 - 10:15 | [Training  Overview - CoastWatch, ATN and the workshop component](../presentations/afs24/IntrotoCoastWatchandATNCourse.pptx.pdf) | [Cara Wilson](mailto:cara.wilson@noaa.gov)       | 
+| 10:15 - 11:30 | [Coastwatch satellite datasets and data portals](../presentations/afs24/Overview%20of%20Satellite%20Data%20.pptx.pdf)  | [Cara Wilson](mailto:cara.wilson@noaa.gov)       |
 | 11:30 - 11:45 |   Break                                                                           |        |
-| 11:45 - 12:15 | [Using the ERDDAP data server](../presentations/afs24/ERDDAP-intro.pptx.pdf)                                                      | [Cara Wilson](mailto:cara.wilson@noaa.gov)                 |
-| 12:15 - 12:45 | [Accessing ERDDAP using scripts (R, python)](../presentations/afs24/GitHubTutorials.pptx.pdf)                                         | [Cara Wilson](mailto:cara.wilson@noaa.gov)       |
-| 12:45 - 1:00  | Day 1 wrap-up                                                                        |                   |  
+| 11:45 - 12:15 | [Using the ERDDAP data server](../presentations/afs24/ERDDAP-intro.pptx.pdf)               | [Cara Wilson](mailto:cara.wilson@noaa.gov)            |
+| 12:15 - 12:45 | [Accessing ERDDAP using scripts (R, python)](../presentations/afs24/GitHubTutorials.pptx.pdf)  | [Cara Wilson](mailto:cara.wilson@noaa.gov)   |
+| 12:45 - 1:00  | Day 1 wrap-up |                   |  
 
 
 Friday, August 15, 2025 
