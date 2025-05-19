@@ -30,6 +30,7 @@ the annual ICFT (International Conference on Fish Telemetry) meeting in Traverse
 ## Schedule
 
 Thursday, August 14, 2025 
+
 | Time (PST)      | Topic                                                                         | Presenter                    |
 |:-------------|:-----------------------------------------------------------------------------|:----------------------------|
 | 10:00 - 10:15 | [Training  Overview - CoastWatch, ATN and the workshop component](../presentations/afs24/IntrotoCoastWatchandATNCourse.pptx.pdf)                   | [Cara Wilson](mailto:cara.wilson@noaa.gov)       | 
@@ -41,6 +42,7 @@ Thursday, August 14, 2025
 
 
 Friday, August 15, 2025 
+
 | Time (PST)      | Topic                                                                         | Presenter                    |
 |:-------------|:-----------------------------------------------------------------------------|:----------------------------|
 | 10:00 - 10:30   | [Intro to ATN and the DAC](../presentations/afs24/McKinzie_Intro%20to%20ATN%20&%20the%20DAC_Satellite%20Data%20Training%20Course_25Oct24.pptx.pdf)                                                           | [Megan McKinzie](mailto:mmckinzie@mbari.org)    |
