@@ -46,10 +46,12 @@ website:
         text: Main
       - section: Upcoming Trainings
         contents:
-        - href: courses/longislandsound25.md
-          text: 2025 Long Island Sound
+        - href: courses/icft25.md
+          text: 2025 Satellite and Animal Telemetry
       - section: Past Trainings
         contents:
+        - href: courses/longislandsound25.md
+          text: 2025 Long Island Sound        
         - href: courses/pgrsc24.md
           text: 2024 PGRSC Workshop
         - href: courses/seaice24.md      
