@@ -16,7 +16,7 @@ the annual ICFT (International Conference on Fish Telemetry) meeting in Traverse
  |:-----------------|:-----------------------------------------------------------------------------|
  | [Cara Wilson](mailto:cara.wilson@noaa.gov)       | CoastWatch/West Coast Node, PI |
  | [Dale Robinson](mailto:dale.robinson@noaa.gov)     | CoastWatch/West Coast Node, node manager |
- | [Megan McKinzie](mailto:mmckinzie@mbari.org)    | ATN Data Coordinator |
+ | [Megan McKinzie](mailto:mmckinzie@mbari.org)    | ATN Data manager |
  | [Daisy Shi](mailto:hui.shi@noaa.gov)         | CoastWatch/Pacific OceanWatch, node manager |
     
 ## Objectives
