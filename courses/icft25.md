@@ -9,6 +9,8 @@ Training on accessing Oceanographic Satellite Data from NOAA CoastWatch
 and using the Animal Telemetry Network Portal.  This training was originally going to be held before
 the annual ICFT (International Conference on Fish Telemetry) meeting in Traverse City, Michigan, but has been rescheduled to be an [online course](https://meet.google.com/ctm-nrob-xrb), open to all.
 
+[Link to registration page](https://lp.constantcontactpages.com/ev/reg/syua5tr/lp/976894ff-35cc-4a37-bd98-ef2cc95c3ea4)
+
 
 ## Instructors
 
