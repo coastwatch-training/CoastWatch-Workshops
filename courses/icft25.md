@@ -47,9 +47,9 @@ Friday, August 15, 2025
 
 | Time (PST)      | Topic                                                                         | Presenter                    |
 |:-------------|:-----------------------------------------------------------------------------|:----------------------------|
-| 10:00 - 10:30   | [Intro to ATN and the DAC](../presentations/afs24/McKinzie_Intro%20to%20ATN%20&%20the%20DAC_Satellite%20Data%20Training%20Course_25Oct24.pptx.pdf)                                                           | [Megan McKinzie](mailto:mmckinzie@mbari.org)    |
+| 10:00 - 10:30   | [Intro to ATN and the DAC](../presentations/icft25/McKinzie_Intro%20to%20ATN%20&%20the%20DAC_Satellite%20Data%20Training%20Course_15Aug25.pdf)                                                           | [Megan McKinzie](mailto:mmckinzie@mbari.org)    |
 | 10:30 - 11:00   | Demo of ATN data portal                                                            | [Megan McKinzie](mailto:mmckinzie@mbari.org)    |
-| 11:00 - 11:30   | [Accessing public ATN datasets](../presentations/afs24/McKinzie_Accessing%20Public%20ATN%20Data_25Oct24.pptx.pdf)                                                      | [Megan McKinzie](mailto:mmckinzie@mbari.org)    |
+| 11:00 - 11:30   | [Accessing public ATN datasets](../presentations/icft25/McKinzie_Accessing%20Public%20ATN%20Data_15Aug25.pdf)                                                      | [Megan McKinzie](mailto:mmckinzie@mbari.org)    |
 | 11:30 - 11:45   | Break                                                                              |                   |
 | 11:45 - 12:00   | Workshop, part 1: Linking CoastWatch and ATN data using [scripts](https://github.com/coastwatch-training/CoastWatch-Tutorials/tree/main/matchup-satellite-data-to-ATN-animal-tracks)                    | [Daisy Shi](mailto:hui.shi@noaa.gov)       |
 | 12:00 - 12:45   | Workshop, part 2: Hand’s on time                                                   |                   |
