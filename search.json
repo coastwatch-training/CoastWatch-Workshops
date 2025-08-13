@@ -1,147 +1,5 @@
 [
   {
-    "objectID": "courses/pgrsc24.html",
-    "href": "courses/pgrsc24.html",
-    "title": "Access and Use Satellite Data and Decision-making tools for Ocean and Coastal Applications",
-    "section": "",
-    "text": "Training on accessing Oceanographic Satellite Data from NOAA CoastWatch and using information tools from PacIOOS for applications in the Pacific Islands region. This training will be held during the 2024 Pacific Islands GIS and Remote Sensing Users Conference in Suva, Fiji.\nClick here to Register.",
-    "crumbs": [
-      "Past Trainings",
-      "2024 PGRSC Workshop"
-    ]
-  },
-  {
-    "objectID": "courses/pgrsc24.html#course-description",
-    "href": "courses/pgrsc24.html#course-description",
-    "title": "Access and Use Satellite Data and Decision-making tools for Ocean and Coastal Applications",
-    "section": "",
-    "text": "Training on accessing Oceanographic Satellite Data from NOAA CoastWatch and using information tools from PacIOOS for applications in the Pacific Islands region. This training will be held during the 2024 Pacific Islands GIS and Remote Sensing Users Conference in Suva, Fiji.\nClick here to Register.",
-    "crumbs": [
-      "Past Trainings",
-      "2024 PGRSC Workshop"
-    ]
-  },
-  {
-    "objectID": "courses/pgrsc24.html#instructors",
-    "href": "courses/pgrsc24.html#instructors",
-    "title": "Access and Use Satellite Data and Decision-making tools for Ocean and Coastal Applications",
-    "section": "Instructors",
-    "text": "Instructors\n\n\n\nName\nAffiliation\n\n\n\n\nDaisy Shi\nCoastWatch/Pacific OceanWatch, node manager\n\n\nLauren Kaiser\nPacIOOS, data management specialist\n\n\nCara Wilson\nCoastWatch/West Coast Node, PI",
-    "crumbs": [
-      "Past Trainings",
-      "2024 PGRSC Workshop"
-    ]
-  },
-  {
-    "objectID": "courses/pgrsc24.html#objectives",
-    "href": "courses/pgrsc24.html#objectives",
-    "title": "Access and Use Satellite Data and Decision-making tools for Ocean and Coastal Applications",
-    "section": "Objectives",
-    "text": "Objectives\n\nDescribe the basic types of products available from satellite data\nDemonstrate how to access data on ERDDAP servers\nIntroduce CoastWatch satellite data and training resources\nExplore additional data and information tools available at PacIOOS\nProvide hands-on time to access data and run tutorials",
-    "crumbs": [
-      "Past Trainings",
-      "2024 PGRSC Workshop"
-    ]
-  },
-  {
-    "objectID": "courses/pgrsc24.html#schedule",
-    "href": "courses/pgrsc24.html#schedule",
-    "title": "Access and Use Satellite Data and Decision-making tools for Ocean and Coastal Applications",
-    "section": "Schedule",
-    "text": "Schedule\n\n\n\nTime (Fiji Standard Time)\nTopic\nPresenter\n\n\n\n\n1:00 - 1:10\nWelcome & Introductions\nDaisy Shi & Lauren Kaiser\n\n\n1:10 - 1:20\nInteractive Questions\n\n\n\n1:20 - 1:35\nIntro to CoastWatch, Satellite Datasets & Data Portal\nDaisy Shi\n\n\n1:35 - 1:50\nIntro to OceanWatch, Data Accessibility & Usability\nDaisy Shi\n\n\n1:50 - 2:20\nIntro to PacIOOS, Website Walkthrough & Data Search\nLauren Kaiser\n\n\n2:20 - 2:30\nInteractive Questions\n\n\n\n2:30 - 2:45\nBreak\n\n\n\n2:45 - 2:55\nOverview of CoastWatch Tutorials\nDaisy Shi\n\n\n2:55 - 3:15\nERDDAP Demos\nDaisy Shi\n\n\n3:15 - 3:45\nArcGIS & QGIS Demos\nLauren Kaiser\n\n\n3:45 - 4:00\nBreak\n\n\n\n4:00 - 5:50\nHands-On time\nAll\n\n\n5:50 - 6:00\nInteractive Questions & Feedback",
-    "crumbs": [
-      "Past Trainings",
-      "2024 PGRSC Workshop"
-    ]
-  },
-  {
-    "objectID": "courses/pgrsc24.html#resources",
-    "href": "courses/pgrsc24.html#resources",
-    "title": "Access and Use Satellite Data and Decision-making tools for Ocean and Coastal Applications",
-    "section": "Resources",
-    "text": "Resources\n\nCoastwatch Tutorials (on GitHub)\nCoastwatch Lecture series\nGeostationary satellites covering Western Pacific\nPacIOOS\nPacIOOS Voyager",
-    "crumbs": [
-      "Past Trainings",
-      "2024 PGRSC Workshop"
-    ]
-  },
-  {
-    "objectID": "courses/afs24.html",
-    "href": "courses/afs24.html",
-    "title": "Satellite and Animal Telemetry Data Training",
-    "section": "",
-    "text": "Training on accessing Oceanographic Satellite Data from NOAA CoastWatch and using the Animal Telemetry Network Portal. This training was originally going to be held before the annual AFS (American Fisheries Society) meeting in Honolulu, Hawaii, but has been rescheduled to be an online course, open to all.",
-    "crumbs": [
-      "Past Trainings",
-      "2024 AFS Workshop"
-    ]
-  },
-  {
-    "objectID": "courses/afs24.html#course-description",
-    "href": "courses/afs24.html#course-description",
-    "title": "Satellite and Animal Telemetry Data Training",
-    "section": "",
-    "text": "Training on accessing Oceanographic Satellite Data from NOAA CoastWatch and using the Animal Telemetry Network Portal. This training was originally going to be held before the annual AFS (American Fisheries Society) meeting in Honolulu, Hawaii, but has been rescheduled to be an online course, open to all.",
-    "crumbs": [
-      "Past Trainings",
-      "2024 AFS Workshop"
-    ]
-  },
-  {
-    "objectID": "courses/afs24.html#instructors",
-    "href": "courses/afs24.html#instructors",
-    "title": "Satellite and Animal Telemetry Data Training",
-    "section": "Instructors",
-    "text": "Instructors\n\n\n\nName\nAffiliation\n\n\n\n\nCara Wilson\nCoastWatch/West Coast Node, PI\n\n\nDale Robinson\nCoastWatch/West Coast Node, node manager\n\n\nMegan McKinzie\nATN Data Coordinator\n\n\nDaisy Shi\nCoastWatch/Pacific OceanWatch, node manager",
-    "crumbs": [
-      "Past Trainings",
-      "2024 AFS Workshop"
-    ]
-  },
-  {
-    "objectID": "courses/afs24.html#objectives",
-    "href": "courses/afs24.html#objectives",
-    "title": "Satellite and Animal Telemetry Data Training",
-    "section": "Objectives",
-    "text": "Objectives\n\nDescribe the basic types of products available from satellite data\nDemonstate how to access data on ERDDAP servers\nExplore the data available on the Animal Telemetry Network portal\nIntroduce CoastWatch satellite data training resources\nProvide hands-on time to access data and try tutorials",
-    "crumbs": [
-      "Past Trainings",
-      "2024 AFS Workshop"
-    ]
-  },
-  {
-    "objectID": "courses/afs24.html#schedule",
-    "href": "courses/afs24.html#schedule",
-    "title": "Satellite and Animal Telemetry Data Training",
-    "section": "Schedule",
-    "text": "Schedule\n\n\n\nTime (PST)\nTopic\nPresenter\n\n\n\n\n10:00 - 10:15\nTraining Overview - CoastWatch, ATN and the workshop component\nCara Wilson\n\n\n10:15 - 10:30\nGroup Introductions\nCara Wilson\n\n\n10:30 - 11:15\nCoastwatch satellite datasets and data portals\nCara Wilson\n\n\n11:15 - 11:30\nBreak\n\n\n\n11:30 - 12:00\nUsing the ERDDAP data server\nCara Wilson\n\n\n12:00 - 12:30\nAccessing ERDDAP using scripts (R, python)\nCara Wilson\n\n\n12:30 - 1:30\nLunch break\n\n\n\n1:30 - 2:00\nIntro to ATN and the DAC\nMegan McKinzie\n\n\n2:00 - 2:30\nDemo of ATN data portal\nMegan McKinzie\n\n\n2:30 - 3:00\nAccessing public ATN datasets\nMegan McKinzie\n\n\n3:00 - 3:15\nBreak\n\n\n\n3:15 - 3:30\nWorkshop, part 1: Linking CoastWatch and ATN data using scripts\nDaisy Shi\n\n\n3:30 - 4:45\nWorkshop, part 2: Hand’s on time\n\n\n\n4:45 - 5:00\nWrap up and final discussion\nAll",
-    "crumbs": [
-      "Past Trainings",
-      "2024 AFS Workshop"
-    ]
-  },
-  {
-    "objectID": "courses/afs24.html#resources",
-    "href": "courses/afs24.html#resources",
-    "title": "Satellite and Animal Telemetry Data Training",
-    "section": "Resources",
-    "text": "Resources\n\nCoastwatch Tutorials (on GitHub)\nCoastwatch Lecture series\nAnimal telemetry Network",
-    "crumbs": [
-      "Past Trainings",
-      "2024 AFS Workshop"
-    ]
-  },
-  {
-    "objectID": "officehours.html",
-    "href": "officehours.html",
-    "title": "CoastWatch Office Hours",
-    "section": "",
-    "text": "Hosted by the West Coast Node and PolarWatch\nevery other Thursday at 11 am PST\nUpcoming dates: Aug 21, Sept 4, & 18\nEveryone is welcome to come to the CoastWatch Office Hour where people can:\n\nAsk questions about satellite data\nRequest help with accessing satellite data products\nGet troubleshooting assistance with code examples for discovering, accessing and working with satellite data\n\nCoastWatch Lectures\nCoastWatch Tutorials",
-    "crumbs": [
-      "Office Hours"
-    ]
-  },
-  {
     "objectID": "presentations/longislandsound25/exercise-materials/Long_Island_Sound_Chlorophyll-a_Dynamics_Tutorial.html",
     "href": "presentations/longislandsound25/exercise-materials/Long_Island_Sound_Chlorophyll-a_Dynamics_Tutorial.html",
     "title": "Long Island Sound Chlorophyll-a Dynamics Tutorial",
@@ -222,6 +80,82 @@
     ]
   },
   {
+    "objectID": "officehours.html",
+    "href": "officehours.html",
+    "title": "CoastWatch Office Hours",
+    "section": "",
+    "text": "Hosted by the West Coast Node and PolarWatch\nevery other Thursday at 11 am PST\nUpcoming dates: Aug 21, Sept 4, & 18\nEveryone is welcome to come to the CoastWatch Office Hour where people can:\n\nAsk questions about satellite data\nRequest help with accessing satellite data products\nGet troubleshooting assistance with code examples for discovering, accessing and working with satellite data\n\nCoastWatch Lectures\nCoastWatch Tutorials",
+    "crumbs": [
+      "Office Hours"
+    ]
+  },
+  {
+    "objectID": "courses/afs24.html",
+    "href": "courses/afs24.html",
+    "title": "Satellite and Animal Telemetry Data Training",
+    "section": "",
+    "text": "Training on accessing Oceanographic Satellite Data from NOAA CoastWatch and using the Animal Telemetry Network Portal. This training was originally going to be held before the annual AFS (American Fisheries Society) meeting in Honolulu, Hawaii, but has been rescheduled to be an online course, open to all.",
+    "crumbs": [
+      "Past Trainings",
+      "2024 AFS Workshop"
+    ]
+  },
+  {
+    "objectID": "courses/afs24.html#course-description",
+    "href": "courses/afs24.html#course-description",
+    "title": "Satellite and Animal Telemetry Data Training",
+    "section": "",
+    "text": "Training on accessing Oceanographic Satellite Data from NOAA CoastWatch and using the Animal Telemetry Network Portal. This training was originally going to be held before the annual AFS (American Fisheries Society) meeting in Honolulu, Hawaii, but has been rescheduled to be an online course, open to all.",
+    "crumbs": [
+      "Past Trainings",
+      "2024 AFS Workshop"
+    ]
+  },
+  {
+    "objectID": "courses/afs24.html#instructors",
+    "href": "courses/afs24.html#instructors",
+    "title": "Satellite and Animal Telemetry Data Training",
+    "section": "Instructors",
+    "text": "Instructors\n\n\n\nName\nAffiliation\n\n\n\n\nCara Wilson\nCoastWatch/West Coast Node, PI\n\n\nDale Robinson\nCoastWatch/West Coast Node, node manager\n\n\nMegan McKinzie\nATN Data Coordinator\n\n\nDaisy Shi\nCoastWatch/Pacific OceanWatch, node manager",
+    "crumbs": [
+      "Past Trainings",
+      "2024 AFS Workshop"
+    ]
+  },
+  {
+    "objectID": "courses/afs24.html#objectives",
+    "href": "courses/afs24.html#objectives",
+    "title": "Satellite and Animal Telemetry Data Training",
+    "section": "Objectives",
+    "text": "Objectives\n\nDescribe the basic types of products available from satellite data\nDemonstate how to access data on ERDDAP servers\nExplore the data available on the Animal Telemetry Network portal\nIntroduce CoastWatch satellite data training resources\nProvide hands-on time to access data and try tutorials",
+    "crumbs": [
+      "Past Trainings",
+      "2024 AFS Workshop"
+    ]
+  },
+  {
+    "objectID": "courses/afs24.html#schedule",
+    "href": "courses/afs24.html#schedule",
+    "title": "Satellite and Animal Telemetry Data Training",
+    "section": "Schedule",
+    "text": "Schedule\n\n\n\nTime (PST)\nTopic\nPresenter\n\n\n\n\n10:00 - 10:15\nTraining Overview - CoastWatch, ATN and the workshop component\nCara Wilson\n\n\n10:15 - 10:30\nGroup Introductions\nCara Wilson\n\n\n10:30 - 11:15\nCoastwatch satellite datasets and data portals\nCara Wilson\n\n\n11:15 - 11:30\nBreak\n\n\n\n11:30 - 12:00\nUsing the ERDDAP data server\nCara Wilson\n\n\n12:00 - 12:30\nAccessing ERDDAP using scripts (R, python)\nCara Wilson\n\n\n12:30 - 1:30\nLunch break\n\n\n\n1:30 - 2:00\nIntro to ATN and the DAC\nMegan McKinzie\n\n\n2:00 - 2:30\nDemo of ATN data portal\nMegan McKinzie\n\n\n2:30 - 3:00\nAccessing public ATN datasets\nMegan McKinzie\n\n\n3:00 - 3:15\nBreak\n\n\n\n3:15 - 3:30\nWorkshop, part 1: Linking CoastWatch and ATN data using scripts\nDaisy Shi\n\n\n3:30 - 4:45\nWorkshop, part 2: Hand’s on time\n\n\n\n4:45 - 5:00\nWrap up and final discussion\nAll",
+    "crumbs": [
+      "Past Trainings",
+      "2024 AFS Workshop"
+    ]
+  },
+  {
+    "objectID": "courses/afs24.html#resources",
+    "href": "courses/afs24.html#resources",
+    "title": "Satellite and Animal Telemetry Data Training",
+    "section": "Resources",
+    "text": "Resources\n\nCoastwatch Tutorials (on GitHub)\nCoastwatch Lecture series\nAnimal telemetry Network",
+    "crumbs": [
+      "Past Trainings",
+      "2024 AFS Workshop"
+    ]
+  },
+  {
     "objectID": "courses/icft25.html",
     "href": "courses/icft25.html",
     "title": "Satellite and Animal Telemetry Data Training",
@@ -288,58 +222,69 @@
     ]
   },
   {
-    "objectID": "courses/longislandsound25.html",
-    "href": "courses/longislandsound25.html",
-    "title": "2025 Long Island Sound Class",
+    "objectID": "courses/pgrsc24.html",
+    "href": "courses/pgrsc24.html",
+    "title": "Access and Use Satellite Data and Decision-making tools for Ocean and Coastal Applications",
     "section": "",
-    "text": "Virtual - Times vary daily, see schedule below (times are Eastern).\nNOAA CoastWatch is hosting this free, virtual training class:  Viewing and Analyzing Ocean/Coastal Events and Water Quality Using Satellites\nJoin Class Via Zoom Here",
+    "text": "Training on accessing Oceanographic Satellite Data from NOAA CoastWatch and using information tools from PacIOOS for applications in the Pacific Islands region. This training will be held during the 2024 Pacific Islands GIS and Remote Sensing Users Conference in Suva, Fiji.\nClick here to Register.",
     "crumbs": [
       "Past Trainings",
-      "2025 Long Island Sound"
+      "2024 PGRSC Workshop"
     ]
   },
   {
-    "objectID": "courses/longislandsound25.html#course-description",
-    "href": "courses/longislandsound25.html#course-description",
-    "title": "2025 Long Island Sound Class",
-    "section": "Course Description",
-    "text": "Course Description\nMany satellite products are available for water quality applications and other uses from NOAA and other data providers. These include: chlorophyll, turbidity, sea surface temperature, organic matter, and more. In this course, learn how to use these satellite products for your region of interest using freely available tools. Address your needs and questions by creating maps and images, plotting a time series of varying conditions, or creating a virtual buoy for your study location. And other applications too!\nThis class is being offered in two Tiers as part of a larger Long Island Sound Project funded by New York/Connecticut Sea Grant.",
+    "objectID": "courses/pgrsc24.html#course-description",
+    "href": "courses/pgrsc24.html#course-description",
+    "title": "Access and Use Satellite Data and Decision-making tools for Ocean and Coastal Applications",
+    "section": "",
+    "text": "Training on accessing Oceanographic Satellite Data from NOAA CoastWatch and using information tools from PacIOOS for applications in the Pacific Islands region. This training will be held during the 2024 Pacific Islands GIS and Remote Sensing Users Conference in Suva, Fiji.\nClick here to Register.",
     "crumbs": [
       "Past Trainings",
-      "2025 Long Island Sound"
+      "2024 PGRSC Workshop"
     ]
   },
   {
-    "objectID": "courses/longislandsound25.html#objectives",
-    "href": "courses/longislandsound25.html#objectives",
-    "title": "2025 Long Island Sound Class",
+    "objectID": "courses/pgrsc24.html#instructors",
+    "href": "courses/pgrsc24.html#instructors",
+    "title": "Access and Use Satellite Data and Decision-making tools for Ocean and Coastal Applications",
+    "section": "Instructors",
+    "text": "Instructors\n\n\n\nName\nAffiliation\n\n\n\n\nDaisy Shi\nCoastWatch/Pacific OceanWatch, node manager\n\n\nLauren Kaiser\nPacIOOS, data management specialist\n\n\nCara Wilson\nCoastWatch/West Coast Node, PI",
+    "crumbs": [
+      "Past Trainings",
+      "2024 PGRSC Workshop"
+    ]
+  },
+  {
+    "objectID": "courses/pgrsc24.html#objectives",
+    "href": "courses/pgrsc24.html#objectives",
+    "title": "Access and Use Satellite Data and Decision-making tools for Ocean and Coastal Applications",
     "section": "Objectives",
-    "text": "Objectives\n\nTier I: Creating Images\nLearn to use tools to create images and maps of ocean or coastal features in your area of interest. Tools taught: CoastWatch Data Portal, ArcGIS, ERDDAP visualization server, and more.\n\n\nTier II: Analyzing Data for Your Study or Region\nWork more analytically with oceanographic satellite data. Learn R and/or Python techniques to access data on ERDDAP data servers for data extraction, map creation, time series analysis, matching data to your study site locations or ship tracks, creating a virtual buoy using satellite data in your location of choice, and other application skills.",
+    "text": "Objectives\n\nDescribe the basic types of products available from satellite data\nDemonstrate how to access data on ERDDAP servers\nIntroduce CoastWatch satellite data and training resources\nExplore additional data and information tools available at PacIOOS\nProvide hands-on time to access data and run tutorials",
     "crumbs": [
       "Past Trainings",
-      "2025 Long Island Sound"
+      "2024 PGRSC Workshop"
     ]
   },
   {
-    "objectID": "courses/longislandsound25.html#schedule",
-    "href": "courses/longislandsound25.html#schedule",
-    "title": "2025 Long Island Sound Class",
+    "objectID": "courses/pgrsc24.html#schedule",
+    "href": "courses/pgrsc24.html#schedule",
+    "title": "Access and Use Satellite Data and Decision-making tools for Ocean and Coastal Applications",
     "section": "Schedule",
-    "text": "Schedule\n\n\n\nDay\nTime (ET)\nTopic\nPresenter\n\n\n\n\nMonday - March 31\n\nTier I and Tier II\n\n\n\n\n9:00 - 9:15\nPresentation 1: Overview – SeaGrant-funded Satellite Project\nJonathan Sherman\n\n\n\n9:15 - 9:45\nPresentation 2: Data Portal\nMichael Soracco\n\n\n\n9:45 - 10:15\nPresentation 3: ArcGIS\nMichael Soracco\n\n\n\n10:15 - 10:30\nBreak\n\n\n\n\n10:30 - 11:15\nPresentation 4: CoastWatch Utilities - CDAT  Files\nRon Vogel\n\n\n\n11:15 - 11:30\nQ & A\n\n\n\n\n11:30 - 12:15\nParticipant Exercise 1: Choose a tool and make a map  ArcGIS files, CDAT files\n\n\n\n\n12:15 - 1:15\nLunch break\n\n\n\n\n1:15 - 1:45\nPresentation 5: Choosing a Dataset\nJonathan Sherman\n\n\n\n1:45 - 2:45\nPresentation 6: ERDDAP\nRon Vogel\n\n\n\n2:45 - 3:00\nBreak\n\n\n\n\n3:00 - 3:30\nQ & A and Resources for Participants\n\n\n\n\n3:30 - 4:30\nParticipant Exercise 2: Choose a dataset from ERDDAP, download, make a map and a time series  Sample data list\n\n\n\nTuesday - April 1\n\nTier II (April 1–4)\n\n\n\n\n9:00 - 9:30\nPresentation 7: Satellite 101\nShelly Tomlinson\n\n\n\n9:30 - 10:30\nPresentation 8: CoastWatch Training Code (R and Python) – Capabilities and Tutorials  Tutorials GitHub page\nJonathan Sherman\n\n\n\n10:30 - 10:45\nBreak\n\n\n\n\n10:45 - 11:30\nPresentation 9: CoastWatch Utilities - Command Line  Files\nRon Vogel\n\n\n\n11:30 - 12:00\nOffice Hours Logistics, Mini-project & Slide Info, Q & A\n\n\n\n\n12:00 - 1:00\nLunch\n\n\n\n\n1:00 - 4:00\nOffice Hours: One-on-One\n\n\n\nWednesday - April 2\n\nParticipants work on their mini-project on their own time\n\n\n\nThursday - April 3\n9:00 - 9:15\nGauge Progress Poll\nBetty Staugler\n\n\n\n9:15 - 9:30\nPresentation 10: HAB Forecasts\nShelly Tomlinson\n\n\n\n9:30 - 9:45\nPresentation 11: COVID Impacts\nJonathan Sherman\n\n\n\n9:45 - 10:00\nPresentation 12: Participant Slide Examples from Past Classes\nRon Vogel\n\n\n\n10:00 - 12:00\nOffice Hours: Group Discussion or One-on-One\n\n\n\n\n12:00 - 1:00\nLunch\n\n\n\n\n1:00 - 4:00\nParticipants work on their mini-project on their own time\n\n\n\nFriday - April 4\n1:00 - 3:00\nFinal Mini-project Presentations (1 slide each)\nParticipants",
+    "text": "Schedule\n\n\n\nTime (Fiji Standard Time)\nTopic\nPresenter\n\n\n\n\n1:00 - 1:10\nWelcome & Introductions\nDaisy Shi & Lauren Kaiser\n\n\n1:10 - 1:20\nInteractive Questions\n\n\n\n1:20 - 1:35\nIntro to CoastWatch, Satellite Datasets & Data Portal\nDaisy Shi\n\n\n1:35 - 1:50\nIntro to OceanWatch, Data Accessibility & Usability\nDaisy Shi\n\n\n1:50 - 2:20\nIntro to PacIOOS, Website Walkthrough & Data Search\nLauren Kaiser\n\n\n2:20 - 2:30\nInteractive Questions\n\n\n\n2:30 - 2:45\nBreak\n\n\n\n2:45 - 2:55\nOverview of CoastWatch Tutorials\nDaisy Shi\n\n\n2:55 - 3:15\nERDDAP Demos\nDaisy Shi\n\n\n3:15 - 3:45\nArcGIS & QGIS Demos\nLauren Kaiser\n\n\n3:45 - 4:00\nBreak\n\n\n\n4:00 - 5:50\nHands-On time\nAll\n\n\n5:50 - 6:00\nInteractive Questions & Feedback",
     "crumbs": [
       "Past Trainings",
-      "2025 Long Island Sound"
+      "2024 PGRSC Workshop"
     ]
   },
   {
-    "objectID": "courses/longislandsound25.html#resources",
-    "href": "courses/longislandsound25.html#resources",
-    "title": "2025 Long Island Sound Class",
+    "objectID": "courses/pgrsc24.html#resources",
+    "href": "courses/pgrsc24.html#resources",
+    "title": "Access and Use Satellite Data and Decision-making tools for Ocean and Coastal Applications",
     "section": "Resources",
-    "text": "Resources\n\nCoastWatch main website\nCoastWatch East Coast Regional Node website\nCoastWatch Data Access methods\nCoastwatch Coding Tutorials: R and Python (on GitHub)\nCoastwatch Lecture series\nCoastwatch Data Portal video tutorials\nCoastwatch ArcGIS lecture videos and tutorials\nCoastWatch Utilities\n\nCoastWatch Utilities Tutorials - CDAT and Command-Line\nCDAT demo videos on YouTube\n\nCoastWatch Help Desk\n\nEmail: coastwatch.info@noaa.gov\nPhone: +1-301-683-3335\nUser Forums",
+    "text": "Resources\n\nCoastwatch Tutorials (on GitHub)\nCoastwatch Lecture series\nGeostationary satellites covering Western Pacific\nPacIOOS\nPacIOOS Voyager",
     "crumbs": [
       "Past Trainings",
-      "2025 Long Island Sound"
+      "2024 PGRSC Workshop"
     ]
   },
   {
@@ -395,6 +340,61 @@
     "crumbs": [
       "Past Trainings",
       "2024 Sea Ice Data Course"
+    ]
+  },
+  {
+    "objectID": "courses/longislandsound25.html",
+    "href": "courses/longislandsound25.html",
+    "title": "2025 Long Island Sound Class",
+    "section": "",
+    "text": "Virtual - Times vary daily, see schedule below (times are Eastern).\nNOAA CoastWatch is hosting this free, virtual training class:  Viewing and Analyzing Ocean/Coastal Events and Water Quality Using Satellites\nJoin Class Via Zoom Here",
+    "crumbs": [
+      "Past Trainings",
+      "2025 Long Island Sound"
+    ]
+  },
+  {
+    "objectID": "courses/longislandsound25.html#course-description",
+    "href": "courses/longislandsound25.html#course-description",
+    "title": "2025 Long Island Sound Class",
+    "section": "Course Description",
+    "text": "Course Description\nMany satellite products are available for water quality applications and other uses from NOAA and other data providers. These include: chlorophyll, turbidity, sea surface temperature, organic matter, and more. In this course, learn how to use these satellite products for your region of interest using freely available tools. Address your needs and questions by creating maps and images, plotting a time series of varying conditions, or creating a virtual buoy for your study location. And other applications too!\nThis class is being offered in two Tiers as part of a larger Long Island Sound Project funded by New York/Connecticut Sea Grant.",
+    "crumbs": [
+      "Past Trainings",
+      "2025 Long Island Sound"
+    ]
+  },
+  {
+    "objectID": "courses/longislandsound25.html#objectives",
+    "href": "courses/longislandsound25.html#objectives",
+    "title": "2025 Long Island Sound Class",
+    "section": "Objectives",
+    "text": "Objectives\n\nTier I: Creating Images\nLearn to use tools to create images and maps of ocean or coastal features in your area of interest. Tools taught: CoastWatch Data Portal, ArcGIS, ERDDAP visualization server, and more.\n\n\nTier II: Analyzing Data for Your Study or Region\nWork more analytically with oceanographic satellite data. Learn R and/or Python techniques to access data on ERDDAP data servers for data extraction, map creation, time series analysis, matching data to your study site locations or ship tracks, creating a virtual buoy using satellite data in your location of choice, and other application skills.",
+    "crumbs": [
+      "Past Trainings",
+      "2025 Long Island Sound"
+    ]
+  },
+  {
+    "objectID": "courses/longislandsound25.html#schedule",
+    "href": "courses/longislandsound25.html#schedule",
+    "title": "2025 Long Island Sound Class",
+    "section": "Schedule",
+    "text": "Schedule\n\n\n\nDay\nTime (ET)\nTopic\nPresenter\n\n\n\n\nMonday - March 31\n\nTier I and Tier II\n\n\n\n\n9:00 - 9:15\nPresentation 1: Overview – SeaGrant-funded Satellite Project\nJonathan Sherman\n\n\n\n9:15 - 9:45\nPresentation 2: Data Portal\nMichael Soracco\n\n\n\n9:45 - 10:15\nPresentation 3: ArcGIS\nMichael Soracco\n\n\n\n10:15 - 10:30\nBreak\n\n\n\n\n10:30 - 11:15\nPresentation 4: CoastWatch Utilities - CDAT  Files\nRon Vogel\n\n\n\n11:15 - 11:30\nQ & A\n\n\n\n\n11:30 - 12:15\nParticipant Exercise 1: Choose a tool and make a map  ArcGIS files, CDAT files\n\n\n\n\n12:15 - 1:15\nLunch break\n\n\n\n\n1:15 - 1:45\nPresentation 5: Choosing a Dataset\nJonathan Sherman\n\n\n\n1:45 - 2:45\nPresentation 6: ERDDAP\nRon Vogel\n\n\n\n2:45 - 3:00\nBreak\n\n\n\n\n3:00 - 3:30\nQ & A and Resources for Participants\n\n\n\n\n3:30 - 4:30\nParticipant Exercise 2: Choose a dataset from ERDDAP, download, make a map and a time series  Sample data list\n\n\n\nTuesday - April 1\n\nTier II (April 1–4)\n\n\n\n\n9:00 - 9:30\nPresentation 7: Satellite 101\nShelly Tomlinson\n\n\n\n9:30 - 10:30\nPresentation 8: CoastWatch Training Code (R and Python) – Capabilities and Tutorials  Tutorials GitHub page\nJonathan Sherman\n\n\n\n10:30 - 10:45\nBreak\n\n\n\n\n10:45 - 11:30\nPresentation 9: CoastWatch Utilities - Command Line  Files\nRon Vogel\n\n\n\n11:30 - 12:00\nOffice Hours Logistics, Mini-project & Slide Info, Q & A\n\n\n\n\n12:00 - 1:00\nLunch\n\n\n\n\n1:00 - 4:00\nOffice Hours: One-on-One\n\n\n\nWednesday - April 2\n\nParticipants work on their mini-project on their own time\n\n\n\nThursday - April 3\n9:00 - 9:15\nGauge Progress Poll\nBetty Staugler\n\n\n\n9:15 - 9:30\nPresentation 10: HAB Forecasts\nShelly Tomlinson\n\n\n\n9:30 - 9:45\nPresentation 11: COVID Impacts\nJonathan Sherman\n\n\n\n9:45 - 10:00\nPresentation 12: Participant Slide Examples from Past Classes\nRon Vogel\n\n\n\n10:00 - 12:00\nOffice Hours: Group Discussion or One-on-One\n\n\n\n\n12:00 - 1:00\nLunch\n\n\n\n\n1:00 - 4:00\nParticipants work on their mini-project on their own time\n\n\n\nFriday - April 4\n1:00 - 3:00\nFinal Mini-project Presentations (1 slide each)\nParticipants",
+    "crumbs": [
+      "Past Trainings",
+      "2025 Long Island Sound"
+    ]
+  },
+  {
+    "objectID": "courses/longislandsound25.html#resources",
+    "href": "courses/longislandsound25.html#resources",
+    "title": "2025 Long Island Sound Class",
+    "section": "Resources",
+    "text": "Resources\n\nCoastWatch main website\nCoastWatch East Coast Regional Node website\nCoastWatch Data Access methods\nCoastwatch Coding Tutorials: R and Python (on GitHub)\nCoastwatch Lecture series\nCoastwatch Data Portal video tutorials\nCoastwatch ArcGIS lecture videos and tutorials\nCoastWatch Utilities\n\nCoastWatch Utilities Tutorials - CDAT and Command-Line\nCDAT demo videos on YouTube\n\nCoastWatch Help Desk\n\nEmail: coastwatch.info@noaa.gov\nPhone: +1-301-683-3335\nUser Forums",
+    "crumbs": [
+      "Past Trainings",
+      "2025 Long Island Sound"
     ]
   }
 ]
