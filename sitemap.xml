@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://coastwatch-training.github.io/coastwatch-workshops/presentations/icft25/test.html</loc>
-    <lastmod>2025-09-09T20:45:55.541Z</lastmod>
-  </url>
-  <url>
-    <loc>https://coastwatch-training.github.io/coastwatch-workshops/index.html</loc>
-    <lastmod>2025-09-09T20:45:55.422Z</lastmod>
-  </url>
-  <url>
     <loc>https://coastwatch-training.github.io/coastwatch-workshops/officehours.html</loc>
-    <lastmod>2025-09-09T20:45:55.422Z</lastmod>
+    <lastmod>2025-11-21T00:24:48.784Z</lastmod>
   </url>
   <url>
     <loc>https://coastwatch-training.github.io/coastwatch-workshops/courses/afs24.html</loc>
-    <lastmod>2025-09-09T20:45:55.015Z</lastmod>
-  </url>
-  <url>
-    <loc>https://coastwatch-training.github.io/coastwatch-workshops/courses/seaice24.html</loc>
-    <lastmod>2025-09-09T20:45:55.016Z</lastmod>
-  </url>
-  <url>
-    <loc>https://coastwatch-training.github.io/coastwatch-workshops/courses/icft25.html</loc>
-    <lastmod>2025-09-09T20:45:55.015Z</lastmod>
+    <lastmod>2025-11-21T00:24:48.378Z</lastmod>
   </url>
   <url>
     <loc>https://coastwatch-training.github.io/coastwatch-workshops/courses/pgrsc24.html</loc>
-    <lastmod>2025-09-09T20:45:55.015Z</lastmod>
+    <lastmod>2025-11-21T00:24:48.378Z</lastmod>
   </url>
   <url>
-    <loc>https://coastwatch-training.github.io/coastwatch-workshops/courses/longislandsound25.html</loc>
-    <lastmod>2025-09-09T20:45:55.015Z</lastmod>
+    <loc>https://coastwatch-training.github.io/coastwatch-workshops/index.html</loc>
+    <lastmod>2025-11-21T00:24:48.784Z</lastmod>
+  </url>
+  <url>
+    <loc>https://coastwatch-training.github.io/coastwatch-workshops/presentations/icft25/test.html</loc>
+    <lastmod>2025-11-21T00:24:48.903Z</lastmod>
   </url>
   <url>
     <loc>https://coastwatch-training.github.io/coastwatch-workshops/past.html</loc>
-    <lastmod>2025-09-09T20:45:55.422Z</lastmod>
+    <lastmod>2025-11-21T00:24:48.784Z</lastmod>
   </url>
   <url>
     <loc>https://coastwatch-training.github.io/coastwatch-workshops/presentations/longislandsound25/exercise-materials/Long_Island_Sound_Chlorophyll-a_Dynamics_Tutorial.html</loc>
-    <lastmod>2025-09-09T20:45:56.098Z</lastmod>
+    <lastmod>2025-11-21T00:24:49.459Z</lastmod>
+  </url>
+  <url>
+    <loc>https://coastwatch-training.github.io/coastwatch-workshops/courses/icft25.html</loc>
+    <lastmod>2025-11-21T00:24:48.378Z</lastmod>
+  </url>
+  <url>
+    <loc>https://coastwatch-training.github.io/coastwatch-workshops/courses/longislandsound25.html</loc>
+    <lastmod>2025-11-21T00:24:48.378Z</lastmod>
+  </url>
+  <url>
+    <loc>https://coastwatch-training.github.io/coastwatch-workshops/courses/seaice24.html</loc>
+    <lastmod>2025-11-21T00:24:48.378Z</lastmod>
   </url>
 </urlset>
