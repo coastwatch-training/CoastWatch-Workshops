@@ -76,79 +76,132 @@
     ]
   },
   {
-    "objectID": "courses/pgrsc24.html",
-    "href": "courses/pgrsc24.html",
-    "title": "Access and Use Satellite Data and Decision-making tools for Ocean and Coastal Applications",
+    "objectID": "courses/pgrsc26.html",
+    "href": "courses/pgrsc26.html",
+    "title": "NOAA CoastWatch/PacIOOS Satellite and Ocean Data Training Course",
     "section": "",
-    "text": "Training on accessing Oceanographic Satellite Data from NOAA CoastWatch and using information tools from PacIOOS for applications in the Pacific Islands region. This training will be held during the 2024 Pacific Islands GIS and Remote Sensing Users Conference in Suva, Fiji.\nClick here to Register.",
-    "crumbs": [
-      "Past Trainings",
-      "2024 PGRSC Workshop"
-    ]
+    "text": "This 4-day satellite and ocean data training course will be held virtually during February 10-13 (FJT), 2026. It is co-hosted by CoastWatch/OceanWatch Central Pacific and the Pacific Islands Ocean Observing System (PacIOOS).\nClick here to Register."
   },
   {
-    "objectID": "courses/pgrsc24.html#course-description",
-    "href": "courses/pgrsc24.html#course-description",
-    "title": "Access and Use Satellite Data and Decision-making tools for Ocean and Coastal Applications",
+    "objectID": "courses/pgrsc26.html#course-description",
+    "href": "courses/pgrsc26.html#course-description",
+    "title": "NOAA CoastWatch/PacIOOS Satellite and Ocean Data Training Course",
     "section": "",
-    "text": "Training on accessing Oceanographic Satellite Data from NOAA CoastWatch and using information tools from PacIOOS for applications in the Pacific Islands region. This training will be held during the 2024 Pacific Islands GIS and Remote Sensing Users Conference in Suva, Fiji.\nClick here to Register.",
-    "crumbs": [
-      "Past Trainings",
-      "2024 PGRSC Workshop"
-    ]
+    "text": "This 4-day satellite and ocean data training course will be held virtually during February 10-13 (FJT), 2026. It is co-hosted by CoastWatch/OceanWatch Central Pacific and the Pacific Islands Ocean Observing System (PacIOOS).\nClick here to Register."
   },
   {
-    "objectID": "courses/pgrsc24.html#instructors",
-    "href": "courses/pgrsc24.html#instructors",
-    "title": "Access and Use Satellite Data and Decision-making tools for Ocean and Coastal Applications",
-    "section": "Instructors",
-    "text": "Instructors\n\n\n\nName\nAffiliation\n\n\n\n\nDaisy Shi\nCoastWatch/Pacific OceanWatch, node manager\n\n\nLauren Kaiser\nPacIOOS, data management specialist\n\n\nCara Wilson\nCoastWatch/West Coast Node, PI",
-    "crumbs": [
-      "Past Trainings",
-      "2024 PGRSC Workshop"
-    ]
+    "objectID": "courses/pgrsc26.html#learning-outcomes",
+    "href": "courses/pgrsc26.html#learning-outcomes",
+    "title": "NOAA CoastWatch/PacIOOS Satellite and Ocean Data Training Course",
+    "section": "Learning Outcomes",
+    "text": "Learning Outcomes\n\nLearn where to find satellite, remote sensing, and ocean parameter data\nBecome familiar with the ERDDAP platform to visualize, subset, and download data\nLearn to judge which products are appropriate for your application or who to contact to get guidance\nApply what you learn on a personal project so that you leave the course with ready-to-use workflows"
   },
   {
-    "objectID": "courses/pgrsc24.html#objectives",
-    "href": "courses/pgrsc24.html#objectives",
-    "title": "Access and Use Satellite Data and Decision-making tools for Ocean and Coastal Applications",
-    "section": "Objectives",
-    "text": "Objectives\n\nDescribe the basic types of products available from satellite data\nDemonstrate how to access data on ERDDAP servers\nIntroduce CoastWatch satellite data and training resources\nExplore additional data and information tools available at PacIOOS\nProvide hands-on time to access data and run tutorials",
-    "crumbs": [
-      "Past Trainings",
-      "2024 PGRSC Workshop"
-    ]
+    "objectID": "courses/pgrsc26.html#course-logistics",
+    "href": "courses/pgrsc26.html#course-logistics",
+    "title": "NOAA CoastWatch/PacIOOS Satellite and Ocean Data Training Course",
+    "section": "Course Logistics",
+    "text": "Course Logistics\nThis course will be conducted entirely online. Anyone is free to sign up for the course, although it is targeted at participants in the Pacific Islands region, and the live sessions are scheduled to align with their workday. At the start of each day (9:00 am FJT, 11:00 am HST), there will be a live session where we will preview the material participants should go over that day, discuss the previous day’s material, and answer any questions. Each day, there will be a live Q&A session (2:00-3:00 pm FJT, 4:00-5:00 pm HST) to answer any questions regarding the materials, exercises, or the project you are working on.\nParticipants should expect to spend about 1-2 hours/day in live sessions and at least 2-3 hours/day working on their own, going through the course material at their own pace, and working on their project. All of the course materials are available online, and participants will go through them at their own pace, but there is a suggested list of modules to cover for each day of the course. Instructors will be available during the week to help or answer questions. The last day will be a 2-3 hour student presentation day (see below)."
   },
   {
-    "objectID": "courses/pgrsc24.html#schedule",
-    "href": "courses/pgrsc24.html#schedule",
-    "title": "Access and Use Satellite Data and Decision-making tools for Ocean and Coastal Applications",
+    "objectID": "courses/pgrsc26.html#project",
+    "href": "courses/pgrsc26.html#project",
+    "title": "NOAA CoastWatch/PacIOOS Satellite and Ocean Data Training Course",
+    "section": "Project",
+    "text": "Project\nAs part of the course, participants are expected to come with a specific project to work on during the class. Participants get more out of the workshop if they have specific questions or projects to work on. Everyone will give a short (1 slide, 2-minute MAX) lightning talk during the last class session. The project can be as simple as making a map or a time series for the region of interest, for those who are new to working with satellite data, or as complex as a participant feels comfortable with. Any ancillary data needed for projects should be available on hand."
+  },
+  {
+    "objectID": "courses/pgrsc26.html#course-structure",
+    "href": "courses/pgrsc26.html#course-structure",
+    "title": "NOAA CoastWatch/PacIOOS Satellite and Ocean Data Training Course",
+    "section": "Course Structure",
+    "text": "Course Structure\nThe Day 1 live session will include an introduction to the course and the instructors. This will be an opportunity for participants to introduce themselves and briefly describe their class project. On Days 2 and 3, during the live session, the instructors will review the previous day’s homework, preview the course activities for the self-study periods, and answer any questions that have come up. Guest lectures and tools demos may also be included. Participants work at their own schedule and pace to complete the course content and work on their individual projects. The first few days feature video tutorials on satellite data, example software tutorials, and homework exercises. As the class progresses, participants will use the self-study period to work on their individual projects."
+  },
+  {
+    "objectID": "courses/pgrsc26.html#schedule",
+    "href": "courses/pgrsc26.html#schedule",
+    "title": "NOAA CoastWatch/PacIOOS Satellite and Ocean Data Training Course",
     "section": "Schedule",
-    "text": "Schedule\n\n\n\nTime (Fiji Standard Time)\nTopic\nPresenter\n\n\n\n\n1:00 - 1:10\nWelcome & Introductions\nDaisy Shi & Lauren Kaiser\n\n\n1:10 - 1:20\nInteractive Questions\n\n\n\n1:20 - 1:35\nIntro to CoastWatch, Satellite Datasets & Data Portal\nDaisy Shi\n\n\n1:35 - 1:50\nIntro to OceanWatch, Data Accessibility & Usability\nDaisy Shi\n\n\n1:50 - 2:20\nIntro to PacIOOS, Website Walkthrough & Data Search\nLauren Kaiser\n\n\n2:20 - 2:30\nInteractive Questions\n\n\n\n2:30 - 2:45\nBreak\n\n\n\n2:45 - 2:55\nOverview of CoastWatch Tutorials\nDaisy Shi\n\n\n2:55 - 3:15\nERDDAP Demos\nDaisy Shi\n\n\n3:15 - 3:45\nArcGIS & QGIS Demos\nLauren Kaiser\n\n\n3:45 - 4:00\nBreak\n\n\n\n4:00 - 5:50\nHands-On time\nAll\n\n\n5:50 - 6:00\nInteractive Questions & Feedback",
-    "crumbs": [
-      "Past Trainings",
-      "2024 PGRSC Workshop"
-    ]
+    "text": "Schedule\n\n\n\nDay\nTime (FJT)\nTopic\nPresenter\n\n\n\n\nDay 1 - February 10\n9:00 AM (live session)\nIntroduction to NOAA CoastWatch & PacIOOS\nDaisy Shi & Lauren Kaiser\n\n\n\n\nTools & Resources (ERDDAP & Voyager)\nDaisy Shi & Lauren Kaiser\n\n\n\n11:00 AM (Self-Paced Work)\nModule 1: Satellite 101 (Part 1 & Part 2)\n\n\n\n\n\nModule 2: Tools & Strategies for your Project\n\n\n\n\n\nTutorial 1: ERDDAP Basics\n\n\n\n\n\nTutorial 2: PacIOOS Voyager User Tutorial\n\n\n\n\n\nProject Development 1: Make a map on the ERDDAP make-a-graph interface with a dataset from the CoastWatch Data Catalog. Practice downloading the data as a netCDF file using the download interface (i.e., select the nc file format in ERDDAP).\n\n\n\n\n\nProject Development 2: Review presentation guidelines and examples from previous courses\n\n\n\n\n2:00 PM\nQ & A Session\n\n\n\nDay 2 - February 11\n9:00 AM (live session)\nOcean Satellite Products\nRyan Vandermeulen\n\n\n\n\nUsing Satellite Data with GIS\nLauren Kaiser\n\n\n\n11:00 AM (Self-Paced Work)\nModule 1: Satellite Ocean Color\n\n\n\n\n\nModule 2: Satellite Water Quality\n\n\n\n\n\nModule 3: Harmful Algal Blooms (HABS, Part 1 & Part 2)\n\n\n\n\n\nModule 4: What Dataset(s) to Choose\n\n\n\n\n\nModule 5: R and ERDDAP\n\n\n\n\n\nTutorial 1: ArcGIS Tools Tutorial\n\n\n\n\n\nTutorial 2: Python and R Tutorials\n\n\n\n\n\nProject Development 1: Identify which datasets are best suited for your application from OceanWatch Central Pacific, CoastWatch Search Tool, PacIOOS ERDDAP, and PacIOOS Search Tool.\n\n\n\n\n\nProject Development 2: Find the data on ERDDAP. Think about what date range and spatial resolution you need, and which time composite you decided to use (daily, weekly, or monthly). You should be able to explain why you chose the specific product.\n\n\n\n\n\nProject Development 3: Download data needed for your project and create a plot (map, time-series, etc.)\n\n\n\n\n2:00 PM\nQ & A Session\n\n\n\nDay 3 - February 12\n9:00 AM (live session)\nSatellite Monitoring Products\nKisei Tanaka\n\n\n\n\nData Demo\nLauren Kaiser\n\n\n\n11:00 AM (Self-Paced Work)\nModule 1: Satellite Sea Surface Temperature\n\n\n\n\n\nModule 2: Satellite Salinity, Wind, and Altimetry\n\n\n\n\n\nModule 3: Synthetic Aperture Radar (SAR)\n\n\n\n\n\nTutorial 1: ArcGIS Tutorial: Tracking Turtles & Temperature\n\n\n\n\n\nTutorial 2: ArcGIS Tutorial: Ocean Color & Water Quality\n\n\n\n\n\nProject Development 1: Create a slide. Include your name, affiliation, a short description of your project, one or two images (map, time series, histogram, cute picture) that you were able to make in relation to your project, what specific satellite product(s) and software you used\n\n\n\n\n\nProject Development 2: Optional: you can include cool picture(s) of animals or technology related to your project. If applicable: also include challenges, data products that you wish were available (satellite-related), needs unmet by current data/services offerings.\n\n\n\n\n\n\n\n\n\n\n\nProject Development 3: Upload your final slide(s) to the 2026 Paticipant Presentation folder.\n\n\n\n\n2:00 PM\nQ & A Session\n\n\n\nDay 4 - February 13\n9:00 AM (live session)\nParticipant Presentations (2-minute presentation on your slide(s) )\n\n\n\n\n\nCourse Feedback"
   },
   {
-    "objectID": "courses/pgrsc24.html#resources",
-    "href": "courses/pgrsc24.html#resources",
-    "title": "Access and Use Satellite Data and Decision-making tools for Ocean and Coastal Applications",
+    "objectID": "courses/pgrsc26.html#contacts",
+    "href": "courses/pgrsc26.html#contacts",
+    "title": "NOAA CoastWatch/PacIOOS Satellite and Ocean Data Training Course",
+    "section": "Contacts",
+    "text": "Contacts\n\n\n\nName\nAffiliation\n\n\n\n\nDaisy Shi\nCoastWatch/Pacific OceanWatch, Operations Manager\n\n\nLauren Kaiser\nPacIOOS, Data Management Specialist\n\n\nRyan Vandermeulen\nNOAA Fisheries Satellite Coordinator\n\n\nKisei Tanaka\nNOAA PIFSC, Research Marine Biologist\n\n\nCara Wilson\nCoastWatch/West Coast Node, PI"
+  },
+  {
+    "objectID": "courses/pgrsc26.html#resources",
+    "href": "courses/pgrsc26.html#resources",
+    "title": "NOAA CoastWatch/PacIOOS Satellite and Ocean Data Training Course",
     "section": "Resources",
-    "text": "Resources\n\nCoastwatch Tutorials (on GitHub)\nCoastwatch Lecture series\nGeostationary satellites covering Western Pacific\nPacIOOS\nPacIOOS Voyager",
+    "text": "Resources\n\nNOAA CoastWatch Website\nCoastWatch Training Lectures & Tutorials (on YouTube)\n\nLectures\nTutorials\n\nCoastwatch Tutorials (on GitHub)\nPacIOOS"
+  },
+  {
+    "objectID": "courses/icft25.html",
+    "href": "courses/icft25.html",
+    "title": "Satellite and Animal Telemetry Data Training",
+    "section": "",
+    "text": "Training on accessing Oceanographic Satellite Data from NOAA CoastWatch and using the Animal Telemetry Network Portal. This training was originally going to be held before the annual ICFT (International Conference on Fish Telemetry) meeting in Traverse City, Michigan, but has been rescheduled to be an online course, open to all.\nLink to registration page",
     "crumbs": [
-      "Past Trainings",
-      "2024 PGRSC Workshop"
+      "Upcoming Trainings",
+      "2025 Satellite and Animal Telemetry"
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "CoastWatch Workshops",
+    "objectID": "courses/icft25.html#course-description",
+    "href": "courses/icft25.html#course-description",
+    "title": "Satellite and Animal Telemetry Data Training",
     "section": "",
-    "text": "CoastWatch regularly organizes and offers in-person and online satellite training classes or workshops featuring lectures, tutorials, & tool demonstrations.\nDuring in-person and online satellite course, participants learn about environmental satellite data and how to easily obtain it. Participants also gain hands on experience working with the data of interest to them. A major goal of the course is to provide scientists who are not regular users of satellite data with the knowledge and tools they need to incorporate satellite data into their research and management projects.\nFor questions or more information about the upcoming satellite training classes, please contact coastwatch.info@noaa.gov.",
+    "text": "Training on accessing Oceanographic Satellite Data from NOAA CoastWatch and using the Animal Telemetry Network Portal. This training was originally going to be held before the annual ICFT (International Conference on Fish Telemetry) meeting in Traverse City, Michigan, but has been rescheduled to be an online course, open to all.\nLink to registration page",
     "crumbs": [
-      "Main"
+      "Upcoming Trainings",
+      "2025 Satellite and Animal Telemetry"
+    ]
+  },
+  {
+    "objectID": "courses/icft25.html#instructors",
+    "href": "courses/icft25.html#instructors",
+    "title": "Satellite and Animal Telemetry Data Training",
+    "section": "Instructors",
+    "text": "Instructors\n\n\n\nName\nAffiliation\n\n\n\n\nCara Wilson\nCoastWatch/West Coast Node, PI\n\n\nDale Robinson\nCoastWatch/West Coast Node, node manager\n\n\nMegan McKinzie\nATN Data manager\n\n\nDaisy Shi\nCoastWatch/Pacific OceanWatch, node manager",
+    "crumbs": [
+      "Upcoming Trainings",
+      "2025 Satellite and Animal Telemetry"
+    ]
+  },
+  {
+    "objectID": "courses/icft25.html#objectives",
+    "href": "courses/icft25.html#objectives",
+    "title": "Satellite and Animal Telemetry Data Training",
+    "section": "Objectives",
+    "text": "Objectives\n\nDescribe the basic types of products available from satellite data\nDemonstate how to access data on ERDDAP servers\nExplore the data available on the Animal Telemetry Network portal\nIntroduce CoastWatch satellite data training resources\nProvide hands-on time to access data and try tutorials",
+    "crumbs": [
+      "Upcoming Trainings",
+      "2025 Satellite and Animal Telemetry"
+    ]
+  },
+  {
+    "objectID": "courses/icft25.html#schedule",
+    "href": "courses/icft25.html#schedule",
+    "title": "Satellite and Animal Telemetry Data Training",
+    "section": "Schedule",
+    "text": "Schedule\nThursday, August 14, 2025\n\n\n\nTime (PST)\nTopic\nPresenter\n\n\n\n\n10:00 - 10:15\nTraining Overview - CoastWatch, ATN and the workshop component\nCara Wilson\n\n\n10:15 - 11:30\nCoastwatch satellite datasets and data portals\nCara Wilson\n\n\n11:30 - 11:45\nBreak\n\n\n\n11:45 - 12:15\nUsing the ERDDAP data server\nCara Wilson\n\n\n12:15 - 12:45\nAccessing ERDDAP using scripts (R, python)\nCara Wilson\n\n\n12:45 - 1:00\nDay 1 wrap-up\n\n\n\n\nFriday, August 15, 2025\n\n\n\nTime (PST)\nTopic\nPresenter\n\n\n\n\n10:00 - 10:30\nIntro to ATN and the DAC\nMegan McKinzie\n\n\n10:30 - 11:00\nDemo of ATN data portal\nMegan McKinzie\n\n\n11:00 - 11:30\nAccessing public ATN datasets\nMegan McKinzie\n\n\n11:30 - 11:45\nBreak\n\n\n\n11:45 - 12:00\nWorkshop, part 1: Linking CoastWatch and ATN data using scripts\nDaisy Shi\n\n\n12:00 - 12:45\nWorkshop, part 2: Hand’s on time\n\n\n\n12:45 - 13:00\nWrap up and final discussion\nAll",
+    "crumbs": [
+      "Upcoming Trainings",
+      "2025 Satellite and Animal Telemetry"
+    ]
+  },
+  {
+    "objectID": "courses/icft25.html#resources",
+    "href": "courses/icft25.html#resources",
+    "title": "Satellite and Animal Telemetry Data Training",
+    "section": "Resources",
+    "text": "Resources\n\nCoastwatch Tutorials (on GitHub)\nCoastwatch Lecture series\nAnimal telemetry Network",
+    "crumbs": [
+      "Upcoming Trainings",
+      "2025 Satellite and Animal Telemetry"
     ]
   },
   {
@@ -222,69 +275,79 @@
     "text": "Spatial Subset and Time Series Comparing Chlorophyll-a Seasonal Cycles in Western and Eastern Long Island Sound\nSubset the data - West Long Island Ssound bewteen -73.9o to -73.1o W longitude - East Long Island Ssound bewteen -72.9o to -71.8o W longitude\nWe are going to generate a time series of mean SST within each box.\n\nda_west = ds.sel(longitude=slice(-73.9, -73.1))\nda_east = ds.sel(longitude=slice(-72.9, -71.8))\n\n\nExamine the structure of the subsetted data.\nThe subsets are 3D arrays with 365 time steps, each with 481 rows corresponding to latitudes (full LIS latitudinal extent) and 296 / 406 columns corresponding to longitudes in the West and East, respectively.\n\nprint(f\"West shape: {da_west.chlor_a.shape}\")\nprint(f\"West shape: {da_east.chlor_a.shape}\")\n\nWest shape: (365, 481, 296)\nWest shape: (365, 481, 406)\n\n\n\n\nResmaple each subset to an 8-Day means\nPlotting a daily time series can often be messy, so we compute 8-day averages to smooth the data and highlight seasonal patterns.\n\nda_west = da_west.resample(time=\"8D\").mean()\nda_east = da_east.resample(time=\"8D\").mean()\n\n\n\nCompute a time series\nNow, we will average all data within each subset across the latitude and longitude dimensions to produce a single time series.\n\nwest_TS = da_west.chlor_a.mean(dim=(\"latitude\",\"longitude\"))\neast_TS = da_east.chlor_a.mean(dim=(\"latitude\",\"longitude\"))\n\n\n\nPlot the time-series\n\nplt.figure(figsize=(8, 4))\nplt.plot(west_TS.time, west_TS, label=\"West LIS\", marker=\"o\", c=\"tab:blue\")\nplt.plot(east_TS.time, east_TS, label=\"East LIS\", marker=\"o\", c=\"tab:red\")\n\n\nplt.ylabel('Chlorophyll-a (mg m$^{-3}$)')\nplt.legend()"
   },
   {
-    "objectID": "courses/icft25.html",
-    "href": "courses/icft25.html",
-    "title": "Satellite and Animal Telemetry Data Training",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "CoastWatch Workshops",
     "section": "",
-    "text": "Training on accessing Oceanographic Satellite Data from NOAA CoastWatch and using the Animal Telemetry Network Portal. This training was originally going to be held before the annual ICFT (International Conference on Fish Telemetry) meeting in Traverse City, Michigan, but has been rescheduled to be an online course, open to all.\nLink to registration page",
+    "text": "CoastWatch regularly organizes and offers in-person and online satellite training classes or workshops featuring lectures, tutorials, & tool demonstrations.\nDuring in-person and online satellite course, participants learn about environmental satellite data and how to easily obtain it. Participants also gain hands on experience working with the data of interest to them. A major goal of the course is to provide scientists who are not regular users of satellite data with the knowledge and tools they need to incorporate satellite data into their research and management projects.\nFor questions or more information about the upcoming satellite training classes, please contact coastwatch.info@noaa.gov.",
     "crumbs": [
-      "Upcoming Trainings",
-      "2025 Satellite and Animal Telemetry"
+      "Main"
     ]
   },
   {
-    "objectID": "courses/icft25.html#course-description",
-    "href": "courses/icft25.html#course-description",
-    "title": "Satellite and Animal Telemetry Data Training",
+    "objectID": "courses/pgrsc24.html",
+    "href": "courses/pgrsc24.html",
+    "title": "Access and Use Satellite Data and Decision-making tools for Ocean and Coastal Applications",
     "section": "",
-    "text": "Training on accessing Oceanographic Satellite Data from NOAA CoastWatch and using the Animal Telemetry Network Portal. This training was originally going to be held before the annual ICFT (International Conference on Fish Telemetry) meeting in Traverse City, Michigan, but has been rescheduled to be an online course, open to all.\nLink to registration page",
+    "text": "Training on accessing Oceanographic Satellite Data from NOAA CoastWatch and using information tools from PacIOOS for applications in the Pacific Islands region. This training will be held during the 2024 Pacific Islands GIS and Remote Sensing Users Conference in Suva, Fiji.\nClick here to Register.",
     "crumbs": [
-      "Upcoming Trainings",
-      "2025 Satellite and Animal Telemetry"
+      "Past Trainings",
+      "2024 PGRSC Workshop"
     ]
   },
   {
-    "objectID": "courses/icft25.html#instructors",
-    "href": "courses/icft25.html#instructors",
-    "title": "Satellite and Animal Telemetry Data Training",
+    "objectID": "courses/pgrsc24.html#course-description",
+    "href": "courses/pgrsc24.html#course-description",
+    "title": "Access and Use Satellite Data and Decision-making tools for Ocean and Coastal Applications",
+    "section": "",
+    "text": "Training on accessing Oceanographic Satellite Data from NOAA CoastWatch and using information tools from PacIOOS for applications in the Pacific Islands region. This training will be held during the 2024 Pacific Islands GIS and Remote Sensing Users Conference in Suva, Fiji.\nClick here to Register.",
+    "crumbs": [
+      "Past Trainings",
+      "2024 PGRSC Workshop"
+    ]
+  },
+  {
+    "objectID": "courses/pgrsc24.html#instructors",
+    "href": "courses/pgrsc24.html#instructors",
+    "title": "Access and Use Satellite Data and Decision-making tools for Ocean and Coastal Applications",
     "section": "Instructors",
-    "text": "Instructors\n\n\n\nName\nAffiliation\n\n\n\n\nCara Wilson\nCoastWatch/West Coast Node, PI\n\n\nDale Robinson\nCoastWatch/West Coast Node, node manager\n\n\nMegan McKinzie\nATN Data manager\n\n\nDaisy Shi\nCoastWatch/Pacific OceanWatch, node manager",
+    "text": "Instructors\n\n\n\nName\nAffiliation\n\n\n\n\nDaisy Shi\nCoastWatch/Pacific OceanWatch, node manager\n\n\nLauren Kaiser\nPacIOOS, data management specialist\n\n\nCara Wilson\nCoastWatch/West Coast Node, PI",
     "crumbs": [
-      "Upcoming Trainings",
-      "2025 Satellite and Animal Telemetry"
+      "Past Trainings",
+      "2024 PGRSC Workshop"
     ]
   },
   {
-    "objectID": "courses/icft25.html#objectives",
-    "href": "courses/icft25.html#objectives",
-    "title": "Satellite and Animal Telemetry Data Training",
+    "objectID": "courses/pgrsc24.html#objectives",
+    "href": "courses/pgrsc24.html#objectives",
+    "title": "Access and Use Satellite Data and Decision-making tools for Ocean and Coastal Applications",
     "section": "Objectives",
-    "text": "Objectives\n\nDescribe the basic types of products available from satellite data\nDemonstate how to access data on ERDDAP servers\nExplore the data available on the Animal Telemetry Network portal\nIntroduce CoastWatch satellite data training resources\nProvide hands-on time to access data and try tutorials",
+    "text": "Objectives\n\nDescribe the basic types of products available from satellite data\nDemonstrate how to access data on ERDDAP servers\nIntroduce CoastWatch satellite data and training resources\nExplore additional data and information tools available at PacIOOS\nProvide hands-on time to access data and run tutorials",
     "crumbs": [
-      "Upcoming Trainings",
-      "2025 Satellite and Animal Telemetry"
+      "Past Trainings",
+      "2024 PGRSC Workshop"
     ]
   },
   {
-    "objectID": "courses/icft25.html#schedule",
-    "href": "courses/icft25.html#schedule",
-    "title": "Satellite and Animal Telemetry Data Training",
+    "objectID": "courses/pgrsc24.html#schedule",
+    "href": "courses/pgrsc24.html#schedule",
+    "title": "Access and Use Satellite Data and Decision-making tools for Ocean and Coastal Applications",
     "section": "Schedule",
-    "text": "Schedule\nThursday, August 14, 2025\n\n\n\nTime (PST)\nTopic\nPresenter\n\n\n\n\n10:00 - 10:15\nTraining Overview - CoastWatch, ATN and the workshop component\nCara Wilson\n\n\n10:15 - 11:30\nCoastwatch satellite datasets and data portals\nCara Wilson\n\n\n11:30 - 11:45\nBreak\n\n\n\n11:45 - 12:15\nUsing the ERDDAP data server\nCara Wilson\n\n\n12:15 - 12:45\nAccessing ERDDAP using scripts (R, python)\nCara Wilson\n\n\n12:45 - 1:00\nDay 1 wrap-up\n\n\n\n\nFriday, August 15, 2025\n\n\n\nTime (PST)\nTopic\nPresenter\n\n\n\n\n10:00 - 10:30\nIntro to ATN and the DAC\nMegan McKinzie\n\n\n10:30 - 11:00\nDemo of ATN data portal\nMegan McKinzie\n\n\n11:00 - 11:30\nAccessing public ATN datasets\nMegan McKinzie\n\n\n11:30 - 11:45\nBreak\n\n\n\n11:45 - 12:00\nWorkshop, part 1: Linking CoastWatch and ATN data using scripts\nDaisy Shi\n\n\n12:00 - 12:45\nWorkshop, part 2: Hand’s on time\n\n\n\n12:45 - 13:00\nWrap up and final discussion\nAll",
+    "text": "Schedule\n\n\n\nTime (Fiji Standard Time)\nTopic\nPresenter\n\n\n\n\n1:00 - 1:10\nWelcome & Introductions\nDaisy Shi & Lauren Kaiser\n\n\n1:10 - 1:20\nInteractive Questions\n\n\n\n1:20 - 1:35\nIntro to CoastWatch, Satellite Datasets & Data Portal\nDaisy Shi\n\n\n1:35 - 1:50\nIntro to OceanWatch, Data Accessibility & Usability\nDaisy Shi\n\n\n1:50 - 2:20\nIntro to PacIOOS, Website Walkthrough & Data Search\nLauren Kaiser\n\n\n2:20 - 2:30\nInteractive Questions\n\n\n\n2:30 - 2:45\nBreak\n\n\n\n2:45 - 2:55\nOverview of CoastWatch Tutorials\nDaisy Shi\n\n\n2:55 - 3:15\nERDDAP Demos\nDaisy Shi\n\n\n3:15 - 3:45\nArcGIS & QGIS Demos\nLauren Kaiser\n\n\n3:45 - 4:00\nBreak\n\n\n\n4:00 - 5:50\nHands-On time\nAll\n\n\n5:50 - 6:00\nInteractive Questions & Feedback",
     "crumbs": [
-      "Upcoming Trainings",
-      "2025 Satellite and Animal Telemetry"
+      "Past Trainings",
+      "2024 PGRSC Workshop"
     ]
   },
   {
-    "objectID": "courses/icft25.html#resources",
-    "href": "courses/icft25.html#resources",
-    "title": "Satellite and Animal Telemetry Data Training",
+    "objectID": "courses/pgrsc24.html#resources",
+    "href": "courses/pgrsc24.html#resources",
+    "title": "Access and Use Satellite Data and Decision-making tools for Ocean and Coastal Applications",
     "section": "Resources",
-    "text": "Resources\n\nCoastwatch Tutorials (on GitHub)\nCoastwatch Lecture series\nAnimal telemetry Network",
+    "text": "Resources\n\nCoastwatch Tutorials (on GitHub)\nCoastwatch Lecture series\nGeostationary satellites covering Western Pacific\nPacIOOS\nPacIOOS Voyager",
     "crumbs": [
-      "Upcoming Trainings",
-      "2025 Satellite and Animal Telemetry"
+      "Past Trainings",
+      "2024 PGRSC Workshop"
     ]
   },
   {
