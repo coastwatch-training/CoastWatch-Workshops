@@ -29,7 +29,7 @@ The Day 1 live session will include an introduction to the course and the instru
 
 ## Schedule
 
-| **Day**                   | **Time (FJT)**       | **Topic**                                                                                                             | **Presenter**       |
+| **Day (FJT)**                   | **Time (FJT)**       | **Topic**                                                                                                             | **Presenter**       |
 |--------------------------|---------------------|-----------------------------------------------------------------------------------------------------------------------|---------------------|
 | **Day 1 - February 10**    | 9:00 AM  (live session)            | Introduction to NOAA CoastWatch & PacIOOS                                                                             |  Daisy Shi & Lauren Kaiser   |
 |                          |                      | Tools & Resources (ERDDAP & Voyager)                                                                                  |   Daisy Shi & Lauren Kaiser   |
