@@ -35,7 +35,7 @@ website:
     tools: 
       - icon: globe
         href: https://coastwatch.noaa.gov
-        text: "Openscapes.org"
+        text: "CoastWatch"
       - icon: github
         href: https://github.com/coastwatch-training/coastwatch-workshops
     style: "docked"
