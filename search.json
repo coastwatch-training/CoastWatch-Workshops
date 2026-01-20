@@ -444,9 +444,9 @@
   {
     "objectID": "courses/sat201_26.html",
     "href": "courses/sat201_26.html",
-    "title": "Satellite and Animal Telemetry Data Training",
+    "title": "Satellite 201 Summer Lecture Series",
     "section": "",
-    "text": "Training on accessing Oceanographic Satellite Data from NOAA CoastWatch and using the Animal Telemetry Network Portal. This training was originally going to be held before the annual ICFT (International Conference on Fish Telemetry) meeting in Traverse City, Michigan, but has been rescheduled to be an online course, open to all.\nLink to registration page",
+    "text": "This satellite 201 Summer lecture series will provide a deeper dive into some subjects, beyond what is covered in the regulat CoastWatch satellite trainig course. There will 4 for separate pressentations\nLink to registration page",
     "crumbs": [
       "Upcoming Trainings",
       "2026 Satellite 201 Summer Series"
@@ -455,9 +455,9 @@
   {
     "objectID": "courses/sat201_26.html#course-description",
     "href": "courses/sat201_26.html#course-description",
-    "title": "Satellite and Animal Telemetry Data Training",
+    "title": "Satellite 201 Summer Lecture Series",
     "section": "",
-    "text": "Training on accessing Oceanographic Satellite Data from NOAA CoastWatch and using the Animal Telemetry Network Portal. This training was originally going to be held before the annual ICFT (International Conference on Fish Telemetry) meeting in Traverse City, Michigan, but has been rescheduled to be an online course, open to all.\nLink to registration page",
+    "text": "This satellite 201 Summer lecture series will provide a deeper dive into some subjects, beyond what is covered in the regulat CoastWatch satellite trainig course. There will 4 for separate pressentations\nLink to registration page",
     "crumbs": [
       "Upcoming Trainings",
       "2026 Satellite 201 Summer Series"
@@ -466,9 +466,9 @@
   {
     "objectID": "courses/sat201_26.html#instructors",
     "href": "courses/sat201_26.html#instructors",
-    "title": "Satellite and Animal Telemetry Data Training",
+    "title": "Satellite 201 Summer Lecture Series",
     "section": "Instructors",
-    "text": "Instructors\n\n\n\nName\nAffiliation\n\n\n\n\nCara Wilson\nCoastWatch/West Coast Node, PI\n\n\nDale Robinson\nCoastWatch/West Coast Node, node manager\n\n\nMegan McKinzie\nATN Data manager\n\n\nDaisy Shi\nCoastWatch/Pacific OceanWatch, node manager",
+    "text": "Instructors\n\n\n\nName\nAffiliation\n\n\n\n\nCara Wilson\nCoastWatch/West Coast Node, PI\n\n\nDale Robinson\nCoastWatch/West Coast Node, node manager\n\n\nPeter Hollemans\nCoastWatch/Pacific OceanWatch, node manager",
     "crumbs": [
       "Upcoming Trainings",
       "2026 Satellite 201 Summer Series"
@@ -477,9 +477,9 @@
   {
     "objectID": "courses/sat201_26.html#objectives",
     "href": "courses/sat201_26.html#objectives",
-    "title": "Satellite and Animal Telemetry Data Training",
+    "title": "Satellite 201 Summer Lecture Series",
     "section": "Objectives",
-    "text": "Objectives\n\nDescribe the basic types of products available from satellite data\nDemonstate how to access data on ERDDAP servers\nExplore the data available on the Animal Telemetry Network portal\nIntroduce CoastWatch satellite data training resources\nProvide hands-on time to access data and try tutorials",
+    "text": "Objectives\n\nDescribe the basic types of products available from satellite data\nDemonstate how to access data that is not on ERDDAP servers\nProvide an introduction to SAR (Synthetic Aperature Radar) data\nProvide hands-on time to access data and try tutorials",
     "crumbs": [
       "Upcoming Trainings",
       "2026 Satellite 201 Summer Series"
@@ -488,9 +488,9 @@
   {
     "objectID": "courses/sat201_26.html#schedule",
     "href": "courses/sat201_26.html#schedule",
-    "title": "Satellite and Animal Telemetry Data Training",
+    "title": "Satellite 201 Summer Lecture Series",
     "section": "Schedule",
-    "text": "Schedule\nThursday, August 14, 2025\n\n\n\nTime (PST)\nTopic\nPresenter\n\n\n\n\n10:00 - 10:15\nTraining Overview - CoastWatch, ATN and the workshop component\nCara Wilson\n\n\n10:15 - 11:30\nCoastwatch satellite datasets and data portals\nCara Wilson\n\n\n11:30 - 11:45\nBreak\n\n\n\n11:45 - 12:15\nUsing the ERDDAP data server\nCara Wilson\n\n\n12:15 - 12:45\nAccessing ERDDAP using scripts (R, python)\nCara Wilson\n\n\n12:45 - 1:00\nDay 1 wrap-up\n\n\n\n\nFriday, August 15, 2025\n\n\n\nTime (PST)\nTopic\nPresenter\n\n\n\n\n10:00 - 10:30\nIntro to ATN and the DAC\nMegan McKinzie\n\n\n10:30 - 11:00\nDemo of ATN data portal\nMegan McKinzie\n\n\n11:00 - 11:30\nAccessing public ATN datasets\nMegan McKinzie\n\n\n11:30 - 11:45\nBreak\n\n\n\n11:45 - 12:00\nWorkshop, part 1: Linking CoastWatch and ATN data using scripts\nDaisy Shi\n\n\n12:00 - 12:45\nWorkshop, part 2: Hand’s on time\n\n\n\n12:45 - 13:00\nWrap up and final discussion\nAll",
+    "text": "Schedule\nFriday, July 10, 2026\n\n\n\nTime (PST)\nTopic\nPresenter\n\n\n\n\n11:00 - 11:45\nAccessing data nort on ERDDAP servers\nDale Robinson\n\n\n11:45 - 12:30\na demo\n\n\n\n12:30 - 12:45\nBreak\n\n\n\n12:45 - 1:30\nQuestion & Answer and hand’s on session\n\n\n\n\nFriday, July 17, 2026\n\n\n\nTime (PST)\nTopic\nPresenter\n\n\n\n\n11:00 - 11:45\nIntroduction to using Coastwatch Utilities software\nPeter Hollemans\n\n\n11:45 - 12:30\na demo\n\n\n\n12:30 - 12:45\nBreak\n\n\n\n12:45 - 1:30\nQuestion & Answer and hand’s on session\n\n\n\n\nFriday, July 24, 2026 | Time (PST) | Topic | Presenter | |:————-|:—————————————————————————–|:—————————-| | 11:00 - 11:45 | Introduction to SAR Data | TBD | | 11:45 - 12:30 | TBD Case Study | | | 12:30 - 12:45 | Break | |\n| 12:45 - 1:30 | Question & Answer and hand’s on session | |\nFriday, July 31, 2026\n\n\n\nTime (PST)\nTopic\nPresenter\n\n\n\n\n11:00 - 11:45\nIntroduction to SAR Data\n\n\n\n11:45 - 12:30\nSAR Case Study\n\n\n\n12:30 - 12:45\nBreak\n\n\n\n12:45 - 1:30\nQuestion & Answer and hand’s on session",
     "crumbs": [
       "Upcoming Trainings",
       "2026 Satellite 201 Summer Series"
@@ -499,9 +499,9 @@
   {
     "objectID": "courses/sat201_26.html#resources",
     "href": "courses/sat201_26.html#resources",
-    "title": "Satellite and Animal Telemetry Data Training",
+    "title": "Satellite 201 Summer Lecture Series",
     "section": "Resources",
-    "text": "Resources\n\nCoastwatch Tutorials (on GitHub)\nCoastwatch Lecture series\nAnimal telemetry Network",
+    "text": "Resources\n\nCoastwatch Tutorials (on GitHub)\nCoastwatch Lecture series",
     "crumbs": [
       "Upcoming Trainings",
       "2026 Satellite 201 Summer Series"
