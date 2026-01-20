@@ -46,10 +46,14 @@ website:
         text: Main
       - section: Upcoming Trainings
         contents:
-        - href: courses/icft25.md
-          text: 2025 Satellite and Animal Telemetry
+        - href: courses/pgrsc26.md
+          text: 2026 PGRSC Course
+        - href: courses/sat201_26.md
+          text: 2026 Satellite 201 Summer Series
       - section: Past Trainings
         contents:
+        - href: courses/icft25.md
+          text: 2025 Satellite and Animal Telemetry
         - href: courses/longislandsound25.md
           text: 2025 Long Island Sound        
         - href: courses/pgrsc24.md
