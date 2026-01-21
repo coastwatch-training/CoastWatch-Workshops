@@ -43,7 +43,7 @@ The Day 1 live session will include an introduction to the course and the instru
 |                          |                      | Project Development 1: Make a map on the ERDDAP make-a-graph interface with a dataset from the [CoastWatch Data Catalog](https://oceanwatch.pifsc.noaa.gov/doc.html). Practice downloading the data as a netCDF file using the download interface (i.e., select the nc file format in ERDDAP).                                                                                                              |                     |
 |                          |                      | Project Development 2: Review [presentation guidelines and examples](https://docs.google.com/presentation/d/1OuQQyWOz6x0fnBH_PFQkHTYpTxPtusSPo_ZjrPemkOg/edit?usp=share_link) from previous courses                                                                                                               |                     |
 |                          | 2:00 PM              | Q & A Session                                                                                  |                     |
-| **Day 2 - February 11**   | 9:00 AM  (live session) | Ocean Color Satellite Data Products and Application in the Fisheries                                                                                        | Ryan Vandermeulen    |
+| **Day 2 - February 11**   | 9:00 AM  (live session) | Ocean Color Satellite Data Products and Application in the Fisheries                                                                                        | [Ryan Vandermeulen](https://www.fisheries.noaa.gov/contact/ryan-vandermeulen)    |
 |                          |                      | Using Satellite Data with GIS                       | Lauren Kaiser    |
 |                          | 11:00 AM   (Self-Paced Work)        | Module 1: [Satellite Ocean Color](https://www.youtube.com/watch?v=nDfY8LwEvhI&list=PLu0JklKwuw_3vQPjBEWfZvq_b7B0qPiUm&index=3)                  |            |
 |                          |                    | Module 2: [Satellite Water Quality](https://www.youtube.com/watch?v=3AUWtAK5mWc&list=PLu0JklKwuw_3vQPjBEWfZvq_b7B0qPiUm&index=7)                                                                                                          |                     |
@@ -56,7 +56,7 @@ The Day 1 live session will include an introduction to the course and the instru
 |                          |                    | Project Development 2: Find the data on ERDDAP. Think about what date range and spatial resolution you need, and which time composite you decided to use (daily, weekly, or monthly). You should be able to explain why you chose the specific product.                                                                                                        |                     |
 |                          |                    | Project Development 3: Download data needed for your project and create a plot (map, time-series, etc.)                                                                                               |                     |
 |                          | 2:00 PM              | Q & A Session                                                                                  |                     |
-|   **Day 3 - February 12**  | 9:00 AM  (live session) | Sea Surface Temperature Satellite Data and Applications in Coastal Regions                                                                                    | Kisei Tanaka    |
+|   **Day 3 - February 12**  | 9:00 AM  (live session) | Sea Surface Temperature Satellite Data and Applications in Coastal Regions                                                                                    | [Kisei Tanaka](https://github.com/krtanaka)    |
 |                          |                      | Data Demo                                                                 | Lauren Kaiser    |
 |                          | 11:00 AM   (Self-Paced Work)        | Module 1: [Satellite Sea Surface Temperature](https://www.youtube.com/watch?v=g3t3wsIua2s&list=PLu0JklKwuw_3vQPjBEWfZvq_b7B0qPiUm&index=4)                |            |
 |                          |                    | Module 2: [Satellite Salinity, Wind, and Altimetry](https://youtu.be/nDtVys0UQpM?si=cg-fdeXw3t5XUNei)                                                                                                          |                     |
@@ -77,8 +77,8 @@ The Day 1 live session will include an introduction to the course and the instru
  |:-----------------|:-----------------------------------------------------------------------------|
  | [Daisy Shi](mailto:hui.shi@noaa.gov)         | CoastWatch/Pacific OceanWatch, Operations Manager |
  | [Lauren Kaiser](mailto:lkaiser7@hawaii.edu)     | PacIOOS, Data Management Specialist|
- | [Ryan Vandermeulen](ryan.vandermeulen@noaa.gov)     | NOAA Fisheries Satellite Coordinator  |
- | [Kisei Tanaka](kisei.tanaka@noaa.gov)     | NOAA PIFSC, Research Marine Biologist | 
+ | [Ryan Vandermeulen](mailto:ryan.vandermeulen@noaa.gov)     | NOAA Fisheries Satellite Coordinator  |
+ | [Kisei Tanaka](mailto:kisei.tanaka@noaa.gov)     | NOAA PIFSC, Research Marine Biologist | 
  | [Cara Wilson](mailto:cara.wilson@noaa.gov)       | CoastWatch/West Coast Node, PI |
 
 
