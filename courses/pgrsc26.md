@@ -68,7 +68,7 @@ The Day 1 live session will include an introduction to the course and the instru
 |                          |                    | Project Development 3: Upload your final slide(s) to the [2026 Paticipant Presentation folder](https://drive.google.com/drive/folders/1ae2y-h2KvSSeExP1FfuI-dGrN_plv0Yh?usp=sharing).                                                                        |                     |
 |                          | 2:00 PM              | Q & A Session                                                                                  |                     |
 | **Day 4 - February 13**   | 9:00 AM  (live session) | Participant Presentations (2-minute presentation on your slide(s) )                           |          |
-|                          |                        | Course Feedback                                                                                  |                     |
+|                          |                        | [Course Feedback](https://forms.gle/vNYofsAQcynXVwJv5)                                                                                  |                     |
 
 
 ## Contacts
